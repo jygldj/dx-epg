@@ -8,6 +8,7 @@
     https://dx-epg.pages.dev/epg.xml
 """
 
+import gzip
 import hashlib
 import os
 import sys
@@ -27,6 +28,7 @@ EPG_SOURCES = [
 ]
 
 OUT_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "epg.xml")
+OUT_GZ_PATH = OUT_PATH + ".gz"
 
 UA = "Mozilla/5.0 (compatible; dx-epg/1.0)"
 TIMEOUT = 60
@@ -86,12 +88,15 @@ def main() -> int:
                 else:
                     print(f"[epg] 采用主源 {src}（{size_kb} KB）")
                 print(f"[epg] sha256={digest}")
-                if existing_digest() == digest:
+                if existing_digest() == digest and os.path.isfile(OUT_GZ_PATH):
                     print(f"[epg] 与现有 {OUT_PATH} 内容相同，跳过写入")
                     return 0
                 with open(OUT_PATH, "wb") as f:
                     f.write(data)
-                print(f"[epg] 成功写入 {OUT_PATH}（{size_kb} KB）")
+                with gzip.open(OUT_GZ_PATH, "wb", compresslevel=9) as f:
+                    f.write(data)
+                gz_kb = os.path.getsize(OUT_GZ_PATH) // 1024
+                print(f"[epg] 成功写入 {OUT_PATH}（{size_kb} KB）与 {OUT_GZ_PATH}（{gz_kb} KB）")
                 return 0
             except urllib.error.HTTPError as e:
                 body_preview = e.read(256).decode("utf-8", "ignore").replace("\n", " ")[:256]
