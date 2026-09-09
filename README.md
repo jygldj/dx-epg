@@ -1,4 +1,4 @@
-# dx-iptv · 道玄自有 EPG 仓库
+# dx-epg · 道玄自有 EPG 仓库
 
 把公开 EPG 源**全量镜像**为一份标准 XMLTV 节目单，由 Cloudflare Pages 托管，
 供道玄电视的播放列表（m3u 的 `url-tvg` 头）与 TVBox（`api.json` 的 `epg` 字段）引用。
@@ -10,7 +10,7 @@
 
 | 产物 | 地址 | 用途 |
 |---|---|---|
-| EPG（XMLTV） | `https://dx-iptv.pages.dev/epg.xml` | 播放器 `url-tvg` 头 / TVBox `epg` 字段 |
+| EPG（XMLTV） | `https://dx-epg.pages.dev/epg.xml` | 播放器 `url-tvg` 头 / TVBox `epg` 字段 |
 
 ## 原理
 
@@ -24,7 +24,7 @@ GitHub Actions（每 12h + 手动）
 有变化才写 epg.xml → 普通 commit → 推送 main
       │
       ▼
-Cloudflare Pages 自动发布 → https://dx-iptv.pages.dev/epg.xml
+Cloudflare Pages 自动发布 → https://dx-epg.pages.dev/epg.xml
 ```
 
 ## 文件结构
@@ -51,13 +51,13 @@ Cloudflare Pages 自动发布 → https://dx-iptv.pages.dev/epg.xml
 m3u 头部：
 
 ```
-#EXTM3U url-tvg="https://dx-iptv.pages.dev/epg.xml"
+#EXTM3U url-tvg="https://dx-epg.pages.dev/epg.xml"
 ```
 
 TVBox `api.json` 顶层：
 
 ```json
-{ "epg": "https://dx-iptv.pages.dev/epg.xml" }
+{ "epg": "https://dx-epg.pages.dev/epg.xml" }
 ```
 
 ## 维护

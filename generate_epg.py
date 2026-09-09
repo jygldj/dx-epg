@@ -5,7 +5,7 @@
 =========================================
 全量镜像 fanmingming 的 XMLTV 节目单，落地为仓库根目录 epg.xml。
 由 GitHub Actions 每 12 小时执行一次；有变化才提交，Cloudflare Pages 发布为：
-    https://dx-iptv.pages.dev/epg.xml
+    https://dx-epg.pages.dev/epg.xml
 """
 
 import hashlib
@@ -28,7 +28,7 @@ EPG_SOURCES = [
 
 OUT_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "epg.xml")
 
-UA = "Mozilla/5.0 (compatible; dx-iptv-epg/1.0)"
+UA = "Mozilla/5.0 (compatible; dx-epg/1.0)"
 TIMEOUT = 60
 RETRIES = 3
 MIN_BYTES = 1024 * 1024
