@@ -1,0 +1,42 @@
+name: 更新 EPG
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'        # 每 12 小时（UTC）→ 约北京 08:00 / 20:00
+  workflow_dispatch:             # 允许在 Actions 页面手动触发
+
+permissions:
+  contents: write                # 允许工作流提交并推送回 main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v5
+
+      - name: 配置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 生成 epg.xml（全量镜像 fanmingming）
+        run: python generate_epg.py
+
+      - name: 配置 Git 推送凭据
+        run: |
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+
+      - name: 提交（单提交历史，避免仓库随日更膨胀）
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add epg.xml
+          # 若已有提交则 amend 同一提交，保持仓库仅一条历史，防止大文件日积月累撑爆仓库
+          if git rev-parse HEAD >/dev/null 2>&1; then
+            git commit --amend --no-edit
+          else
+            git commit -m "epg: 初始化"
+          fi
+          git push --force-with-lease origin main
