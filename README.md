@@ -1,68 +1,67 @@
 # dx-epg · 道玄自有 EPG 仓库
 
-把公开 EPG 源**全量镜像**为一份标准 XMLTV 节目单，由 Cloudflare Pages 托管，
-供道玄电视的播放列表（m3u 的 `url-tvg` 头）与 TVBox（`api.json` 的 `epg` 字段）引用。
+把公开 EPG 源全量镜像为一份标准 XMLTV 节目单，由 Cloudflare Pages 托管。
 
-> 本仓前身为直播源聚合器，现改造为**专属 EPG 节目单源**。旧聚合逻辑已退役，
-> 仅保留 Pages 连接（构建命令留空、输出目录=仓库根）。
+实测可用的直播源（OK影视 / 酷9 已出节目单）：
+
+```
+http://dxdszb.pages.dev/dxtv.m3u
+```
 
 ## 对外端点
 
 | 产物 | 地址 | 用途 |
 |---|---|---|
-| EPG（XMLTV） | `https://dx-epg.pages.dev/epg.xml` | 播放器 `url-tvg` 头 / TVBox `epg` 字段 |
+| 直播源 | `http://dxdszb.pages.dev/dxtv.m3u` | OK影视 / 酷9 / 影视仓 直播列表 |
+| EPG gzip | `https://dx-epg.pages.dev/epg.gz` | 与能用源同名，优先填这个 |
+| EPG gzip | `https://dx-epg.pages.dev/epg.xml.gz` | 备用 |
+| EPG XMLTV | `https://dx-epg.pages.dev/epg.xml` | 原始 XML |
 
 ## 原理
 
 ```
 GitHub Actions（每 12h + 手动）
-      │  python generate_epg.py
-      ▼
-拉取上游 XMLTV（fanmingming，失败则回退）
-      │  体积下限 / ElementTree 解析 / sha256
-      ▼
-有变化才写 epg.xml → 普通 commit → 推送 main
-      │
-      ▼
-Cloudflare Pages 自动发布 → https://dx-epg.pages.dev/epg.xml
+      python generate_epg.py
+      拉取上游 XMLTV（fanmingming，失败则回退）
+      体积下限 / ElementTree 解析 / sha256 / CCTV 别名
+      有变化才写 epg.xml、epg.xml.gz、epg.gz
+      推送 main → Cloudflare Pages
 ```
 
 ## 文件结构
 
 | 文件 | 作用 |
 |---|---|
-| `generate_epg.py` | 纯标准库生成器：全量镜像上游 XMLTV，落地 `epg.xml`（重试、XML 解析、哈希跳过） |
-| `.github/workflows/epg.yml` | 每 12 小时 + 手动触发；`epg.xml` 有变化才提交推送 |
-| `epg.xml` | 产出物，由 Pages 托管 |
+| `generate_epg.py` | 镜像上游 XMLTV，写出 xml / gz，并补 CCTV-1 等 display-name |
+| `.github/workflows/epg.yml` | 每 12 小时 + 手动；有变化才提交 |
+| `epg.xml` / `epg.xml.gz` / `epg.gz` | Pages 托管的节目单 |
+| `dxtv.m3u` | 直播列表；头为 `x-tvg-url=.../epg.gz` |
 
-## 上游与策略
+## 接入
 
-- **上游源**：`fanmingming/live` 仓根 `e.xml`（全量 XMLTV，约 8MB）。
-  **主源走 GitHub 原生 raw**：`https://raw.githubusercontent.com/fanmingming/live/main/e.xml`
-  —— GitHub 自身域名在 Actions 运行器 100% 可达，不被 Cloudflare 拦截。
-- **回退源**：`sparkssssssssss/epg` 的 `pp.xml`（异源，频道 id 可能不同）；
-  `live.fanmingming.cn/e.xml` 为 Cloudflare 镜像，Actions 侧常被拦 522，仅作末位备用。
-  `epg.fanmingming.com/xmltv.xml` 已不再使用。
-- **策略**：全量镜像（实现最简，与上游完全一致）；若日后嫌 `epg.xml` 体积过大，
-  可改为「按自有频道表精选合并」（见历史讨论），缩小体积并提升频道名匹配率。
-
-## 接入示例
-
-m3u 头部：
+m3u 头部（OK影视 / 酷9 认 `x-tvg-url` + `.gz`）：
 
 ```
-#EXTM3U url-tvg="https://dx-epg.pages.dev/epg.xml"
+#EXTM3U x-tvg-url="https://dx-epg.pages.dev/epg.gz"
 ```
 
-TVBox `api.json` 顶层：
+频道行用 EPG 的 channel id 作 `tvg-name`：
+
+```
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="央视咪咕",CCTV-1综合
+```
+
+TVBox `api.json`：
 
 ```json
-{ "epg": "https://dx-epg.pages.dev/epg.xml" }
+{ "epg": "https://dx-epg.pages.dev/epg.gz" }
 ```
+
+换源时先删旧直播源再添加，避免缓存旧 EPG。
 
 ## 维护
 
-- 推送 `main` 即触发 Pages 重新部署；也可在 Actions 页面手动 `Run workflow`。
-- 上游失效或内容未变时不提交；上次有效 `epg.xml` 保留。
-- 工作流使用普通 commit（不再 amend / force push）。
-- 推送需仓库 **Settings → Actions → General → Workflow permissions = Read and write**。
+- 推送 `main` 即触发 Pages 重新部署；也可在 Actions 手动 Run workflow
+- 上游失效或内容未变时不提交
+- 工作流使用普通 commit
+- Settings → Actions → General → Workflow permissions = Read and write
