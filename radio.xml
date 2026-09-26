@@ -109,36 +109,10 @@
   <programme start="20260926210000 +0800" stop="20260926235959 +0800" channel="cnr-jtgb"><title>夜行指南</title></programme>
 
   <!-- 北京交通广播 -->
-  <programme start="20260926053000 +0800" stop="20260926060000 +0800" channel="bj-1039"><title>动听天下</title></programme>
-  <programme start="20260926060000 +0800" stop="20260926063000 +0800" channel="bj-1039"><title>徐徐道来话北京</title></programme>
-  <programme start="20260926063000 +0800" stop="20260926073000 +0800" channel="bj-1039"><title>1039新闻早报</title></programme>
-  <programme start="20260926073000 +0800" stop="20260926093000 +0800" channel="bj-1039"><title>一路畅通</title></programme>
-  <programme start="20260926093000 +0800" stop="20260926100000 +0800" channel="bj-1039"><title>跃动的坐标</title></programme>
-  <programme start="20260926100000 +0800" stop="20260926110000 +0800" channel="bj-1039"><title>1039汽车天下</title></programme>
-  <programme start="20260926110000 +0800" stop="20260926120000 +0800" channel="bj-1039"><title>1039慧旅行</title></programme>
-  <programme start="20260926120000 +0800" stop="20260926130000 +0800" channel="bj-1039"><title>欢乐正前方</title></programme>
-  <programme start="20260926130000 +0800" stop="20260926133000 +0800" channel="bj-1039"><title>1039服务热线</title></programme>
-  <programme start="20260926153000 +0800" stop="20260926160000 +0800" channel="bj-1039"><title>1039汽车音乐时间</title></programme>
-  <programme start="20260926160000 +0800" stop="20260926170000 +0800" channel="bj-1039"><title>一路畅通</title></programme>
-  <programme start="20260926170000 +0800" stop="20260926190000 +0800" channel="bj-1039"><title>新闻要知道</title></programme>
-  <programme start="20260926190000 +0800" stop="20260926200000 +0800" channel="bj-1039"><title>1039都市调查组</title></programme>
-  <programme start="20260926200000 +0800" stop="20260926210000 +0800" channel="bj-1039"><title>动听天下(重播)</title></programme>
-  <programme start="20260926210000 +0800" stop="20260926213000 +0800" channel="bj-1039"><title>应急时刻</title></programme>
-  <programme start="20260926220000 +0800" stop="20260926230000 +0800" channel="bj-1039"><title>蓝调北京</title></programme>
 
   <!-- 北京音乐广播 -->
-  <programme start="20260926060000 +0800" stop="20260926120000 +0800" channel="bj-974"><title>晨光音乐</title></programme>
-  <programme start="20260926120000 +0800" stop="20260926180000 +0800" channel="bj-974"><title>音乐下午茶</title></programme>
-  <programme start="20260926200000 +0800" stop="20260926220000 +0800" channel="bj-974"><title>974Live Show</title></programme>
-  <programme start="20260926220000 +0800" stop="20260926235959 +0800" channel="bj-974"><title>深夜电台</title></programme>
 
   <!-- 北京新闻广播 -->
-  <programme start="20260926060000 +0800" stop="20260926070000 +0800" channel="bj-1006"><title>新闻晨报</title></programme>
-  <programme start="20260926070000 +0800" stop="20260926090000 +0800" channel="bj-1006"><title>北京新闻</title></programme>
-  <programme start="20260926090000 +0800" stop="20260926120000 +0800" channel="bj-1006"><title>时政访谈</title></programme>
-  <programme start="20260926120000 +0800" stop="20260926140000 +0800" channel="bj-1006"><title>文化范儿</title></programme>
-  <programme start="20260926140000 +0800" stop="20260926170000 +0800" channel="bj-1006"><title>新闻热线</title></programme>
-  <programme start="20260926170000 +0800" stop="20260926190000 +0800" channel="bj-1006"><title>京津冀之声转接</title></programme>
 
   <!-- 北京文艺广播 -->
   <programme start="20260926063000 +0800" stop="20260926073000 +0800" channel="bj-876"><title>早起听书</title></programme>
@@ -149,15 +123,6 @@
   <programme start="20260926190000 +0800" stop="20260926210000 +0800" channel="bj-876"><title>快乐旅行家</title></programme>
 
   <!-- 重庆新闻广播 -->
-  <programme start="20260926063000 +0800" stop="20260926070000 +0800" channel="cq-968"><title>转播新闻和报纸摘要</title></programme>
-  <programme start="20260926070000 +0800" stop="20260926080000 +0800" channel="cq-968"><title>重庆早新闻</title></programme>
-  <programme start="20260926080000 +0800" stop="20260926100000 +0800" channel="cq-968"><title>菲姐说</title></programme>
-  <programme start="20260926100000 +0800" stop="20260926110000 +0800" channel="cq-968"><title>民呼我为</title></programme>
-  <programme start="20260926110000 +0800" stop="20260926120000 +0800" channel="cq-968"><title>968家长热线</title></programme>
-  <programme start="20260926120000 +0800" stop="20260926130000 +0800" channel="cq-968"><title>好个重庆城</title></programme>
-  <programme start="20260926130000 +0800" stop="20260926140000 +0800" channel="cq-968"><title>身边说法</title></programme>
-  <programme start="20260926163000 +0800" stop="20260926180000 +0800" channel="cq-968"><title>968晚高峰</title></programme>
-  <programme start="20260926183000 +0800" stop="20260926190000 +0800" channel="cq-968"><title>转播全国新闻联播</title></programme>
 
   <!-- 重庆经济广播 -->
   <programme start="20260926070000 +0800" stop="20260926120000 +0800" channel="cq-1015"><title>财经重庆</title></programme>
@@ -166,19 +131,8 @@
   <programme start="20260926170000 +0800" stop="20260926200000 +0800" channel="cq-1015"><title>经济夜话</title></programme>
 
   <!-- 重庆交通广播 -->
-  <programme start="20260926070000 +0800" stop="20260926090000 +0800" channel="cq-955"><title>早安重庆·路况</title></programme>
-  <programme start="20260926090000 +0800" stop="20260926120000 +0800" channel="cq-955"><title>汽车CD</title></programme>
-  <programme start="20260926120000 +0800" stop="20260926140000 +0800" channel="cq-955"><title>出行服务台</title></programme>
-  <programme start="20260926170000 +0800" stop="20260926190000 +0800" channel="cq-955"><title>晚高峰路况</title></programme>
-  <programme start="20260926190000 +0800" stop="20260926210000 +0800" channel="cq-955"><title>交通热线</title></programme>
 
   <!-- 重庆音乐广播 -->
-  <programme start="20260926000000 +0800" stop="20260926060000 +0800" channel="cq-881"><title>音乐永远在</title></programme>
-  <programme start="20260926060000 +0800" stop="20260926073000 +0800" channel="cq-881"><title>音乐风情之旅</title></programme>
-  <programme start="20260926073000 +0800" stop="20260926100000 +0800" channel="cq-881"><title>汽车CD早安秀</title></programme>
-  <programme start="20260926100000 +0800" stop="20260926120000 +0800" channel="cq-881"><title>最流行</title></programme>
-  <programme start="20260926170000 +0800" stop="20260926190000 +0800" channel="cq-881"><title>汽车音乐时间</title></programme>
-  <programme start="20260926190000 +0800" stop="20260926220000 +0800" channel="cq-881"><title>非常可乐帮</title></programme>
 
   <!-- 重庆都市广播 -->
   <programme start="20260926070000 +0800" stop="20260926120000 +0800" channel="cq-938"><title>都市早班车</title></programme>
@@ -195,13 +149,158 @@
   <programme start="20260926183000 +0800" stop="20260926190000 +0800" channel="gs-961"><title>转播全国新闻联播</title></programme>
 
   <!-- 甘肃交通广播 -->
-  <programme start="20260926060000 +0800" stop="20260926070000 +0800" channel="gs-1035"><title>交广早报</title></programme>
-  <programme start="20260926070000 +0800" stop="20260926090000 +0800" channel="gs-1035"><title>路况信息 交警指路</title></programme>
-  <programme start="20260926090000 +0800" stop="20260926110000 +0800" channel="gs-1035"><title>完美车时代</title></programme>
-  <programme start="20260926110000 +0800" stop="20260926120000 +0800" channel="gs-1035"><title>一路秀逍遥</title></programme>
-  <programme start="20260926120000 +0800" stop="20260926123000 +0800" channel="gs-1035"><title>资讯餐吧</title></programme>
-  <programme start="20260926173000 +0800" stop="20260926190000 +0800" channel="gs-1035"><title>有我陪着你</title></programme>
-  <programme start="20260926193000 +0800" stop="20260926200000 +0800" channel="gs-1035"><title>汽车音乐榜</title></programme>
+  <programme start="20260926000000 +0800" stop="20260926010000 +0800" channel="bj-1006"><title>文化范儿（周末版）（重播）</title></programme>
+  <programme start="20260926010000 +0800" stop="20260926012500 +0800" channel="bj-1006"><title>营养最时尚（重播）</title></programme>
+  <programme start="20260926012500 +0800" stop="20260926020000 +0800" channel="bj-1006"><title>照亮新闻深处（重播）</title></programme>
+  <programme start="20260926020000 +0800" stop="20260926023500 +0800" channel="bj-1006"><title>945养生派（重播）</title></programme>
+  <programme start="20260926023500 +0800" stop="20260926030000 +0800" channel="bj-1006"><title>北京的声音（重播）</title></programme>
+  <programme start="20260926030000 +0800" stop="20260926033500 +0800" channel="bj-1006"><title>话里话外（重播）</title></programme>
+  <programme start="20260926033500 +0800" stop="20260926040000 +0800" channel="bj-1006"><title>谜幻时空（重播）</title></programme>
+  <programme start="20260926040000 +0800" stop="20260926050000 +0800" channel="bj-1006"><title>乐海星歌（重播）</title></programme>
+  <programme start="20260926050000 +0800" stop="20260926053500 +0800" channel="bj-1006"><title>科技新视点（重播）</title></programme>
+  <programme start="20260926053500 +0800" stop="20260926060000 +0800" channel="bj-1006"><title>健康北京（重播）</title></programme>
+  <programme start="20260926060000 +0800" stop="20260926062000 +0800" channel="bj-1006"><title>新闻晨报</title></programme>
+  <programme start="20260926062000 +0800" stop="20260926063000 +0800" channel="bj-1006"><title>新闻热线</title></programme>
+  <programme start="20260926063000 +0800" stop="20260926070000 +0800" channel="bj-1006"><title>新闻和报纸摘要</title></programme>
+  <programme start="20260926070000 +0800" stop="20260926072500 +0800" channel="bj-1006"><title>北京新闻</title></programme>
+  <programme start="20260926072500 +0800" stop="20260926073000 +0800" channel="bj-1006"><title>新闻热线</title></programme>
+  <programme start="20260926073000 +0800" stop="20260926090000 +0800" channel="bj-1006"><title>主播在线</title></programme>
+  <programme start="20260926090000 +0800" stop="20260926091500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260926091500 +0800" stop="20260926095000 +0800" channel="bj-1006"><title>财经对对碰</title></programme>
+  <programme start="20260926095000 +0800" stop="20260926100000 +0800" channel="bj-1006"><title>北广生活时间</title></programme>
+  <programme start="20260926100000 +0800" stop="20260926101500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260926101500 +0800" stop="20260926105000 +0800" channel="bj-1006"><title>话里话外</title></programme>
+  <programme start="20260926105000 +0800" stop="20260926110000 +0800" channel="bj-1006"><title>北广生活时间</title></programme>
+  <programme start="20260926110000 +0800" stop="20260926120000 +0800" channel="bj-1006"><title>档案</title></programme>
+  <programme start="20260926120000 +0800" stop="20260926121000 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260926121000 +0800" stop="20260926125000 +0800" channel="bj-1006"><title>945养生派</title></programme>
+  <programme start="20260926125000 +0800" stop="20260926130000 +0800" channel="bj-1006"><title>北广生活时间</title></programme>
+  <programme start="20260926130000 +0800" stop="20260926131000 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260926131000 +0800" stop="20260926140000 +0800" channel="bj-1006"><title>乐海星歌</title></programme>
+  <programme start="20260926140000 +0800" stop="20260926141500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260926141500 +0800" stop="20260926150000 +0800" channel="bj-1006"><title>文化范儿（周末版）</title></programme>
+  <programme start="20260926150000 +0800" stop="20260926151500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260926151500 +0800" stop="20260926160000 +0800" channel="bj-1006"><title>科技新视点（重播）</title></programme>
+  <programme start="20260926160000 +0800" stop="20260926161500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260926161500 +0800" stop="20260926170000 +0800" channel="bj-1006"><title>照亮新闻深处（重播）</title></programme>
+  <programme start="20260926170000 +0800" stop="20260926180000 +0800" channel="bj-1006"><title>周末赛场</title></programme>
+  <programme start="20260926180000 +0800" stop="20260926190000 +0800" channel="bj-1006"><title>新闻2026</title></programme>
+  <programme start="20260926190000 +0800" stop="20260926193000 +0800" channel="bj-1006"><title>央视新闻联播</title></programme>
+  <programme start="20260926193000 +0800" stop="20260926200000 +0800" channel="bj-1006"><title>健康北京</title></programme>
+  <programme start="20260926200000 +0800" stop="20260926201500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260926201500 +0800" stop="20260926210000 +0800" channel="bj-1006"><title>照亮新闻深处</title></programme>
+  <programme start="20260926210000 +0800" stop="20260926211000 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260926211000 +0800" stop="20260926220000 +0800" channel="bj-1006"><title>945养生派（重播）</title></programme>
+  <programme start="20260926220000 +0800" stop="20260926221000 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260926221000 +0800" stop="20260926223500 +0800" channel="bj-1006"><title>北京的声音</title></programme>
+  <programme start="20260926223500 +0800" stop="20260926230000 +0800" channel="bj-1006"><title>谜幻时空</title></programme>
+  <programme start="20260926230000 +0800" stop="20260926235900 +0800" channel="bj-1006"><title>新闻2026（重播）</title></programme>
+  <programme start="20260926000000 +0800" stop="20260926070000 +0800" channel="bj-974"><title>乐海星歌</title></programme>
+  <programme start="20260926070000 +0800" stop="20260926090000 +0800" channel="bj-974"><title>早安音乐秀</title></programme>
+  <programme start="20260926090000 +0800" stop="20260926110000 +0800" channel="bj-974"><title>华人歌曲周末派</title></programme>
+  <programme start="20260926110000 +0800" stop="20260926130000 +0800" channel="bj-974"><title>音乐剧现场</title></programme>
+  <programme start="20260926130000 +0800" stop="20260926160000 +0800" channel="bj-974"><title>节奏驾到</title></programme>
+  <programme start="20260926160000 +0800" stop="20260926170000 +0800" channel="bj-974"><title>京港话你知</title></programme>
+  <programme start="20260926170000 +0800" stop="20260926190000 +0800" channel="bj-974"><title>娱乐最王牌</title></programme>
+  <programme start="20260926190000 +0800" stop="20260926200000 +0800" channel="bj-974"><title>华语金曲星光荟</title></programme>
+  <programme start="20260926200000 +0800" stop="20260926220000 +0800" channel="bj-974"><title>974 LIVE SHOW</title></programme>
+  <programme start="20260926220000 +0800" stop="20260926230000 +0800" channel="bj-974"><title>就听好歌不听话</title></programme>
+  <programme start="20260926230000 +0800" stop="20260926235900 +0800" channel="bj-974"><title>国家大剧院</title></programme>
+  <programme start="20260926000000 +0800" stop="20260926010000 +0800" channel="bj-1039"><title>欢乐正前方·就是这个味（重播）</title></programme>
+  <programme start="20260926010000 +0800" stop="20260926020000 +0800" channel="bj-1039"><title>1039慧旅行（重播）</title></programme>
+  <programme start="20260926020000 +0800" stop="20260926030000 +0800" channel="bj-1039"><title>行走天下（重播）</title></programme>
+  <programme start="20260926030000 +0800" stop="20260926040000 +0800" channel="bj-1039"><title>拾光聚会（重播）</title></programme>
+  <programme start="20260926040000 +0800" stop="20260926050000 +0800" channel="bj-1039"><title>蓝调北京（重播）</title></programme>
+  <programme start="20260926050000 +0800" stop="20260926053000 +0800" channel="bj-1039"><title>1039听见（重播）</title></programme>
+  <programme start="20260926053000 +0800" stop="20260926060000 +0800" channel="bj-1039"><title>动听天下</title></programme>
+  <programme start="20260926060000 +0800" stop="20260926063000 +0800" channel="bj-1039"><title>徐徐道来话北京</title></programme>
+  <programme start="20260926063000 +0800" stop="20260926072000 +0800" channel="bj-1039"><title>1039新闻早报</title></programme>
+  <programme start="20260926072000 +0800" stop="20260926073000 +0800" channel="bj-1039"><title>今日交通</title></programme>
+  <programme start="20260926073000 +0800" stop="20260926093000 +0800" channel="bj-1039"><title>一路畅通</title></programme>
+  <programme start="20260926093000 +0800" stop="20260926100000 +0800" channel="bj-1039"><title>跃动的坐标</title></programme>
+  <programme start="20260926100000 +0800" stop="20260926110000 +0800" channel="bj-1039"><title>1039汽车天下</title></programme>
+  <programme start="20260926110000 +0800" stop="20260926120000 +0800" channel="bj-1039"><title>1039慧旅行</title></programme>
+  <programme start="20260926120000 +0800" stop="20260926130000 +0800" channel="bj-1039"><title>欢乐正前方·就是这个味儿</title></programme>
+  <programme start="20260926130000 +0800" stop="20260926140000 +0800" channel="bj-1039"><title>1039剧场</title></programme>
+  <programme start="20260926140000 +0800" stop="20260926150000 +0800" channel="bj-1039"><title>1039服务热线</title></programme>
+  <programme start="20260926150000 +0800" stop="20260926153000 +0800" channel="bj-1039"><title>动听天下（重播）</title></programme>
+  <programme start="20260926153000 +0800" stop="20260926160000 +0800" channel="bj-1039"><title>1039听见</title></programme>
+  <programme start="20260926160000 +0800" stop="20260926170000 +0800" channel="bj-1039"><title>行走天下</title></programme>
+  <programme start="20260926170000 +0800" stop="20260926190000 +0800" channel="bj-1039"><title>一路畅通·他俩能成</title></programme>
+  <programme start="20260926190000 +0800" stop="20260926200000 +0800" channel="bj-1039"><title>拾光聚会</title></programme>
+  <programme start="20260926200000 +0800" stop="20260926210000 +0800" channel="bj-1039"><title>峰回路转</title></programme>
+  <programme start="20260926210000 +0800" stop="20260926213000 +0800" channel="bj-1039"><title>动听天下（重播）</title></programme>
+  <programme start="20260926213000 +0800" stop="20260926220000 +0800" channel="bj-1039"><title>跃动的坐标（重播）</title></programme>
+  <programme start="20260926220000 +0800" stop="20260926230000 +0800" channel="bj-1039"><title>蓝调北京</title></programme>
+  <programme start="20260926230000 +0800" stop="20260926235900 +0800" channel="bj-1039"><title>1039剧场（重播）</title></programme>
+  <programme start="20260926000000 +0800" stop="20260926060000 +0800" channel="cq-968"><title>广告专题</title></programme>
+  <programme start="20260926060000 +0800" stop="20260926062000 +0800" channel="cq-968"><title>早安重庆</title></programme>
+  <programme start="20260926062000 +0800" stop="20260926063000 +0800" channel="cq-968"><title>名曲鉴赏</title></programme>
+  <programme start="20260926063000 +0800" stop="20260926070000 +0800" channel="cq-968"><title>转播新闻和报纸摘要</title></programme>
+  <programme start="20260926070000 +0800" stop="20260926080000 +0800" channel="cq-968"><title>重庆早新闻</title></programme>
+  <programme start="20260926080000 +0800" stop="20260926090000 +0800" channel="cq-968"><title>重庆早新闻</title></programme>
+  <programme start="20260926090000 +0800" stop="20260926100000 +0800" channel="cq-968"><title>魅力周末</title></programme>
+  <programme start="20260926100000 +0800" stop="20260926110000 +0800" channel="cq-968"><title>身边说法（重播）</title></programme>
+  <programme start="20260926110000 +0800" stop="20260926120000 +0800" channel="cq-968"><title>968家长热线（重播）</title></programme>
+  <programme start="20260926120000 +0800" stop="20260926130000 +0800" channel="cq-968"><title>山城论健（重播）</title></programme>
+  <programme start="20260926130000 +0800" stop="20260926140000 +0800" channel="cq-968"><title>身边说法（重播）</title></programme>
+  <programme start="20260926140000 +0800" stop="20260926150000 +0800" channel="cq-968"><title>968家长热线（重播）</title></programme>
+  <programme start="20260926150000 +0800" stop="20260926160000 +0800" channel="cq-968"><title>民呼我为热线（重播）</title></programme>
+  <programme start="20260926160000 +0800" stop="20260926170000 +0800" channel="cq-968"><title>山城论健（重播）</title></programme>
+  <programme start="20260926170000 +0800" stop="20260926180000 +0800" channel="cq-968"><title>魅力周末</title></programme>
+  <programme start="20260926180000 +0800" stop="20260926183000 +0800" channel="cq-968"><title>重庆之声·阳光关注</title></programme>
+  <programme start="20260926183000 +0800" stop="20260926190000 +0800" channel="cq-968"><title>转播全国新闻联播</title></programme>
+  <programme start="20260926190000 +0800" stop="20260926193000 +0800" channel="cq-968"><title>真相</title></programme>
+  <programme start="20260926193000 +0800" stop="20260926200000 +0800" channel="cq-968"><title>重庆之声·阳光关注（重播）</title></programme>
+  <programme start="20260926200000 +0800" stop="20260926210000 +0800" channel="cq-968"><title>身边说法（重播）</title></programme>
+  <programme start="20260926210000 +0800" stop="20260926220000 +0800" channel="cq-968"><title>968家长热线（重播）</title></programme>
+  <programme start="20260926220000 +0800" stop="20260926230000 +0800" channel="cq-968"><title>山城论健（重播）</title></programme>
+  <programme start="20260926230000 +0800" stop="20260926235900 +0800" channel="cq-968"><title>民呼我为热线（重播）</title></programme>
+  <programme start="20260926000000 +0800" stop="20260926060000 +0800" channel="cq-955"><title>一路倾听</title></programme>
+  <programme start="20260926060000 +0800" stop="20260926070000 +0800" channel="cq-955"><title>健康面对面</title></programme>
+  <programme start="20260926070000 +0800" stop="20260926073000 +0800" channel="cq-955"><title>重庆好故事</title></programme>
+  <programme start="20260926073000 +0800" stop="20260926083000 +0800" channel="cq-955"><title>资讯早班车</title></programme>
+  <programme start="20260926083000 +0800" stop="20260926100000 +0800" channel="cq-955"><title>955与你相随</title></programme>
+  <programme start="20260926100000 +0800" stop="20260926110000 +0800" channel="cq-955"><title>交广乐逍遥</title></programme>
+  <programme start="20260926110000 +0800" stop="20260926120000 +0800" channel="cq-955"><title>驾驶员俱乐部</title></programme>
+  <programme start="20260926120000 +0800" stop="20260926123000 +0800" channel="cq-955"><title>向左走向右走</title></programme>
+  <programme start="20260926123000 +0800" stop="20260926130000 +0800" channel="cq-955"><title>重庆好故事</title></programme>
+  <programme start="20260926130000 +0800" stop="20260926140000 +0800" channel="cq-955"><title>小咖看世界</title></programme>
+  <programme start="20260926140000 +0800" stop="20260926150000 +0800" channel="cq-955"><title>向快乐出发</title></programme>
+  <programme start="20260926150000 +0800" stop="20260926160000 +0800" channel="cq-955"><title>汽车俱乐部</title></programme>
+  <programme start="20260926160000 +0800" stop="20260926170000 +0800" channel="cq-955"><title>健康面对面</title></programme>
+  <programme start="20260926170000 +0800" stop="20260926180000 +0800" channel="cq-955"><title>交广乐逍遥</title></programme>
+  <programme start="20260926180000 +0800" stop="20260926190000 +0800" channel="cq-955"><title>交广关注</title></programme>
+  <programme start="20260926190000 +0800" stop="20260926200000 +0800" channel="cq-955"><title>955车友生活</title></programme>
+  <programme start="20260926200000 +0800" stop="20260926210000 +0800" channel="cq-955"><title>人车在线</title></programme>
+  <programme start="20260926210000 +0800" stop="20260926220000 +0800" channel="cq-955"><title>小咖看世界</title></programme>
+  <programme start="20260926220000 +0800" stop="20260926230000 +0800" channel="cq-955"><title>交广乐逍遥</title></programme>
+  <programme start="20260926230000 +0800" stop="20260926235900 +0800" channel="cq-955"><title>一路倾听</title></programme>
+  <programme start="20260926000000 +0800" stop="20260926060000 +0800" channel="cq-881"><title>一整晚的音乐</title></programme>
+  <programme start="20260926060000 +0800" stop="20260926063000 +0800" channel="cq-881"><title>音乐问早安</title></programme>
+  <programme start="20260926063000 +0800" stop="20260926073000 +0800" channel="cq-881"><title>古典也流行</title></programme>
+  <programme start="20260926073000 +0800" stop="20260926090000 +0800" channel="cq-881"><title>音乐爱周末</title></programme>
+  <programme start="20260926090000 +0800" stop="20260926100000 +0800" channel="cq-881"><title>城市音乐杂志</title></programme>
+  <programme start="20260926100000 +0800" stop="20260926110000 +0800" channel="cq-881"><title>音乐风情之旅</title></programme>
+  <programme start="20260926110000 +0800" stop="20260926120000 +0800" channel="cq-881"><title>音乐爱周末</title></programme>
+  <programme start="20260926120000 +0800" stop="20260926130000 +0800" channel="cq-881"><title>电影在歌唱</title></programme>
+  <programme start="20260926130000 +0800" stop="20260926140000 +0800" channel="cq-881"><title>音乐博客</title></programme>
+  <programme start="20260926140000 +0800" stop="20260926150000 +0800" channel="cq-881"><title>姐姐的音乐书吧</title></programme>
+  <programme start="20260926150000 +0800" stop="20260926210000 +0800" channel="cq-881"><title>音乐爱周末</title></programme>
+  <programme start="20260926210000 +0800" stop="20260926220000 +0800" channel="cq-881"><title>爵士星空</title></programme>
+  <programme start="20260926220000 +0800" stop="20260926230000 +0800" channel="cq-881"><title>音乐爱周末</title></programme>
+  <programme start="20260926230000 +0800" stop="20260926235900 +0800" channel="cq-881"><title>音乐风情之旅</title></programme>
+  <programme start="20260926000000 +0800" stop="20260926010000 +0800" channel="gs-1035"><title>晚安甘肃（录播）</title></programme>
+  <programme start="20260926060000 +0800" stop="20260926070000 +0800" channel="gs-1035"><title>音乐第一班（录播）</title></programme>
+  <programme start="20260926070000 +0800" stop="20260926090000 +0800" channel="gs-1035"><title>早安甘肃</title></programme>
+  <programme start="20260926090000 +0800" stop="20260926110000 +0800" channel="gs-1035"><title>交通你发言</title></programme>
+  <programme start="20260926110000 +0800" stop="20260926130000 +0800" channel="gs-1035"><title>旅行大玩家</title></programme>
+  <programme start="20260926130000 +0800" stop="20260926150000 +0800" channel="gs-1035"><title>尕兰州喧车</title></programme>
+  <programme start="20260926150000 +0800" stop="20260926170000 +0800" channel="gs-1035"><title>1035幸福家</title></programme>
+  <programme start="20260926170000 +0800" stop="20260926190000 +0800" channel="gs-1035"><title>欢乐正前方</title></programme>
+  <programme start="20260926190000 +0800" stop="20260926210000 +0800" channel="gs-1035"><title>1035甄选</title></programme>
+  <programme start="20260926210000 +0800" stop="20260926230000 +0800" channel="gs-1035"><title>车外有星光</title></programme>
+  <programme start="20260926230000 +0800" stop="20260926235900 +0800" channel="gs-1035"><title>晚安甘肃（录播）</title></programme>
 <!-- 中国之声（通用日表） -->
   <programme start="20260927000000 +0800" stop="20260927000030 +0800" channel="cnr-zgzs"><title>档案揭秘</title></programme>
   <programme start="20260927000030 +0800" stop="20260927010000 +0800" channel="cnr-zgzs"><title>记录中国</title></programme>
@@ -292,36 +391,10 @@
   <programme start="20260927210000 +0800" stop="20260927235959 +0800" channel="cnr-jtgb"><title>夜行指南</title></programme>
 
   <!-- 北京交通广播 -->
-  <programme start="20260927053000 +0800" stop="20260927060000 +0800" channel="bj-1039"><title>动听天下</title></programme>
-  <programme start="20260927060000 +0800" stop="20260927063000 +0800" channel="bj-1039"><title>徐徐道来话北京</title></programme>
-  <programme start="20260927063000 +0800" stop="20260927073000 +0800" channel="bj-1039"><title>1039新闻早报</title></programme>
-  <programme start="20260927073000 +0800" stop="20260927093000 +0800" channel="bj-1039"><title>一路畅通</title></programme>
-  <programme start="20260927093000 +0800" stop="20260927100000 +0800" channel="bj-1039"><title>跃动的坐标</title></programme>
-  <programme start="20260927100000 +0800" stop="20260927110000 +0800" channel="bj-1039"><title>1039汽车天下</title></programme>
-  <programme start="20260927110000 +0800" stop="20260927120000 +0800" channel="bj-1039"><title>1039慧旅行</title></programme>
-  <programme start="20260927120000 +0800" stop="20260927130000 +0800" channel="bj-1039"><title>欢乐正前方</title></programme>
-  <programme start="20260927130000 +0800" stop="20260927133000 +0800" channel="bj-1039"><title>1039服务热线</title></programme>
-  <programme start="20260927153000 +0800" stop="20260927160000 +0800" channel="bj-1039"><title>1039汽车音乐时间</title></programme>
-  <programme start="20260927160000 +0800" stop="20260927170000 +0800" channel="bj-1039"><title>一路畅通</title></programme>
-  <programme start="20260927170000 +0800" stop="20260927190000 +0800" channel="bj-1039"><title>新闻要知道</title></programme>
-  <programme start="20260927190000 +0800" stop="20260927200000 +0800" channel="bj-1039"><title>1039都市调查组</title></programme>
-  <programme start="20260927200000 +0800" stop="20260927210000 +0800" channel="bj-1039"><title>动听天下(重播)</title></programme>
-  <programme start="20260927210000 +0800" stop="20260927213000 +0800" channel="bj-1039"><title>应急时刻</title></programme>
-  <programme start="20260927220000 +0800" stop="20260927230000 +0800" channel="bj-1039"><title>蓝调北京</title></programme>
 
   <!-- 北京音乐广播 -->
-  <programme start="20260927060000 +0800" stop="20260927120000 +0800" channel="bj-974"><title>晨光音乐</title></programme>
-  <programme start="20260927120000 +0800" stop="20260927180000 +0800" channel="bj-974"><title>音乐下午茶</title></programme>
-  <programme start="20260927200000 +0800" stop="20260927220000 +0800" channel="bj-974"><title>974Live Show</title></programme>
-  <programme start="20260927220000 +0800" stop="20260927235959 +0800" channel="bj-974"><title>深夜电台</title></programme>
 
   <!-- 北京新闻广播 -->
-  <programme start="20260927060000 +0800" stop="20260927070000 +0800" channel="bj-1006"><title>新闻晨报</title></programme>
-  <programme start="20260927070000 +0800" stop="20260927090000 +0800" channel="bj-1006"><title>北京新闻</title></programme>
-  <programme start="20260927090000 +0800" stop="20260927120000 +0800" channel="bj-1006"><title>时政访谈</title></programme>
-  <programme start="20260927120000 +0800" stop="20260927140000 +0800" channel="bj-1006"><title>文化范儿</title></programme>
-  <programme start="20260927140000 +0800" stop="20260927170000 +0800" channel="bj-1006"><title>新闻热线</title></programme>
-  <programme start="20260927170000 +0800" stop="20260927190000 +0800" channel="bj-1006"><title>京津冀之声转接</title></programme>
 
   <!-- 北京文艺广播 -->
   <programme start="20260927063000 +0800" stop="20260927073000 +0800" channel="bj-876"><title>早起听书</title></programme>
@@ -332,15 +405,6 @@
   <programme start="20260927190000 +0800" stop="20260927210000 +0800" channel="bj-876"><title>快乐旅行家</title></programme>
 
   <!-- 重庆新闻广播 -->
-  <programme start="20260927063000 +0800" stop="20260927070000 +0800" channel="cq-968"><title>转播新闻和报纸摘要</title></programme>
-  <programme start="20260927070000 +0800" stop="20260927080000 +0800" channel="cq-968"><title>重庆早新闻</title></programme>
-  <programme start="20260927080000 +0800" stop="20260927100000 +0800" channel="cq-968"><title>菲姐说</title></programme>
-  <programme start="20260927100000 +0800" stop="20260927110000 +0800" channel="cq-968"><title>民呼我为</title></programme>
-  <programme start="20260927110000 +0800" stop="20260927120000 +0800" channel="cq-968"><title>968家长热线</title></programme>
-  <programme start="20260927120000 +0800" stop="20260927130000 +0800" channel="cq-968"><title>好个重庆城</title></programme>
-  <programme start="20260927130000 +0800" stop="20260927140000 +0800" channel="cq-968"><title>身边说法</title></programme>
-  <programme start="20260927163000 +0800" stop="20260927180000 +0800" channel="cq-968"><title>968晚高峰</title></programme>
-  <programme start="20260927183000 +0800" stop="20260927190000 +0800" channel="cq-968"><title>转播全国新闻联播</title></programme>
 
   <!-- 重庆经济广播 -->
   <programme start="20260927070000 +0800" stop="20260927120000 +0800" channel="cq-1015"><title>财经重庆</title></programme>
@@ -349,19 +413,8 @@
   <programme start="20260927170000 +0800" stop="20260927200000 +0800" channel="cq-1015"><title>经济夜话</title></programme>
 
   <!-- 重庆交通广播 -->
-  <programme start="20260927070000 +0800" stop="20260927090000 +0800" channel="cq-955"><title>早安重庆·路况</title></programme>
-  <programme start="20260927090000 +0800" stop="20260927120000 +0800" channel="cq-955"><title>汽车CD</title></programme>
-  <programme start="20260927120000 +0800" stop="20260927140000 +0800" channel="cq-955"><title>出行服务台</title></programme>
-  <programme start="20260927170000 +0800" stop="20260927190000 +0800" channel="cq-955"><title>晚高峰路况</title></programme>
-  <programme start="20260927190000 +0800" stop="20260927210000 +0800" channel="cq-955"><title>交通热线</title></programme>
 
   <!-- 重庆音乐广播 -->
-  <programme start="20260927000000 +0800" stop="20260927060000 +0800" channel="cq-881"><title>音乐永远在</title></programme>
-  <programme start="20260927060000 +0800" stop="20260927073000 +0800" channel="cq-881"><title>音乐风情之旅</title></programme>
-  <programme start="20260927073000 +0800" stop="20260927100000 +0800" channel="cq-881"><title>汽车CD早安秀</title></programme>
-  <programme start="20260927100000 +0800" stop="20260927120000 +0800" channel="cq-881"><title>最流行</title></programme>
-  <programme start="20260927170000 +0800" stop="20260927190000 +0800" channel="cq-881"><title>汽车音乐时间</title></programme>
-  <programme start="20260927190000 +0800" stop="20260927220000 +0800" channel="cq-881"><title>非常可乐帮</title></programme>
 
   <!-- 重庆都市广播 -->
   <programme start="20260927070000 +0800" stop="20260927120000 +0800" channel="cq-938"><title>都市早班车</title></programme>
@@ -378,13 +431,157 @@
   <programme start="20260927183000 +0800" stop="20260927190000 +0800" channel="gs-961"><title>转播全国新闻联播</title></programme>
 
   <!-- 甘肃交通广播 -->
-  <programme start="20260927060000 +0800" stop="20260927070000 +0800" channel="gs-1035"><title>交广早报</title></programme>
-  <programme start="20260927070000 +0800" stop="20260927090000 +0800" channel="gs-1035"><title>路况信息 交警指路</title></programme>
-  <programme start="20260927090000 +0800" stop="20260927110000 +0800" channel="gs-1035"><title>完美车时代</title></programme>
-  <programme start="20260927110000 +0800" stop="20260927120000 +0800" channel="gs-1035"><title>一路秀逍遥</title></programme>
-  <programme start="20260927120000 +0800" stop="20260927123000 +0800" channel="gs-1035"><title>资讯餐吧</title></programme>
-  <programme start="20260927173000 +0800" stop="20260927190000 +0800" channel="gs-1035"><title>有我陪着你</title></programme>
-  <programme start="20260927193000 +0800" stop="20260927200000 +0800" channel="gs-1035"><title>汽车音乐榜</title></programme>
+  <programme start="20260927000000 +0800" stop="20260927010000 +0800" channel="bj-1006"><title>文化范儿（周末版）（重播）</title></programme>
+  <programme start="20260927010000 +0800" stop="20260927012500 +0800" channel="bj-1006"><title>营养最时尚（重播）</title></programme>
+  <programme start="20260927012500 +0800" stop="20260927020000 +0800" channel="bj-1006"><title>照亮新闻深处（重播）</title></programme>
+  <programme start="20260927020000 +0800" stop="20260927023500 +0800" channel="bj-1006"><title>945养生派（重播）</title></programme>
+  <programme start="20260927023500 +0800" stop="20260927030000 +0800" channel="bj-1006"><title>北京的声音（重播）</title></programme>
+  <programme start="20260927030000 +0800" stop="20260927033500 +0800" channel="bj-1006"><title>话里话外（重播）</title></programme>
+  <programme start="20260927033500 +0800" stop="20260927040000 +0800" channel="bj-1006"><title>谜幻时空（重播）</title></programme>
+  <programme start="20260927040000 +0800" stop="20260927050000 +0800" channel="bj-1006"><title>乐海星歌（重播）</title></programme>
+  <programme start="20260927050000 +0800" stop="20260927053500 +0800" channel="bj-1006"><title>科技新视点（重播）</title></programme>
+  <programme start="20260927053500 +0800" stop="20260927060000 +0800" channel="bj-1006"><title>健康北京（重播）</title></programme>
+  <programme start="20260927060000 +0800" stop="20260927062000 +0800" channel="bj-1006"><title>新闻晨报</title></programme>
+  <programme start="20260927062000 +0800" stop="20260927063000 +0800" channel="bj-1006"><title>新闻热线</title></programme>
+  <programme start="20260927063000 +0800" stop="20260927070000 +0800" channel="bj-1006"><title>新闻和报纸摘要</title></programme>
+  <programme start="20260927070000 +0800" stop="20260927072500 +0800" channel="bj-1006"><title>北京新闻</title></programme>
+  <programme start="20260927072500 +0800" stop="20260927073000 +0800" channel="bj-1006"><title>新闻热线</title></programme>
+  <programme start="20260927073000 +0800" stop="20260927090000 +0800" channel="bj-1006"><title>主播在线</title></programme>
+  <programme start="20260927090000 +0800" stop="20260927091500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260927091500 +0800" stop="20260927095000 +0800" channel="bj-1006"><title>财经对对碰</title></programme>
+  <programme start="20260927095000 +0800" stop="20260927100000 +0800" channel="bj-1006"><title>北广生活时间</title></programme>
+  <programme start="20260927100000 +0800" stop="20260927101500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260927101500 +0800" stop="20260927105000 +0800" channel="bj-1006"><title>话里话外</title></programme>
+  <programme start="20260927105000 +0800" stop="20260927110000 +0800" channel="bj-1006"><title>北广生活时间</title></programme>
+  <programme start="20260927110000 +0800" stop="20260927120000 +0800" channel="bj-1006"><title>档案</title></programme>
+  <programme start="20260927120000 +0800" stop="20260927121000 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260927121000 +0800" stop="20260927125000 +0800" channel="bj-1006"><title>945养生派</title></programme>
+  <programme start="20260927125000 +0800" stop="20260927130000 +0800" channel="bj-1006"><title>北广生活时间</title></programme>
+  <programme start="20260927130000 +0800" stop="20260927131000 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260927131000 +0800" stop="20260927140000 +0800" channel="bj-1006"><title>乐海星歌</title></programme>
+  <programme start="20260927140000 +0800" stop="20260927141500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260927141500 +0800" stop="20260927150000 +0800" channel="bj-1006"><title>文化范儿（周末版）</title></programme>
+  <programme start="20260927150000 +0800" stop="20260927151500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260927151500 +0800" stop="20260927160000 +0800" channel="bj-1006"><title>科技新视点（重播）</title></programme>
+  <programme start="20260927160000 +0800" stop="20260927161500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260927161500 +0800" stop="20260927170000 +0800" channel="bj-1006"><title>照亮新闻深处（重播）</title></programme>
+  <programme start="20260927170000 +0800" stop="20260927180000 +0800" channel="bj-1006"><title>营养最时尚</title></programme>
+  <programme start="20260927180000 +0800" stop="20260927190000 +0800" channel="bj-1006"><title>新闻2026</title></programme>
+  <programme start="20260927190000 +0800" stop="20260927193000 +0800" channel="bj-1006"><title>央视新闻联播</title></programme>
+  <programme start="20260927193000 +0800" stop="20260927200000 +0800" channel="bj-1006"><title>健康北京</title></programme>
+  <programme start="20260927200000 +0800" stop="20260927201500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260927201500 +0800" stop="20260927210000 +0800" channel="bj-1006"><title>照亮新闻深处</title></programme>
+  <programme start="20260927210000 +0800" stop="20260927211000 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260927211000 +0800" stop="20260927220000 +0800" channel="bj-1006"><title>945养生派（重播）</title></programme>
+  <programme start="20260927220000 +0800" stop="20260927221000 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260927221000 +0800" stop="20260927223500 +0800" channel="bj-1006"><title>北京的声音</title></programme>
+  <programme start="20260927223500 +0800" stop="20260927230000 +0800" channel="bj-1006"><title>谜幻时空</title></programme>
+  <programme start="20260927230000 +0800" stop="20260927235900 +0800" channel="bj-1006"><title>新闻2026（重播）</title></programme>
+  <programme start="20260927000000 +0800" stop="20260927070000 +0800" channel="bj-974"><title>乐海星歌</title></programme>
+  <programme start="20260927070000 +0800" stop="20260927090000 +0800" channel="bj-974"><title>早安音乐秀</title></programme>
+  <programme start="20260927090000 +0800" stop="20260927110000 +0800" channel="bj-974"><title>华人歌曲周末派</title></programme>
+  <programme start="20260927110000 +0800" stop="20260927130000 +0800" channel="bj-974"><title>复刻唱片行</title></programme>
+  <programme start="20260927130000 +0800" stop="20260927160000 +0800" channel="bj-974"><title>节奏驾到</title></programme>
+  <programme start="20260927160000 +0800" stop="20260927170000 +0800" channel="bj-974"><title>京港话你知</title></programme>
+  <programme start="20260927170000 +0800" stop="20260927190000 +0800" channel="bj-974"><title>娱乐最王牌</title></programme>
+  <programme start="20260927190000 +0800" stop="20260927200000 +0800" channel="bj-974"><title>华语金曲星光荟</title></programme>
+  <programme start="20260927200000 +0800" stop="20260927220000 +0800" channel="bj-974"><title>974 LIVE SHOW</title></programme>
+  <programme start="20260927220000 +0800" stop="20260927230000 +0800" channel="bj-974"><title>就听好歌不听话</title></programme>
+  <programme start="20260927230000 +0800" stop="20260927235900 +0800" channel="bj-974"><title>国家大剧院</title></programme>
+  <programme start="20260927000000 +0800" stop="20260927010000 +0800" channel="bj-1039"><title>欢乐正前方·就是这个味（重播）</title></programme>
+  <programme start="20260927010000 +0800" stop="20260927020000 +0800" channel="bj-1039"><title>1039慧旅行（重播）</title></programme>
+  <programme start="20260927020000 +0800" stop="20260927030000 +0800" channel="bj-1039"><title>行走天下（重播）</title></programme>
+  <programme start="20260927030000 +0800" stop="20260927040000 +0800" channel="bj-1039"><title>拾光聚会（重播）</title></programme>
+  <programme start="20260927040000 +0800" stop="20260927050000 +0800" channel="bj-1039"><title>蓝调北京（重播）</title></programme>
+  <programme start="20260927050000 +0800" stop="20260927053000 +0800" channel="bj-1039"><title>峰回路转（重播）</title></programme>
+  <programme start="20260927053000 +0800" stop="20260927060000 +0800" channel="bj-1039"><title>动听天下</title></programme>
+  <programme start="20260927060000 +0800" stop="20260927063000 +0800" channel="bj-1039"><title>徐徐道来话北京</title></programme>
+  <programme start="20260927063000 +0800" stop="20260927072000 +0800" channel="bj-1039"><title>1039新闻早报</title></programme>
+  <programme start="20260927072000 +0800" stop="20260927073000 +0800" channel="bj-1039"><title>今日交通</title></programme>
+  <programme start="20260927073000 +0800" stop="20260927093000 +0800" channel="bj-1039"><title>一路畅通</title></programme>
+  <programme start="20260927093000 +0800" stop="20260927100000 +0800" channel="bj-1039"><title>跃动的坐标</title></programme>
+  <programme start="20260927100000 +0800" stop="20260927110000 +0800" channel="bj-1039"><title>1039汽车天下</title></programme>
+  <programme start="20260927110000 +0800" stop="20260927120000 +0800" channel="bj-1039"><title>1039慧旅行</title></programme>
+  <programme start="20260927120000 +0800" stop="20260927130000 +0800" channel="bj-1039"><title>欢乐正前方·就是这个味儿</title></programme>
+  <programme start="20260927130000 +0800" stop="20260927140000 +0800" channel="bj-1039"><title>1039剧场</title></programme>
+  <programme start="20260927140000 +0800" stop="20260927150000 +0800" channel="bj-1039"><title>1039服务热线</title></programme>
+  <programme start="20260927150000 +0800" stop="20260927153000 +0800" channel="bj-1039"><title>动听天下（重播）</title></programme>
+  <programme start="20260927153000 +0800" stop="20260927160000 +0800" channel="bj-1039"><title>老有讲究</title></programme>
+  <programme start="20260927160000 +0800" stop="20260927170000 +0800" channel="bj-1039"><title>行走天下</title></programme>
+  <programme start="20260927170000 +0800" stop="20260927190000 +0800" channel="bj-1039"><title>一路畅通·骑妙之旅</title></programme>
+  <programme start="20260927190000 +0800" stop="20260927200000 +0800" channel="bj-1039"><title>拾光聚会</title></programme>
+  <programme start="20260927200000 +0800" stop="20260927210000 +0800" channel="bj-1039"><title>新闻要知道</title></programme>
+  <programme start="20260927210000 +0800" stop="20260927220000 +0800" channel="bj-1039"><title>应急先锋</title></programme>
+  <programme start="20260927220000 +0800" stop="20260927230000 +0800" channel="bj-1039"><title>蓝调北京</title></programme>
+  <programme start="20260927230000 +0800" stop="20260927235900 +0800" channel="bj-1039"><title>1039剧场（重播）</title></programme>
+  <programme start="20260927000000 +0800" stop="20260927060000 +0800" channel="cq-968"><title>广告专题</title></programme>
+  <programme start="20260927060000 +0800" stop="20260927062000 +0800" channel="cq-968"><title>早安重庆</title></programme>
+  <programme start="20260927062000 +0800" stop="20260927063000 +0800" channel="cq-968"><title>名曲鉴赏</title></programme>
+  <programme start="20260927063000 +0800" stop="20260927070000 +0800" channel="cq-968"><title>转播新闻和报纸摘要</title></programme>
+  <programme start="20260927070000 +0800" stop="20260927080000 +0800" channel="cq-968"><title>重庆早新闻</title></programme>
+  <programme start="20260927080000 +0800" stop="20260927090000 +0800" channel="cq-968"><title>重庆早新闻</title></programme>
+  <programme start="20260927090000 +0800" stop="20260927100000 +0800" channel="cq-968"><title>魅力周末</title></programme>
+  <programme start="20260927100000 +0800" stop="20260927110000 +0800" channel="cq-968"><title>身边说法（重播）</title></programme>
+  <programme start="20260927110000 +0800" stop="20260927120000 +0800" channel="cq-968"><title>968家长热线（重播）</title></programme>
+  <programme start="20260927120000 +0800" stop="20260927130000 +0800" channel="cq-968"><title>山城论健（重播）</title></programme>
+  <programme start="20260927130000 +0800" stop="20260927140000 +0800" channel="cq-968"><title>身边说法（重播）</title></programme>
+  <programme start="20260927140000 +0800" stop="20260927150000 +0800" channel="cq-968"><title>968家长热线（重播）</title></programme>
+  <programme start="20260927150000 +0800" stop="20260927160000 +0800" channel="cq-968"><title>民呼我为热线（重播）</title></programme>
+  <programme start="20260927160000 +0800" stop="20260927170000 +0800" channel="cq-968"><title>山城论健（重播）</title></programme>
+  <programme start="20260927170000 +0800" stop="20260927180000 +0800" channel="cq-968"><title>魅力周末</title></programme>
+  <programme start="20260927180000 +0800" stop="20260927183000 +0800" channel="cq-968"><title>重庆之声·阳光关注</title></programme>
+  <programme start="20260927183000 +0800" stop="20260927190000 +0800" channel="cq-968"><title>转播全国新闻联播</title></programme>
+  <programme start="20260927190000 +0800" stop="20260927193000 +0800" channel="cq-968"><title>真相</title></programme>
+  <programme start="20260927193000 +0800" stop="20260927200000 +0800" channel="cq-968"><title>重庆之声·阳光关注（重播）</title></programme>
+  <programme start="20260927200000 +0800" stop="20260927210000 +0800" channel="cq-968"><title>身边说法（重播）</title></programme>
+  <programme start="20260927210000 +0800" stop="20260927220000 +0800" channel="cq-968"><title>968家长热线（重播）</title></programme>
+  <programme start="20260927220000 +0800" stop="20260927230000 +0800" channel="cq-968"><title>山城论健（重播）</title></programme>
+  <programme start="20260927230000 +0800" stop="20260927235900 +0800" channel="cq-968"><title>民呼我为热线（重播）</title></programme>
+  <programme start="20260927000000 +0800" stop="20260927060000 +0800" channel="cq-955"><title>一路倾听</title></programme>
+  <programme start="20260927060000 +0800" stop="20260927070000 +0800" channel="cq-955"><title>健康面对面</title></programme>
+  <programme start="20260927070000 +0800" stop="20260927073000 +0800" channel="cq-955"><title>重庆好故事</title></programme>
+  <programme start="20260927073000 +0800" stop="20260927083000 +0800" channel="cq-955"><title>资讯早班车</title></programme>
+  <programme start="20260927083000 +0800" stop="20260927100000 +0800" channel="cq-955"><title>955与你相随</title></programme>
+  <programme start="20260927100000 +0800" stop="20260927110000 +0800" channel="cq-955"><title>交广乐逍遥</title></programme>
+  <programme start="20260927110000 +0800" stop="20260927120000 +0800" channel="cq-955"><title>驾驶员俱乐部</title></programme>
+  <programme start="20260927120000 +0800" stop="20260927123000 +0800" channel="cq-955"><title>向左走向右走</title></programme>
+  <programme start="20260927123000 +0800" stop="20260927130000 +0800" channel="cq-955"><title>重庆好故事</title></programme>
+  <programme start="20260927130000 +0800" stop="20260927140000 +0800" channel="cq-955"><title>小咖看世界</title></programme>
+  <programme start="20260927140000 +0800" stop="20260927150000 +0800" channel="cq-955"><title>向快乐出发</title></programme>
+  <programme start="20260927150000 +0800" stop="20260927160000 +0800" channel="cq-955"><title>汽车俱乐部</title></programme>
+  <programme start="20260927160000 +0800" stop="20260927170000 +0800" channel="cq-955"><title>健康面对面</title></programme>
+  <programme start="20260927170000 +0800" stop="20260927180000 +0800" channel="cq-955"><title>交广乐逍遥</title></programme>
+  <programme start="20260927180000 +0800" stop="20260927190000 +0800" channel="cq-955"><title>交广关注</title></programme>
+  <programme start="20260927190000 +0800" stop="20260927200000 +0800" channel="cq-955"><title>955车友生活</title></programme>
+  <programme start="20260927200000 +0800" stop="20260927210000 +0800" channel="cq-955"><title>人车在线</title></programme>
+  <programme start="20260927210000 +0800" stop="20260927220000 +0800" channel="cq-955"><title>小咖看世界</title></programme>
+  <programme start="20260927220000 +0800" stop="20260927230000 +0800" channel="cq-955"><title>交广乐逍遥</title></programme>
+  <programme start="20260927230000 +0800" stop="20260927235900 +0800" channel="cq-955"><title>一路倾听</title></programme>
+  <programme start="20260927000000 +0800" stop="20260927060000 +0800" channel="cq-881"><title>一整晚的音乐</title></programme>
+  <programme start="20260927060000 +0800" stop="20260927063000 +0800" channel="cq-881"><title>音乐问早安</title></programme>
+  <programme start="20260927063000 +0800" stop="20260927073000 +0800" channel="cq-881"><title>古典也流行</title></programme>
+  <programme start="20260927073000 +0800" stop="20260927090000 +0800" channel="cq-881"><title>音乐爱周末</title></programme>
+  <programme start="20260927090000 +0800" stop="20260927100000 +0800" channel="cq-881"><title>城市音乐杂志</title></programme>
+  <programme start="20260927100000 +0800" stop="20260927110000 +0800" channel="cq-881"><title>音乐风情之旅</title></programme>
+  <programme start="20260927110000 +0800" stop="20260927120000 +0800" channel="cq-881"><title>音乐爱周末</title></programme>
+  <programme start="20260927120000 +0800" stop="20260927130000 +0800" channel="cq-881"><title>电影在歌唱</title></programme>
+  <programme start="20260927130000 +0800" stop="20260927140000 +0800" channel="cq-881"><title>音乐博客</title></programme>
+  <programme start="20260927140000 +0800" stop="20260927150000 +0800" channel="cq-881"><title>姐姐的音乐书吧</title></programme>
+  <programme start="20260927150000 +0800" stop="20260927210000 +0800" channel="cq-881"><title>音乐爱周末</title></programme>
+  <programme start="20260927210000 +0800" stop="20260927220000 +0800" channel="cq-881"><title>爵士星空</title></programme>
+  <programme start="20260927220000 +0800" stop="20260927230000 +0800" channel="cq-881"><title>音乐爱周末</title></programme>
+  <programme start="20260927230000 +0800" stop="20260927235900 +0800" channel="cq-881"><title>音乐风情之旅</title></programme>
+  <programme start="20260927000000 +0800" stop="20260927010000 +0800" channel="gs-1035"><title>晚安甘肃（录播）</title></programme>
+  <programme start="20260927060000 +0800" stop="20260927070000 +0800" channel="gs-1035"><title>音乐第一班（录播）</title></programme>
+  <programme start="20260927070000 +0800" stop="20260927090000 +0800" channel="gs-1035"><title>早安甘肃</title></programme>
+  <programme start="20260927090000 +0800" stop="20260927110000 +0800" channel="gs-1035"><title>交通你发言</title></programme>
+  <programme start="20260927110000 +0800" stop="20260927130000 +0800" channel="gs-1035"><title>旅行大玩家</title></programme>
+  <programme start="20260927130000 +0800" stop="20260927150000 +0800" channel="gs-1035"><title>尕兰州喧车</title></programme>
+  <programme start="20260927150000 +0800" stop="20260927170000 +0800" channel="gs-1035"><title>1035幸福家</title></programme>
+  <programme start="20260927170000 +0800" stop="20260927190000 +0800" channel="gs-1035"><title>欢乐正前方</title></programme>
+  <programme start="20260927190000 +0800" stop="20260927210000 +0800" channel="gs-1035"><title>1035甄选</title></programme>
+  <programme start="20260927210000 +0800" stop="20260927230000 +0800" channel="gs-1035"><title>车外有星光</title></programme>
+  <programme start="20260927230000 +0800" stop="20260927235900 +0800" channel="gs-1035"><title>晚安甘肃（录播）</title></programme>
 <!-- 中国之声（通用日表） -->
   <programme start="20260928000000 +0800" stop="20260928000030 +0800" channel="cnr-zgzs"><title>档案揭秘</title></programme>
   <programme start="20260928000030 +0800" stop="20260928010000 +0800" channel="cnr-zgzs"><title>记录中国</title></programme>
@@ -475,36 +672,10 @@
   <programme start="20260928210000 +0800" stop="20260928235959 +0800" channel="cnr-jtgb"><title>夜行指南</title></programme>
 
   <!-- 北京交通广播 -->
-  <programme start="20260928053000 +0800" stop="20260928060000 +0800" channel="bj-1039"><title>动听天下</title></programme>
-  <programme start="20260928060000 +0800" stop="20260928063000 +0800" channel="bj-1039"><title>徐徐道来话北京</title></programme>
-  <programme start="20260928063000 +0800" stop="20260928073000 +0800" channel="bj-1039"><title>1039新闻早报</title></programme>
-  <programme start="20260928073000 +0800" stop="20260928093000 +0800" channel="bj-1039"><title>一路畅通</title></programme>
-  <programme start="20260928093000 +0800" stop="20260928100000 +0800" channel="bj-1039"><title>跃动的坐标</title></programme>
-  <programme start="20260928100000 +0800" stop="20260928110000 +0800" channel="bj-1039"><title>1039汽车天下</title></programme>
-  <programme start="20260928110000 +0800" stop="20260928120000 +0800" channel="bj-1039"><title>1039慧旅行</title></programme>
-  <programme start="20260928120000 +0800" stop="20260928130000 +0800" channel="bj-1039"><title>欢乐正前方</title></programme>
-  <programme start="20260928130000 +0800" stop="20260928133000 +0800" channel="bj-1039"><title>1039服务热线</title></programme>
-  <programme start="20260928153000 +0800" stop="20260928160000 +0800" channel="bj-1039"><title>1039汽车音乐时间</title></programme>
-  <programme start="20260928160000 +0800" stop="20260928170000 +0800" channel="bj-1039"><title>一路畅通</title></programme>
-  <programme start="20260928170000 +0800" stop="20260928190000 +0800" channel="bj-1039"><title>新闻要知道</title></programme>
-  <programme start="20260928190000 +0800" stop="20260928200000 +0800" channel="bj-1039"><title>1039都市调查组</title></programme>
-  <programme start="20260928200000 +0800" stop="20260928210000 +0800" channel="bj-1039"><title>动听天下(重播)</title></programme>
-  <programme start="20260928210000 +0800" stop="20260928213000 +0800" channel="bj-1039"><title>应急时刻</title></programme>
-  <programme start="20260928220000 +0800" stop="20260928230000 +0800" channel="bj-1039"><title>蓝调北京</title></programme>
 
   <!-- 北京音乐广播 -->
-  <programme start="20260928060000 +0800" stop="20260928120000 +0800" channel="bj-974"><title>晨光音乐</title></programme>
-  <programme start="20260928120000 +0800" stop="20260928180000 +0800" channel="bj-974"><title>音乐下午茶</title></programme>
-  <programme start="20260928200000 +0800" stop="20260928220000 +0800" channel="bj-974"><title>974Live Show</title></programme>
-  <programme start="20260928220000 +0800" stop="20260928235959 +0800" channel="bj-974"><title>深夜电台</title></programme>
 
   <!-- 北京新闻广播 -->
-  <programme start="20260928060000 +0800" stop="20260928070000 +0800" channel="bj-1006"><title>新闻晨报</title></programme>
-  <programme start="20260928070000 +0800" stop="20260928090000 +0800" channel="bj-1006"><title>北京新闻</title></programme>
-  <programme start="20260928090000 +0800" stop="20260928120000 +0800" channel="bj-1006"><title>时政访谈</title></programme>
-  <programme start="20260928120000 +0800" stop="20260928140000 +0800" channel="bj-1006"><title>文化范儿</title></programme>
-  <programme start="20260928140000 +0800" stop="20260928170000 +0800" channel="bj-1006"><title>新闻热线</title></programme>
-  <programme start="20260928170000 +0800" stop="20260928190000 +0800" channel="bj-1006"><title>京津冀之声转接</title></programme>
 
   <!-- 北京文艺广播 -->
   <programme start="20260928063000 +0800" stop="20260928073000 +0800" channel="bj-876"><title>早起听书</title></programme>
@@ -515,15 +686,6 @@
   <programme start="20260928190000 +0800" stop="20260928210000 +0800" channel="bj-876"><title>快乐旅行家</title></programme>
 
   <!-- 重庆新闻广播 -->
-  <programme start="20260928063000 +0800" stop="20260928070000 +0800" channel="cq-968"><title>转播新闻和报纸摘要</title></programme>
-  <programme start="20260928070000 +0800" stop="20260928080000 +0800" channel="cq-968"><title>重庆早新闻</title></programme>
-  <programme start="20260928080000 +0800" stop="20260928100000 +0800" channel="cq-968"><title>菲姐说</title></programme>
-  <programme start="20260928100000 +0800" stop="20260928110000 +0800" channel="cq-968"><title>民呼我为</title></programme>
-  <programme start="20260928110000 +0800" stop="20260928120000 +0800" channel="cq-968"><title>968家长热线</title></programme>
-  <programme start="20260928120000 +0800" stop="20260928130000 +0800" channel="cq-968"><title>好个重庆城</title></programme>
-  <programme start="20260928130000 +0800" stop="20260928140000 +0800" channel="cq-968"><title>身边说法</title></programme>
-  <programme start="20260928163000 +0800" stop="20260928180000 +0800" channel="cq-968"><title>968晚高峰</title></programme>
-  <programme start="20260928183000 +0800" stop="20260928190000 +0800" channel="cq-968"><title>转播全国新闻联播</title></programme>
 
   <!-- 重庆经济广播 -->
   <programme start="20260928070000 +0800" stop="20260928120000 +0800" channel="cq-1015"><title>财经重庆</title></programme>
@@ -532,19 +694,8 @@
   <programme start="20260928170000 +0800" stop="20260928200000 +0800" channel="cq-1015"><title>经济夜话</title></programme>
 
   <!-- 重庆交通广播 -->
-  <programme start="20260928070000 +0800" stop="20260928090000 +0800" channel="cq-955"><title>早安重庆·路况</title></programme>
-  <programme start="20260928090000 +0800" stop="20260928120000 +0800" channel="cq-955"><title>汽车CD</title></programme>
-  <programme start="20260928120000 +0800" stop="20260928140000 +0800" channel="cq-955"><title>出行服务台</title></programme>
-  <programme start="20260928170000 +0800" stop="20260928190000 +0800" channel="cq-955"><title>晚高峰路况</title></programme>
-  <programme start="20260928190000 +0800" stop="20260928210000 +0800" channel="cq-955"><title>交通热线</title></programme>
 
   <!-- 重庆音乐广播 -->
-  <programme start="20260928000000 +0800" stop="20260928060000 +0800" channel="cq-881"><title>音乐永远在</title></programme>
-  <programme start="20260928060000 +0800" stop="20260928073000 +0800" channel="cq-881"><title>音乐风情之旅</title></programme>
-  <programme start="20260928073000 +0800" stop="20260928100000 +0800" channel="cq-881"><title>汽车CD早安秀</title></programme>
-  <programme start="20260928100000 +0800" stop="20260928120000 +0800" channel="cq-881"><title>最流行</title></programme>
-  <programme start="20260928170000 +0800" stop="20260928190000 +0800" channel="cq-881"><title>汽车音乐时间</title></programme>
-  <programme start="20260928190000 +0800" stop="20260928220000 +0800" channel="cq-881"><title>非常可乐帮</title></programme>
 
   <!-- 重庆都市广播 -->
   <programme start="20260928070000 +0800" stop="20260928120000 +0800" channel="cq-938"><title>都市早班车</title></programme>
@@ -561,13 +712,166 @@
   <programme start="20260928183000 +0800" stop="20260928190000 +0800" channel="gs-961"><title>转播全国新闻联播</title></programme>
 
   <!-- 甘肃交通广播 -->
-  <programme start="20260928060000 +0800" stop="20260928070000 +0800" channel="gs-1035"><title>交广早报</title></programme>
-  <programme start="20260928070000 +0800" stop="20260928090000 +0800" channel="gs-1035"><title>路况信息 交警指路</title></programme>
-  <programme start="20260928090000 +0800" stop="20260928110000 +0800" channel="gs-1035"><title>完美车时代</title></programme>
-  <programme start="20260928110000 +0800" stop="20260928120000 +0800" channel="gs-1035"><title>一路秀逍遥</title></programme>
-  <programme start="20260928120000 +0800" stop="20260928123000 +0800" channel="gs-1035"><title>资讯餐吧</title></programme>
-  <programme start="20260928173000 +0800" stop="20260928190000 +0800" channel="gs-1035"><title>有我陪着你</title></programme>
-  <programme start="20260928193000 +0800" stop="20260928200000 +0800" channel="gs-1035"><title>汽车音乐榜</title></programme>
+  <programme start="20260928000000 +0800" stop="20260928003000 +0800" channel="bj-1006"><title>文化范儿（重播）</title></programme>
+  <programme start="20260928003000 +0800" stop="20260928020000 +0800" channel="bj-1006"><title>大城小事（重播）</title></programme>
+  <programme start="20260928020000 +0800" stop="20260928023500 +0800" channel="bj-1006"><title>945养生派（重播）</title></programme>
+  <programme start="20260928023500 +0800" stop="20260928030000 +0800" channel="bj-1006"><title>北京的声音（重播）</title></programme>
+  <programme start="20260928030000 +0800" stop="20260928033500 +0800" channel="bj-1006"><title>话里话外（重播）</title></programme>
+  <programme start="20260928033500 +0800" stop="20260928040000 +0800" channel="bj-1006"><title>谜幻时空（重播）</title></programme>
+  <programme start="20260928040000 +0800" stop="20260928050000 +0800" channel="bj-1006"><title>乐海星歌（重播）</title></programme>
+  <programme start="20260928050000 +0800" stop="20260928053500 +0800" channel="bj-1006"><title>科技新视点（重播）</title></programme>
+  <programme start="20260928053500 +0800" stop="20260928060000 +0800" channel="bj-1006"><title>健康北京（重播）</title></programme>
+  <programme start="20260928060000 +0800" stop="20260928062000 +0800" channel="bj-1006"><title>新闻晨报</title></programme>
+  <programme start="20260928062000 +0800" stop="20260928063000 +0800" channel="bj-1006"><title>新闻热线</title></programme>
+  <programme start="20260928063000 +0800" stop="20260928070000 +0800" channel="bj-1006"><title>新闻和报纸摘要</title></programme>
+  <programme start="20260928070000 +0800" stop="20260928072500 +0800" channel="bj-1006"><title>北京新闻</title></programme>
+  <programme start="20260928072500 +0800" stop="20260928073000 +0800" channel="bj-1006"><title>新闻热线</title></programme>
+  <programme start="20260928073000 +0800" stop="20260928090000 +0800" channel="bj-1006"><title>主播在线</title></programme>
+  <programme start="20260928090000 +0800" stop="20260928091500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260928091500 +0800" stop="20260928095000 +0800" channel="bj-1006"><title>财经对对碰</title></programme>
+  <programme start="20260928095000 +0800" stop="20260928100000 +0800" channel="bj-1006"><title>北广生活时间</title></programme>
+  <programme start="20260928100000 +0800" stop="20260928101500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260928101500 +0800" stop="20260928105000 +0800" channel="bj-1006"><title>话里话外</title></programme>
+  <programme start="20260928105000 +0800" stop="20260928110000 +0800" channel="bj-1006"><title>北广生活时间</title></programme>
+  <programme start="20260928110000 +0800" stop="20260928120000 +0800" channel="bj-1006"><title>档案</title></programme>
+  <programme start="20260928120000 +0800" stop="20260928121000 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260928121000 +0800" stop="20260928130000 +0800" channel="bj-1006"><title>945养生派</title></programme>
+  <programme start="20260928130000 +0800" stop="20260928131000 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260928131000 +0800" stop="20260928140000 +0800" channel="bj-1006"><title>乐海星歌</title></programme>
+  <programme start="20260928140000 +0800" stop="20260928141500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260928141500 +0800" stop="20260928145000 +0800" channel="bj-1006"><title>文化范儿</title></programme>
+  <programme start="20260928145000 +0800" stop="20260928150000 +0800" channel="bj-1006"><title>北广生活时间</title></programme>
+  <programme start="20260928150000 +0800" stop="20260928151500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260928151500 +0800" stop="20260928160000 +0800" channel="bj-1006"><title>科技新视点（重播）</title></programme>
+  <programme start="20260928160000 +0800" stop="20260928162000 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260928162000 +0800" stop="20260928180000 +0800" channel="bj-1006"><title>大城小事</title></programme>
+  <programme start="20260928180000 +0800" stop="20260928190000 +0800" channel="bj-1006"><title>新闻2026</title></programme>
+  <programme start="20260928190000 +0800" stop="20260928193000 +0800" channel="bj-1006"><title>央视新闻联播</title></programme>
+  <programme start="20260928193000 +0800" stop="20260928200000 +0800" channel="bj-1006"><title>健康北京</title></programme>
+  <programme start="20260928200000 +0800" stop="20260928201500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260928201500 +0800" stop="20260928210000 +0800" channel="bj-1006"><title>科技新视点</title></programme>
+  <programme start="20260928210000 +0800" stop="20260928211000 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260928211000 +0800" stop="20260928220000 +0800" channel="bj-1006"><title>945养生派（重播）</title></programme>
+  <programme start="20260928220000 +0800" stop="20260928221000 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260928221000 +0800" stop="20260928223500 +0800" channel="bj-1006"><title>北京的声音</title></programme>
+  <programme start="20260928223500 +0800" stop="20260928230000 +0800" channel="bj-1006"><title>谜幻时空</title></programme>
+  <programme start="20260928230000 +0800" stop="20260928235900 +0800" channel="bj-1006"><title>新闻2026（重播）</title></programme>
+  <programme start="20260928000000 +0800" stop="20260928070000 +0800" channel="bj-974"><title>乐海星歌</title></programme>
+  <programme start="20260928070000 +0800" stop="20260928090000 +0800" channel="bj-974"><title>早安音乐秀</title></programme>
+  <programme start="20260928090000 +0800" stop="20260928110000 +0800" channel="bj-974"><title>汽车音乐汇</title></programme>
+  <programme start="20260928110000 +0800" stop="20260928120000 +0800" channel="bj-974"><title>音乐加块糖</title></programme>
+  <programme start="20260928120000 +0800" stop="20260928130000 +0800" channel="bj-974"><title>乐听乐流行</title></programme>
+  <programme start="20260928130000 +0800" stop="20260928140000 +0800" channel="bj-974"><title>永恒的魅力</title></programme>
+  <programme start="20260928140000 +0800" stop="20260928150000 +0800" channel="bj-974"><title>经典三重奏</title></programme>
+  <programme start="20260928150000 +0800" stop="20260928160000 +0800" channel="bj-974"><title>你的故事我的歌</title></programme>
+  <programme start="20260928160000 +0800" stop="20260928170000 +0800" channel="bj-974"><title>音乐种草家</title></programme>
+  <programme start="20260928170000 +0800" stop="20260928190000 +0800" channel="bj-974"><title>娱乐最王牌</title></programme>
+  <programme start="20260928190000 +0800" stop="20260928200000 +0800" channel="bj-974"><title>华语金曲星光荟</title></programme>
+  <programme start="20260928200000 +0800" stop="20260928210000 +0800" channel="bj-974"><title>就听好歌不听话</title></programme>
+  <programme start="20260928210000 +0800" stop="20260928230000 +0800" channel="bj-974"><title>男左女右</title></programme>
+  <programme start="20260928230000 +0800" stop="20260928235900 +0800" channel="bj-974"><title>午夜情歌</title></programme>
+  <programme start="20260928000000 +0800" stop="20260928010000 +0800" channel="bj-1039"><title>欢乐正前方·就是这个味（重播）</title></programme>
+  <programme start="20260928010000 +0800" stop="20260928020000 +0800" channel="bj-1039"><title>1039慧旅行（重播）</title></programme>
+  <programme start="20260928020000 +0800" stop="20260928030000 +0800" channel="bj-1039"><title>行走天下（重播）</title></programme>
+  <programme start="20260928030000 +0800" stop="20260928040000 +0800" channel="bj-1039"><title>拾光聚会（重播）</title></programme>
+  <programme start="20260928040000 +0800" stop="20260928050000 +0800" channel="bj-1039"><title>蓝调北京（重播）</title></programme>
+  <programme start="20260928050000 +0800" stop="20260928053000 +0800" channel="bj-1039"><title>峰回路转（重播）</title></programme>
+  <programme start="20260928053000 +0800" stop="20260928060000 +0800" channel="bj-1039"><title>动听天下</title></programme>
+  <programme start="20260928060000 +0800" stop="20260928063000 +0800" channel="bj-1039"><title>徐徐道来话北京</title></programme>
+  <programme start="20260928063000 +0800" stop="20260928072000 +0800" channel="bj-1039"><title>1039新闻早报</title></programme>
+  <programme start="20260928072000 +0800" stop="20260928073000 +0800" channel="bj-1039"><title>问道1039</title></programme>
+  <programme start="20260928073000 +0800" stop="20260928093000 +0800" channel="bj-1039"><title>一路畅通</title></programme>
+  <programme start="20260928093000 +0800" stop="20260928100000 +0800" channel="bj-1039"><title>跃动的坐标</title></programme>
+  <programme start="20260928100000 +0800" stop="20260928110000 +0800" channel="bj-1039"><title>1039汽车天下</title></programme>
+  <programme start="20260928110000 +0800" stop="20260928120000 +0800" channel="bj-1039"><title>1039慧旅行</title></programme>
+  <programme start="20260928120000 +0800" stop="20260928130000 +0800" channel="bj-1039"><title>欢乐正前方·就是这个味儿</title></programme>
+  <programme start="20260928130000 +0800" stop="20260928140000 +0800" channel="bj-1039"><title>1039剧场</title></programme>
+  <programme start="20260928140000 +0800" stop="20260928150000 +0800" channel="bj-1039"><title>1039服务热线</title></programme>
+  <programme start="20260928150000 +0800" stop="20260928153000 +0800" channel="bj-1039"><title>动听天下（重播）</title></programme>
+  <programme start="20260928153000 +0800" stop="20260928160000 +0800" channel="bj-1039"><title>1039听见</title></programme>
+  <programme start="20260928160000 +0800" stop="20260928170000 +0800" channel="bj-1039"><title>行走天下</title></programme>
+  <programme start="20260928170000 +0800" stop="20260928190000 +0800" channel="bj-1039"><title>一路畅通</title></programme>
+  <programme start="20260928190000 +0800" stop="20260928200000 +0800" channel="bj-1039"><title>拾光聚会</title></programme>
+  <programme start="20260928200000 +0800" stop="20260928210000 +0800" channel="bj-1039"><title>新闻要知道</title></programme>
+  <programme start="20260928210000 +0800" stop="20260928213000 +0800" channel="bj-1039"><title>动听天下（重播）</title></programme>
+  <programme start="20260928213000 +0800" stop="20260928220000 +0800" channel="bj-1039"><title>跃动的坐标（重播）</title></programme>
+  <programme start="20260928220000 +0800" stop="20260928230000 +0800" channel="bj-1039"><title>蓝调北京</title></programme>
+  <programme start="20260928230000 +0800" stop="20260928235900 +0800" channel="bj-1039"><title>1039剧场（重播）</title></programme>
+  <programme start="20260928000000 +0800" stop="20260928033000 +0800" channel="cq-968"><title>广告专题</title></programme>
+  <programme start="20260928033000 +0800" stop="20260928060000 +0800" channel="cq-968"><title>广告专题</title></programme>
+  <programme start="20260928060000 +0800" stop="20260928062000 +0800" channel="cq-968"><title>早安重庆</title></programme>
+  <programme start="20260928062000 +0800" stop="20260928063000 +0800" channel="cq-968"><title>名曲鉴赏</title></programme>
+  <programme start="20260928063000 +0800" stop="20260928070000 +0800" channel="cq-968"><title>转播新闻和报纸摘要</title></programme>
+  <programme start="20260928070000 +0800" stop="20260928080000 +0800" channel="cq-968"><title>重庆早新闻</title></programme>
+  <programme start="20260928080000 +0800" stop="20260928100000 +0800" channel="cq-968"><title>菲姐说</title></programme>
+  <programme start="20260928100000 +0800" stop="20260928100500 +0800" channel="cq-968"><title>即时资讯</title></programme>
+  <programme start="20260928100500 +0800" stop="20260928110000 +0800" channel="cq-968"><title>身边说法</title></programme>
+  <programme start="20260928110000 +0800" stop="20260928120000 +0800" channel="cq-968"><title>968家长热线</title></programme>
+  <programme start="20260928120000 +0800" stop="20260928130000 +0800" channel="cq-968"><title>山城论健</title></programme>
+  <programme start="20260928130000 +0800" stop="20260928140000 +0800" channel="cq-968"><title>身边说法（重播）</title></programme>
+  <programme start="20260928140000 +0800" stop="20260928150000 +0800" channel="cq-968"><title>968家长热线（重播）</title></programme>
+  <programme start="20260928150000 +0800" stop="20260928150500 +0800" channel="cq-968"><title>即时资讯</title></programme>
+  <programme start="20260928150500 +0800" stop="20260928160000 +0800" channel="cq-968"><title>民呼我为热线</title></programme>
+  <programme start="20260928160000 +0800" stop="20260928160500 +0800" channel="cq-968"><title>即时资讯</title></programme>
+  <programme start="20260928160500 +0800" stop="20260928170000 +0800" channel="cq-968"><title>山城论健（重播）</title></programme>
+  <programme start="20260928170000 +0800" stop="20260928170500 +0800" channel="cq-968"><title>即时资讯</title></programme>
+  <programme start="20260928170500 +0800" stop="20260928180000 +0800" channel="cq-968"><title>晚高峰大搜索</title></programme>
+  <programme start="20260928180000 +0800" stop="20260928183000 +0800" channel="cq-968"><title>重庆之声·阳光关注</title></programme>
+  <programme start="20260928183000 +0800" stop="20260928190000 +0800" channel="cq-968"><title>转播全国新闻联播</title></programme>
+  <programme start="20260928190000 +0800" stop="20260928193000 +0800" channel="cq-968"><title>真相</title></programme>
+  <programme start="20260928193000 +0800" stop="20260928200000 +0800" channel="cq-968"><title>重庆之声·阳光关注（重播）</title></programme>
+  <programme start="20260928200000 +0800" stop="20260928210000 +0800" channel="cq-968"><title>身边说法（重播）</title></programme>
+  <programme start="20260928210000 +0800" stop="20260928220000 +0800" channel="cq-968"><title>968家长热线（重播）</title></programme>
+  <programme start="20260928220000 +0800" stop="20260928230000 +0800" channel="cq-968"><title>山城论健（重播）</title></programme>
+  <programme start="20260928230000 +0800" stop="20260928235900 +0800" channel="cq-968"><title>民呼我为热线（重播）</title></programme>
+  <programme start="20260928000000 +0800" stop="20260928060000 +0800" channel="cq-955"><title>一路倾听</title></programme>
+  <programme start="20260928060000 +0800" stop="20260928070000 +0800" channel="cq-955"><title>健康面对面</title></programme>
+  <programme start="20260928070000 +0800" stop="20260928083000 +0800" channel="cq-955"><title>资讯早班车</title></programme>
+  <programme start="20260928083000 +0800" stop="20260928100000 +0800" channel="cq-955"><title>955与你相随</title></programme>
+  <programme start="20260928100000 +0800" stop="20260928110000 +0800" channel="cq-955"><title>人车在线</title></programme>
+  <programme start="20260928110000 +0800" stop="20260928120000 +0800" channel="cq-955"><title>驾驶员俱乐部</title></programme>
+  <programme start="20260928120000 +0800" stop="20260928123000 +0800" channel="cq-955"><title>向左走向右走</title></programme>
+  <programme start="20260928123000 +0800" stop="20260928130000 +0800" channel="cq-955"><title>重庆好故事</title></programme>
+  <programme start="20260928130000 +0800" stop="20260928140000 +0800" channel="cq-955"><title>小咖看世界</title></programme>
+  <programme start="20260928140000 +0800" stop="20260928150000 +0800" channel="cq-955"><title>向快乐出发</title></programme>
+  <programme start="20260928150000 +0800" stop="20260928160000 +0800" channel="cq-955"><title>汽车世界</title></programme>
+  <programme start="20260928160000 +0800" stop="20260928170000 +0800" channel="cq-955"><title>健康面对面</title></programme>
+  <programme start="20260928170000 +0800" stop="20260928180000 +0800" channel="cq-955"><title>交广乐逍遥</title></programme>
+  <programme start="20260928180000 +0800" stop="20260928190000 +0800" channel="cq-955"><title>交广关注</title></programme>
+  <programme start="20260928190000 +0800" stop="20260928200000 +0800" channel="cq-955"><title>955车友生活</title></programme>
+  <programme start="20260928200000 +0800" stop="20260928210000 +0800" channel="cq-955"><title>人车在线</title></programme>
+  <programme start="20260928210000 +0800" stop="20260928220000 +0800" channel="cq-955"><title>小咖看世界</title></programme>
+  <programme start="20260928220000 +0800" stop="20260928230000 +0800" channel="cq-955"><title>交广乐逍遥</title></programme>
+  <programme start="20260928230000 +0800" stop="20260928235900 +0800" channel="cq-955"><title>一路倾听</title></programme>
+  <programme start="20260928000000 +0800" stop="20260928060000 +0800" channel="cq-881"><title>一整晚的音乐</title></programme>
+  <programme start="20260928060000 +0800" stop="20260928063000 +0800" channel="cq-881"><title>音乐问早安</title></programme>
+  <programme start="20260928063000 +0800" stop="20260928073000 +0800" channel="cq-881"><title>古典也流行</title></programme>
+  <programme start="20260928073000 +0800" stop="20260928083000 +0800" channel="cq-881"><title>汽车CD早安秀</title></programme>
+  <programme start="20260928083000 +0800" stop="20260928100000 +0800" channel="cq-881"><title>城市音乐杂志</title></programme>
+  <programme start="20260928100000 +0800" stop="20260928110000 +0800" channel="cq-881"><title>音乐风情之旅</title></programme>
+  <programme start="20260928110000 +0800" stop="20260928120000 +0800" channel="cq-881"><title>金曲时光机</title></programme>
+  <programme start="20260928120000 +0800" stop="20260928130000 +0800" channel="cq-881"><title>非常可乐帮</title></programme>
+  <programme start="20260928130000 +0800" stop="20260928140000 +0800" channel="cq-881"><title>音乐博客</title></programme>
+  <programme start="20260928140000 +0800" stop="20260928150000 +0800" channel="cq-881"><title>姐姐的音乐书吧</title></programme>
+  <programme start="20260928150000 +0800" stop="20260928160000 +0800" channel="cq-881"><title>潮妈驾到</title></programme>
+  <programme start="20260928160000 +0800" stop="20260928170000 +0800" channel="cq-881"><title>最流行</title></programme>
+  <programme start="20260928170000 +0800" stop="20260928183000 +0800" channel="cq-881"><title>潮玩心动派</title></programme>
+  <programme start="20260928183000 +0800" stop="20260928200000 +0800" channel="cq-881"><title>汽车音乐时间</title></programme>
+  <programme start="20260928200000 +0800" stop="20260928210000 +0800" channel="cq-881"><title>金曲时光机</title></programme>
+  <programme start="20260928210000 +0800" stop="20260928220000 +0800" channel="cq-881"><title>环球音乐网</title></programme>
+  <programme start="20260928220000 +0800" stop="20260928230000 +0800" channel="cq-881"><title>音乐博客</title></programme>
+  <programme start="20260928230000 +0800" stop="20260928235900 +0800" channel="cq-881"><title>音乐风情之旅</title></programme>
+  <programme start="20260928000000 +0800" stop="20260928010000 +0800" channel="gs-1035"><title>晚安甘肃（录播）</title></programme>
+  <programme start="20260928060000 +0800" stop="20260928070000 +0800" channel="gs-1035"><title>音乐第一班（录播）</title></programme>
+  <programme start="20260928070000 +0800" stop="20260928090000 +0800" channel="gs-1035"><title>早安甘肃</title></programme>
+  <programme start="20260928090000 +0800" stop="20260928110000 +0800" channel="gs-1035"><title>交通你发言</title></programme>
+  <programme start="20260928110000 +0800" stop="20260928130000 +0800" channel="gs-1035"><title>旅行大玩家</title></programme>
+  <programme start="20260928130000 +0800" stop="20260928150000 +0800" channel="gs-1035"><title>尕兰州喧车</title></programme>
+  <programme start="20260928150000 +0800" stop="20260928170000 +0800" channel="gs-1035"><title>1035幸福家</title></programme>
+  <programme start="20260928170000 +0800" stop="20260928190000 +0800" channel="gs-1035"><title>欢乐正前方</title></programme>
+  <programme start="20260928190000 +0800" stop="20260928210000 +0800" channel="gs-1035"><title>1035甄选</title></programme>
+  <programme start="20260928210000 +0800" stop="20260928230000 +0800" channel="gs-1035"><title>车外有星光</title></programme>
+  <programme start="20260928230000 +0800" stop="20260928235900 +0800" channel="gs-1035"><title>晚安甘肃（录播）</title></programme>
 <!-- 中国之声（通用日表） -->
   <programme start="20260929000000 +0800" stop="20260929000030 +0800" channel="cnr-zgzs"><title>档案揭秘</title></programme>
   <programme start="20260929000030 +0800" stop="20260929010000 +0800" channel="cnr-zgzs"><title>记录中国</title></programme>
@@ -658,36 +962,10 @@
   <programme start="20260929210000 +0800" stop="20260929235959 +0800" channel="cnr-jtgb"><title>夜行指南</title></programme>
 
   <!-- 北京交通广播 -->
-  <programme start="20260929053000 +0800" stop="20260929060000 +0800" channel="bj-1039"><title>动听天下</title></programme>
-  <programme start="20260929060000 +0800" stop="20260929063000 +0800" channel="bj-1039"><title>徐徐道来话北京</title></programme>
-  <programme start="20260929063000 +0800" stop="20260929073000 +0800" channel="bj-1039"><title>1039新闻早报</title></programme>
-  <programme start="20260929073000 +0800" stop="20260929093000 +0800" channel="bj-1039"><title>一路畅通</title></programme>
-  <programme start="20260929093000 +0800" stop="20260929100000 +0800" channel="bj-1039"><title>跃动的坐标</title></programme>
-  <programme start="20260929100000 +0800" stop="20260929110000 +0800" channel="bj-1039"><title>1039汽车天下</title></programme>
-  <programme start="20260929110000 +0800" stop="20260929120000 +0800" channel="bj-1039"><title>1039慧旅行</title></programme>
-  <programme start="20260929120000 +0800" stop="20260929130000 +0800" channel="bj-1039"><title>欢乐正前方</title></programme>
-  <programme start="20260929130000 +0800" stop="20260929133000 +0800" channel="bj-1039"><title>1039服务热线</title></programme>
-  <programme start="20260929153000 +0800" stop="20260929160000 +0800" channel="bj-1039"><title>1039汽车音乐时间</title></programme>
-  <programme start="20260929160000 +0800" stop="20260929170000 +0800" channel="bj-1039"><title>一路畅通</title></programme>
-  <programme start="20260929170000 +0800" stop="20260929190000 +0800" channel="bj-1039"><title>新闻要知道</title></programme>
-  <programme start="20260929190000 +0800" stop="20260929200000 +0800" channel="bj-1039"><title>1039都市调查组</title></programme>
-  <programme start="20260929200000 +0800" stop="20260929210000 +0800" channel="bj-1039"><title>动听天下(重播)</title></programme>
-  <programme start="20260929210000 +0800" stop="20260929213000 +0800" channel="bj-1039"><title>应急时刻</title></programme>
-  <programme start="20260929220000 +0800" stop="20260929230000 +0800" channel="bj-1039"><title>蓝调北京</title></programme>
 
   <!-- 北京音乐广播 -->
-  <programme start="20260929060000 +0800" stop="20260929120000 +0800" channel="bj-974"><title>晨光音乐</title></programme>
-  <programme start="20260929120000 +0800" stop="20260929180000 +0800" channel="bj-974"><title>音乐下午茶</title></programme>
-  <programme start="20260929200000 +0800" stop="20260929220000 +0800" channel="bj-974"><title>974Live Show</title></programme>
-  <programme start="20260929220000 +0800" stop="20260929235959 +0800" channel="bj-974"><title>深夜电台</title></programme>
 
   <!-- 北京新闻广播 -->
-  <programme start="20260929060000 +0800" stop="20260929070000 +0800" channel="bj-1006"><title>新闻晨报</title></programme>
-  <programme start="20260929070000 +0800" stop="20260929090000 +0800" channel="bj-1006"><title>北京新闻</title></programme>
-  <programme start="20260929090000 +0800" stop="20260929120000 +0800" channel="bj-1006"><title>时政访谈</title></programme>
-  <programme start="20260929120000 +0800" stop="20260929140000 +0800" channel="bj-1006"><title>文化范儿</title></programme>
-  <programme start="20260929140000 +0800" stop="20260929170000 +0800" channel="bj-1006"><title>新闻热线</title></programme>
-  <programme start="20260929170000 +0800" stop="20260929190000 +0800" channel="bj-1006"><title>京津冀之声转接</title></programme>
 
   <!-- 北京文艺广播 -->
   <programme start="20260929063000 +0800" stop="20260929073000 +0800" channel="bj-876"><title>早起听书</title></programme>
@@ -698,15 +976,6 @@
   <programme start="20260929190000 +0800" stop="20260929210000 +0800" channel="bj-876"><title>快乐旅行家</title></programme>
 
   <!-- 重庆新闻广播 -->
-  <programme start="20260929063000 +0800" stop="20260929070000 +0800" channel="cq-968"><title>转播新闻和报纸摘要</title></programme>
-  <programme start="20260929070000 +0800" stop="20260929080000 +0800" channel="cq-968"><title>重庆早新闻</title></programme>
-  <programme start="20260929080000 +0800" stop="20260929100000 +0800" channel="cq-968"><title>菲姐说</title></programme>
-  <programme start="20260929100000 +0800" stop="20260929110000 +0800" channel="cq-968"><title>民呼我为</title></programme>
-  <programme start="20260929110000 +0800" stop="20260929120000 +0800" channel="cq-968"><title>968家长热线</title></programme>
-  <programme start="20260929120000 +0800" stop="20260929130000 +0800" channel="cq-968"><title>好个重庆城</title></programme>
-  <programme start="20260929130000 +0800" stop="20260929140000 +0800" channel="cq-968"><title>身边说法</title></programme>
-  <programme start="20260929163000 +0800" stop="20260929180000 +0800" channel="cq-968"><title>968晚高峰</title></programme>
-  <programme start="20260929183000 +0800" stop="20260929190000 +0800" channel="cq-968"><title>转播全国新闻联播</title></programme>
 
   <!-- 重庆经济广播 -->
   <programme start="20260929070000 +0800" stop="20260929120000 +0800" channel="cq-1015"><title>财经重庆</title></programme>
@@ -715,19 +984,8 @@
   <programme start="20260929170000 +0800" stop="20260929200000 +0800" channel="cq-1015"><title>经济夜话</title></programme>
 
   <!-- 重庆交通广播 -->
-  <programme start="20260929070000 +0800" stop="20260929090000 +0800" channel="cq-955"><title>早安重庆·路况</title></programme>
-  <programme start="20260929090000 +0800" stop="20260929120000 +0800" channel="cq-955"><title>汽车CD</title></programme>
-  <programme start="20260929120000 +0800" stop="20260929140000 +0800" channel="cq-955"><title>出行服务台</title></programme>
-  <programme start="20260929170000 +0800" stop="20260929190000 +0800" channel="cq-955"><title>晚高峰路况</title></programme>
-  <programme start="20260929190000 +0800" stop="20260929210000 +0800" channel="cq-955"><title>交通热线</title></programme>
 
   <!-- 重庆音乐广播 -->
-  <programme start="20260929000000 +0800" stop="20260929060000 +0800" channel="cq-881"><title>音乐永远在</title></programme>
-  <programme start="20260929060000 +0800" stop="20260929073000 +0800" channel="cq-881"><title>音乐风情之旅</title></programme>
-  <programme start="20260929073000 +0800" stop="20260929100000 +0800" channel="cq-881"><title>汽车CD早安秀</title></programme>
-  <programme start="20260929100000 +0800" stop="20260929120000 +0800" channel="cq-881"><title>最流行</title></programme>
-  <programme start="20260929170000 +0800" stop="20260929190000 +0800" channel="cq-881"><title>汽车音乐时间</title></programme>
-  <programme start="20260929190000 +0800" stop="20260929220000 +0800" channel="cq-881"><title>非常可乐帮</title></programme>
 
   <!-- 重庆都市广播 -->
   <programme start="20260929070000 +0800" stop="20260929120000 +0800" channel="cq-938"><title>都市早班车</title></programme>
@@ -744,13 +1002,157 @@
   <programme start="20260929183000 +0800" stop="20260929190000 +0800" channel="gs-961"><title>转播全国新闻联播</title></programme>
 
   <!-- 甘肃交通广播 -->
-  <programme start="20260929060000 +0800" stop="20260929070000 +0800" channel="gs-1035"><title>交广早报</title></programme>
-  <programme start="20260929070000 +0800" stop="20260929090000 +0800" channel="gs-1035"><title>路况信息 交警指路</title></programme>
-  <programme start="20260929090000 +0800" stop="20260929110000 +0800" channel="gs-1035"><title>完美车时代</title></programme>
-  <programme start="20260929110000 +0800" stop="20260929120000 +0800" channel="gs-1035"><title>一路秀逍遥</title></programme>
-  <programme start="20260929120000 +0800" stop="20260929123000 +0800" channel="gs-1035"><title>资讯餐吧</title></programme>
-  <programme start="20260929173000 +0800" stop="20260929190000 +0800" channel="gs-1035"><title>有我陪着你</title></programme>
-  <programme start="20260929193000 +0800" stop="20260929200000 +0800" channel="gs-1035"><title>汽车音乐榜</title></programme>
+  <programme start="20260929000000 +0800" stop="20260929003000 +0800" channel="bj-1006"><title>文化范儿（重播）</title></programme>
+  <programme start="20260929003000 +0800" stop="20260929050000 +0800" channel="bj-1006"><title>停机检修</title></programme>
+  <programme start="20260929050000 +0800" stop="20260929053500 +0800" channel="bj-1006"><title>科技新视点（重播）</title></programme>
+  <programme start="20260929053500 +0800" stop="20260929060000 +0800" channel="bj-1006"><title>健康北京（重播）</title></programme>
+  <programme start="20260929060000 +0800" stop="20260929062000 +0800" channel="bj-1006"><title>新闻晨报</title></programme>
+  <programme start="20260929062000 +0800" stop="20260929063000 +0800" channel="bj-1006"><title>新闻热线</title></programme>
+  <programme start="20260929063000 +0800" stop="20260929070000 +0800" channel="bj-1006"><title>新闻和报纸摘要</title></programme>
+  <programme start="20260929070000 +0800" stop="20260929072500 +0800" channel="bj-1006"><title>北京新闻</title></programme>
+  <programme start="20260929072500 +0800" stop="20260929073000 +0800" channel="bj-1006"><title>新闻热线</title></programme>
+  <programme start="20260929073000 +0800" stop="20260929090000 +0800" channel="bj-1006"><title>主播在线</title></programme>
+  <programme start="20260929090000 +0800" stop="20260929091500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260929091500 +0800" stop="20260929095000 +0800" channel="bj-1006"><title>财经对对碰</title></programme>
+  <programme start="20260929095000 +0800" stop="20260929100000 +0800" channel="bj-1006"><title>北广生活时间</title></programme>
+  <programme start="20260929100000 +0800" stop="20260929101500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260929101500 +0800" stop="20260929105000 +0800" channel="bj-1006"><title>话里话外</title></programme>
+  <programme start="20260929105000 +0800" stop="20260929110000 +0800" channel="bj-1006"><title>北广生活时间</title></programme>
+  <programme start="20260929110000 +0800" stop="20260929120000 +0800" channel="bj-1006"><title>档案</title></programme>
+  <programme start="20260929120000 +0800" stop="20260929121000 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260929121000 +0800" stop="20260929130000 +0800" channel="bj-1006"><title>945养生派</title></programme>
+  <programme start="20260929130000 +0800" stop="20260929131000 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260929131000 +0800" stop="20260929140000 +0800" channel="bj-1006"><title>乐海星歌</title></programme>
+  <programme start="20260929140000 +0800" stop="20260929141500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260929141500 +0800" stop="20260929145000 +0800" channel="bj-1006"><title>文化范儿</title></programme>
+  <programme start="20260929145000 +0800" stop="20260929150000 +0800" channel="bj-1006"><title>北广生活时间</title></programme>
+  <programme start="20260929150000 +0800" stop="20260929151500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260929151500 +0800" stop="20260929160000 +0800" channel="bj-1006"><title>科技新视点（重播）</title></programme>
+  <programme start="20260929160000 +0800" stop="20260929162000 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260929162000 +0800" stop="20260929180000 +0800" channel="bj-1006"><title>大城小事</title></programme>
+  <programme start="20260929180000 +0800" stop="20260929190000 +0800" channel="bj-1006"><title>新闻2026</title></programme>
+  <programme start="20260929190000 +0800" stop="20260929193000 +0800" channel="bj-1006"><title>央视新闻联播</title></programme>
+  <programme start="20260929193000 +0800" stop="20260929200000 +0800" channel="bj-1006"><title>健康北京</title></programme>
+  <programme start="20260929200000 +0800" stop="20260929201500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260929201500 +0800" stop="20260929210000 +0800" channel="bj-1006"><title>科技新视点</title></programme>
+  <programme start="20260929210000 +0800" stop="20260929211000 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260929211000 +0800" stop="20260929220000 +0800" channel="bj-1006"><title>945养生派（重播）</title></programme>
+  <programme start="20260929220000 +0800" stop="20260929221000 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260929221000 +0800" stop="20260929223500 +0800" channel="bj-1006"><title>北京的声音</title></programme>
+  <programme start="20260929223500 +0800" stop="20260929230000 +0800" channel="bj-1006"><title>谜幻时空</title></programme>
+  <programme start="20260929230000 +0800" stop="20260929235900 +0800" channel="bj-1006"><title>新闻2026（重播）</title></programme>
+  <programme start="20260929000000 +0800" stop="20260929060000 +0800" channel="bj-974"><title>停机检修</title></programme>
+  <programme start="20260929060000 +0800" stop="20260929070000 +0800" channel="bj-974"><title>乐海星歌</title></programme>
+  <programme start="20260929070000 +0800" stop="20260929090000 +0800" channel="bj-974"><title>早安音乐秀</title></programme>
+  <programme start="20260929090000 +0800" stop="20260929110000 +0800" channel="bj-974"><title>汽车音乐汇</title></programme>
+  <programme start="20260929110000 +0800" stop="20260929120000 +0800" channel="bj-974"><title>音乐加块糖</title></programme>
+  <programme start="20260929120000 +0800" stop="20260929130000 +0800" channel="bj-974"><title>乐听乐流行</title></programme>
+  <programme start="20260929130000 +0800" stop="20260929140000 +0800" channel="bj-974"><title>永恒的魅力</title></programme>
+  <programme start="20260929140000 +0800" stop="20260929150000 +0800" channel="bj-974"><title>经典三重奏</title></programme>
+  <programme start="20260929150000 +0800" stop="20260929160000 +0800" channel="bj-974"><title>你的故事我的歌</title></programme>
+  <programme start="20260929160000 +0800" stop="20260929170000 +0800" channel="bj-974"><title>音乐种草家</title></programme>
+  <programme start="20260929170000 +0800" stop="20260929190000 +0800" channel="bj-974"><title>娱乐最王牌</title></programme>
+  <programme start="20260929190000 +0800" stop="20260929200000 +0800" channel="bj-974"><title>华语金曲星光荟</title></programme>
+  <programme start="20260929200000 +0800" stop="20260929210000 +0800" channel="bj-974"><title>就听好歌不听话</title></programme>
+  <programme start="20260929210000 +0800" stop="20260929230000 +0800" channel="bj-974"><title>男左女右</title></programme>
+  <programme start="20260929230000 +0800" stop="20260929235900 +0800" channel="bj-974"><title>午夜情歌</title></programme>
+  <programme start="20260929000000 +0800" stop="20260929053000 +0800" channel="bj-1039"><title>停机检修</title></programme>
+  <programme start="20260929053000 +0800" stop="20260929060000 +0800" channel="bj-1039"><title>动听天下</title></programme>
+  <programme start="20260929060000 +0800" stop="20260929063000 +0800" channel="bj-1039"><title>徐徐道来话北京</title></programme>
+  <programme start="20260929063000 +0800" stop="20260929072000 +0800" channel="bj-1039"><title>1039新闻早报</title></programme>
+  <programme start="20260929072000 +0800" stop="20260929073000 +0800" channel="bj-1039"><title>问道1039</title></programme>
+  <programme start="20260929073000 +0800" stop="20260929093000 +0800" channel="bj-1039"><title>一路畅通</title></programme>
+  <programme start="20260929093000 +0800" stop="20260929100000 +0800" channel="bj-1039"><title>跃动的坐标</title></programme>
+  <programme start="20260929100000 +0800" stop="20260929110000 +0800" channel="bj-1039"><title>1039汽车天下</title></programme>
+  <programme start="20260929110000 +0800" stop="20260929120000 +0800" channel="bj-1039"><title>1039慧旅行</title></programme>
+  <programme start="20260929120000 +0800" stop="20260929130000 +0800" channel="bj-1039"><title>欢乐正前方·就是这个味儿</title></programme>
+  <programme start="20260929130000 +0800" stop="20260929140000 +0800" channel="bj-1039"><title>1039剧场</title></programme>
+  <programme start="20260929140000 +0800" stop="20260929150000 +0800" channel="bj-1039"><title>1039服务热线</title></programme>
+  <programme start="20260929150000 +0800" stop="20260929153000 +0800" channel="bj-1039"><title>动听天下（重播）</title></programme>
+  <programme start="20260929153000 +0800" stop="20260929160000 +0800" channel="bj-1039"><title>1039听见</title></programme>
+  <programme start="20260929160000 +0800" stop="20260929170000 +0800" channel="bj-1039"><title>行走天下</title></programme>
+  <programme start="20260929170000 +0800" stop="20260929190000 +0800" channel="bj-1039"><title>一路畅通</title></programme>
+  <programme start="20260929190000 +0800" stop="20260929200000 +0800" channel="bj-1039"><title>拾光聚会</title></programme>
+  <programme start="20260929200000 +0800" stop="20260929210000 +0800" channel="bj-1039"><title>新闻要知道</title></programme>
+  <programme start="20260929210000 +0800" stop="20260929213000 +0800" channel="bj-1039"><title>动听天下（重播）</title></programme>
+  <programme start="20260929213000 +0800" stop="20260929220000 +0800" channel="bj-1039"><title>跃动的坐标（重播）</title></programme>
+  <programme start="20260929220000 +0800" stop="20260929230000 +0800" channel="bj-1039"><title>蓝调北京</title></programme>
+  <programme start="20260929230000 +0800" stop="20260929235900 +0800" channel="bj-1039"><title>1039剧场（重播）</title></programme>
+  <programme start="20260929000000 +0800" stop="20260929033000 +0800" channel="cq-968"><title>广告专题</title></programme>
+  <programme start="20260929033000 +0800" stop="20260929060000 +0800" channel="cq-968"><title>广告专题</title></programme>
+  <programme start="20260929060000 +0800" stop="20260929062000 +0800" channel="cq-968"><title>早安重庆</title></programme>
+  <programme start="20260929062000 +0800" stop="20260929063000 +0800" channel="cq-968"><title>名曲鉴赏</title></programme>
+  <programme start="20260929063000 +0800" stop="20260929070000 +0800" channel="cq-968"><title>转播新闻和报纸摘要</title></programme>
+  <programme start="20260929070000 +0800" stop="20260929080000 +0800" channel="cq-968"><title>重庆早新闻</title></programme>
+  <programme start="20260929080000 +0800" stop="20260929100000 +0800" channel="cq-968"><title>菲姐说</title></programme>
+  <programme start="20260929100000 +0800" stop="20260929100500 +0800" channel="cq-968"><title>即时资讯</title></programme>
+  <programme start="20260929100500 +0800" stop="20260929110000 +0800" channel="cq-968"><title>身边说法</title></programme>
+  <programme start="20260929110000 +0800" stop="20260929120000 +0800" channel="cq-968"><title>968家长热线</title></programme>
+  <programme start="20260929120000 +0800" stop="20260929130000 +0800" channel="cq-968"><title>山城论健</title></programme>
+  <programme start="20260929130000 +0800" stop="20260929140000 +0800" channel="cq-968"><title>身边说法（重播）</title></programme>
+  <programme start="20260929140000 +0800" stop="20260929150000 +0800" channel="cq-968"><title>968家长热线（重播）</title></programme>
+  <programme start="20260929150000 +0800" stop="20260929150500 +0800" channel="cq-968"><title>即时资讯</title></programme>
+  <programme start="20260929150500 +0800" stop="20260929160000 +0800" channel="cq-968"><title>民呼我为热线</title></programme>
+  <programme start="20260929160000 +0800" stop="20260929160500 +0800" channel="cq-968"><title>即时资讯</title></programme>
+  <programme start="20260929160500 +0800" stop="20260929170000 +0800" channel="cq-968"><title>山城论健（重播）</title></programme>
+  <programme start="20260929170000 +0800" stop="20260929170500 +0800" channel="cq-968"><title>即时资讯</title></programme>
+  <programme start="20260929170500 +0800" stop="20260929180000 +0800" channel="cq-968"><title>晚高峰大搜索</title></programme>
+  <programme start="20260929180000 +0800" stop="20260929183000 +0800" channel="cq-968"><title>重庆之声·阳光关注</title></programme>
+  <programme start="20260929183000 +0800" stop="20260929190000 +0800" channel="cq-968"><title>转播全国新闻联播</title></programme>
+  <programme start="20260929190000 +0800" stop="20260929193000 +0800" channel="cq-968"><title>真相</title></programme>
+  <programme start="20260929193000 +0800" stop="20260929200000 +0800" channel="cq-968"><title>重庆之声·阳光关注（重播）</title></programme>
+  <programme start="20260929200000 +0800" stop="20260929210000 +0800" channel="cq-968"><title>身边说法（重播）</title></programme>
+  <programme start="20260929210000 +0800" stop="20260929220000 +0800" channel="cq-968"><title>968家长热线（重播）</title></programme>
+  <programme start="20260929220000 +0800" stop="20260929230000 +0800" channel="cq-968"><title>山城论健（重播）</title></programme>
+  <programme start="20260929230000 +0800" stop="20260929235900 +0800" channel="cq-968"><title>民呼我为热线（重播）</title></programme>
+  <programme start="20260929000000 +0800" stop="20260929060000 +0800" channel="cq-955"><title>一路倾听</title></programme>
+  <programme start="20260929060000 +0800" stop="20260929070000 +0800" channel="cq-955"><title>健康面对面</title></programme>
+  <programme start="20260929070000 +0800" stop="20260929083000 +0800" channel="cq-955"><title>资讯早班车</title></programme>
+  <programme start="20260929083000 +0800" stop="20260929100000 +0800" channel="cq-955"><title>955与你相随</title></programme>
+  <programme start="20260929100000 +0800" stop="20260929110000 +0800" channel="cq-955"><title>人车在线</title></programme>
+  <programme start="20260929110000 +0800" stop="20260929120000 +0800" channel="cq-955"><title>驾驶员俱乐部</title></programme>
+  <programme start="20260929120000 +0800" stop="20260929123000 +0800" channel="cq-955"><title>向左走向右走</title></programme>
+  <programme start="20260929123000 +0800" stop="20260929130000 +0800" channel="cq-955"><title>重庆好故事</title></programme>
+  <programme start="20260929130000 +0800" stop="20260929140000 +0800" channel="cq-955"><title>小咖看世界</title></programme>
+  <programme start="20260929140000 +0800" stop="20260929150000 +0800" channel="cq-955"><title>向快乐出发</title></programme>
+  <programme start="20260929150000 +0800" stop="20260929160000 +0800" channel="cq-955"><title>汽车世界</title></programme>
+  <programme start="20260929160000 +0800" stop="20260929170000 +0800" channel="cq-955"><title>健康面对面</title></programme>
+  <programme start="20260929170000 +0800" stop="20260929180000 +0800" channel="cq-955"><title>交广乐逍遥</title></programme>
+  <programme start="20260929180000 +0800" stop="20260929190000 +0800" channel="cq-955"><title>交广关注</title></programme>
+  <programme start="20260929190000 +0800" stop="20260929200000 +0800" channel="cq-955"><title>955车友生活</title></programme>
+  <programme start="20260929200000 +0800" stop="20260929210000 +0800" channel="cq-955"><title>人车在线</title></programme>
+  <programme start="20260929210000 +0800" stop="20260929220000 +0800" channel="cq-955"><title>小咖看世界</title></programme>
+  <programme start="20260929220000 +0800" stop="20260929230000 +0800" channel="cq-955"><title>交广乐逍遥</title></programme>
+  <programme start="20260929230000 +0800" stop="20260929235900 +0800" channel="cq-955"><title>一路倾听</title></programme>
+  <programme start="20260929000000 +0800" stop="20260929060000 +0800" channel="cq-881"><title>一整晚的音乐</title></programme>
+  <programme start="20260929060000 +0800" stop="20260929063000 +0800" channel="cq-881"><title>音乐问早安</title></programme>
+  <programme start="20260929063000 +0800" stop="20260929073000 +0800" channel="cq-881"><title>古典也流行</title></programme>
+  <programme start="20260929073000 +0800" stop="20260929083000 +0800" channel="cq-881"><title>汽车CD早安秀</title></programme>
+  <programme start="20260929083000 +0800" stop="20260929100000 +0800" channel="cq-881"><title>城市音乐杂志</title></programme>
+  <programme start="20260929100000 +0800" stop="20260929110000 +0800" channel="cq-881"><title>音乐风情之旅</title></programme>
+  <programme start="20260929110000 +0800" stop="20260929120000 +0800" channel="cq-881"><title>金曲时光机</title></programme>
+  <programme start="20260929120000 +0800" stop="20260929130000 +0800" channel="cq-881"><title>非常可乐帮</title></programme>
+  <programme start="20260929130000 +0800" stop="20260929140000 +0800" channel="cq-881"><title>音乐博客</title></programme>
+  <programme start="20260929140000 +0800" stop="20260929150000 +0800" channel="cq-881"><title>姐姐的音乐书吧</title></programme>
+  <programme start="20260929150000 +0800" stop="20260929160000 +0800" channel="cq-881"><title>潮妈驾到</title></programme>
+  <programme start="20260929160000 +0800" stop="20260929170000 +0800" channel="cq-881"><title>最流行</title></programme>
+  <programme start="20260929170000 +0800" stop="20260929183000 +0800" channel="cq-881"><title>潮玩心动派</title></programme>
+  <programme start="20260929183000 +0800" stop="20260929200000 +0800" channel="cq-881"><title>汽车音乐时间</title></programme>
+  <programme start="20260929200000 +0800" stop="20260929210000 +0800" channel="cq-881"><title>金曲时光机</title></programme>
+  <programme start="20260929210000 +0800" stop="20260929220000 +0800" channel="cq-881"><title>环球音乐网</title></programme>
+  <programme start="20260929220000 +0800" stop="20260929230000 +0800" channel="cq-881"><title>音乐博客</title></programme>
+  <programme start="20260929230000 +0800" stop="20260929235900 +0800" channel="cq-881"><title>音乐风情之旅</title></programme>
+  <programme start="20260929000000 +0800" stop="20260929010000 +0800" channel="gs-1035"><title>晚安甘肃（录播）</title></programme>
+  <programme start="20260929060000 +0800" stop="20260929070000 +0800" channel="gs-1035"><title>音乐第一班（录播）</title></programme>
+  <programme start="20260929070000 +0800" stop="20260929090000 +0800" channel="gs-1035"><title>早安甘肃</title></programme>
+  <programme start="20260929090000 +0800" stop="20260929110000 +0800" channel="gs-1035"><title>交通你发言</title></programme>
+  <programme start="20260929110000 +0800" stop="20260929130000 +0800" channel="gs-1035"><title>旅行大玩家</title></programme>
+  <programme start="20260929130000 +0800" stop="20260929140000 +0800" channel="gs-1035"><title>尕兰州喧车</title></programme>
+  <programme start="20260929140000 +0800" stop="20260929170000 +0800" channel="gs-1035"><title>设备检修</title></programme>
+  <programme start="20260929170000 +0800" stop="20260929190000 +0800" channel="gs-1035"><title>欢乐正前方</title></programme>
+  <programme start="20260929190000 +0800" stop="20260929210000 +0800" channel="gs-1035"><title>1035甄选</title></programme>
+  <programme start="20260929210000 +0800" stop="20260929230000 +0800" channel="gs-1035"><title>车外有星光</title></programme>
+  <programme start="20260929230000 +0800" stop="20260929235900 +0800" channel="gs-1035"><title>晚安甘肃（录播）</title></programme>
 <!-- 中国之声（通用日表） -->
   <programme start="20260930000000 +0800" stop="20260930000030 +0800" channel="cnr-zgzs"><title>档案揭秘</title></programme>
   <programme start="20260930000030 +0800" stop="20260930010000 +0800" channel="cnr-zgzs"><title>记录中国</title></programme>
@@ -841,36 +1243,10 @@
   <programme start="20260930210000 +0800" stop="20260930235959 +0800" channel="cnr-jtgb"><title>夜行指南</title></programme>
 
   <!-- 北京交通广播 -->
-  <programme start="20260930053000 +0800" stop="20260930060000 +0800" channel="bj-1039"><title>动听天下</title></programme>
-  <programme start="20260930060000 +0800" stop="20260930063000 +0800" channel="bj-1039"><title>徐徐道来话北京</title></programme>
-  <programme start="20260930063000 +0800" stop="20260930073000 +0800" channel="bj-1039"><title>1039新闻早报</title></programme>
-  <programme start="20260930073000 +0800" stop="20260930093000 +0800" channel="bj-1039"><title>一路畅通</title></programme>
-  <programme start="20260930093000 +0800" stop="20260930100000 +0800" channel="bj-1039"><title>跃动的坐标</title></programme>
-  <programme start="20260930100000 +0800" stop="20260930110000 +0800" channel="bj-1039"><title>1039汽车天下</title></programme>
-  <programme start="20260930110000 +0800" stop="20260930120000 +0800" channel="bj-1039"><title>1039慧旅行</title></programme>
-  <programme start="20260930120000 +0800" stop="20260930130000 +0800" channel="bj-1039"><title>欢乐正前方</title></programme>
-  <programme start="20260930130000 +0800" stop="20260930133000 +0800" channel="bj-1039"><title>1039服务热线</title></programme>
-  <programme start="20260930153000 +0800" stop="20260930160000 +0800" channel="bj-1039"><title>1039汽车音乐时间</title></programme>
-  <programme start="20260930160000 +0800" stop="20260930170000 +0800" channel="bj-1039"><title>一路畅通</title></programme>
-  <programme start="20260930170000 +0800" stop="20260930190000 +0800" channel="bj-1039"><title>新闻要知道</title></programme>
-  <programme start="20260930190000 +0800" stop="20260930200000 +0800" channel="bj-1039"><title>1039都市调查组</title></programme>
-  <programme start="20260930200000 +0800" stop="20260930210000 +0800" channel="bj-1039"><title>动听天下(重播)</title></programme>
-  <programme start="20260930210000 +0800" stop="20260930213000 +0800" channel="bj-1039"><title>应急时刻</title></programme>
-  <programme start="20260930220000 +0800" stop="20260930230000 +0800" channel="bj-1039"><title>蓝调北京</title></programme>
 
   <!-- 北京音乐广播 -->
-  <programme start="20260930060000 +0800" stop="20260930120000 +0800" channel="bj-974"><title>晨光音乐</title></programme>
-  <programme start="20260930120000 +0800" stop="20260930180000 +0800" channel="bj-974"><title>音乐下午茶</title></programme>
-  <programme start="20260930200000 +0800" stop="20260930220000 +0800" channel="bj-974"><title>974Live Show</title></programme>
-  <programme start="20260930220000 +0800" stop="20260930235959 +0800" channel="bj-974"><title>深夜电台</title></programme>
 
   <!-- 北京新闻广播 -->
-  <programme start="20260930060000 +0800" stop="20260930070000 +0800" channel="bj-1006"><title>新闻晨报</title></programme>
-  <programme start="20260930070000 +0800" stop="20260930090000 +0800" channel="bj-1006"><title>北京新闻</title></programme>
-  <programme start="20260930090000 +0800" stop="20260930120000 +0800" channel="bj-1006"><title>时政访谈</title></programme>
-  <programme start="20260930120000 +0800" stop="20260930140000 +0800" channel="bj-1006"><title>文化范儿</title></programme>
-  <programme start="20260930140000 +0800" stop="20260930170000 +0800" channel="bj-1006"><title>新闻热线</title></programme>
-  <programme start="20260930170000 +0800" stop="20260930190000 +0800" channel="bj-1006"><title>京津冀之声转接</title></programme>
 
   <!-- 北京文艺广播 -->
   <programme start="20260930063000 +0800" stop="20260930073000 +0800" channel="bj-876"><title>早起听书</title></programme>
@@ -881,15 +1257,6 @@
   <programme start="20260930190000 +0800" stop="20260930210000 +0800" channel="bj-876"><title>快乐旅行家</title></programme>
 
   <!-- 重庆新闻广播 -->
-  <programme start="20260930063000 +0800" stop="20260930070000 +0800" channel="cq-968"><title>转播新闻和报纸摘要</title></programme>
-  <programme start="20260930070000 +0800" stop="20260930080000 +0800" channel="cq-968"><title>重庆早新闻</title></programme>
-  <programme start="20260930080000 +0800" stop="20260930100000 +0800" channel="cq-968"><title>菲姐说</title></programme>
-  <programme start="20260930100000 +0800" stop="20260930110000 +0800" channel="cq-968"><title>民呼我为</title></programme>
-  <programme start="20260930110000 +0800" stop="20260930120000 +0800" channel="cq-968"><title>968家长热线</title></programme>
-  <programme start="20260930120000 +0800" stop="20260930130000 +0800" channel="cq-968"><title>好个重庆城</title></programme>
-  <programme start="20260930130000 +0800" stop="20260930140000 +0800" channel="cq-968"><title>身边说法</title></programme>
-  <programme start="20260930163000 +0800" stop="20260930180000 +0800" channel="cq-968"><title>968晚高峰</title></programme>
-  <programme start="20260930183000 +0800" stop="20260930190000 +0800" channel="cq-968"><title>转播全国新闻联播</title></programme>
 
   <!-- 重庆经济广播 -->
   <programme start="20260930070000 +0800" stop="20260930120000 +0800" channel="cq-1015"><title>财经重庆</title></programme>
@@ -898,19 +1265,8 @@
   <programme start="20260930170000 +0800" stop="20260930200000 +0800" channel="cq-1015"><title>经济夜话</title></programme>
 
   <!-- 重庆交通广播 -->
-  <programme start="20260930070000 +0800" stop="20260930090000 +0800" channel="cq-955"><title>早安重庆·路况</title></programme>
-  <programme start="20260930090000 +0800" stop="20260930120000 +0800" channel="cq-955"><title>汽车CD</title></programme>
-  <programme start="20260930120000 +0800" stop="20260930140000 +0800" channel="cq-955"><title>出行服务台</title></programme>
-  <programme start="20260930170000 +0800" stop="20260930190000 +0800" channel="cq-955"><title>晚高峰路况</title></programme>
-  <programme start="20260930190000 +0800" stop="20260930210000 +0800" channel="cq-955"><title>交通热线</title></programme>
 
   <!-- 重庆音乐广播 -->
-  <programme start="20260930000000 +0800" stop="20260930060000 +0800" channel="cq-881"><title>音乐永远在</title></programme>
-  <programme start="20260930060000 +0800" stop="20260930073000 +0800" channel="cq-881"><title>音乐风情之旅</title></programme>
-  <programme start="20260930073000 +0800" stop="20260930100000 +0800" channel="cq-881"><title>汽车CD早安秀</title></programme>
-  <programme start="20260930100000 +0800" stop="20260930120000 +0800" channel="cq-881"><title>最流行</title></programme>
-  <programme start="20260930170000 +0800" stop="20260930190000 +0800" channel="cq-881"><title>汽车音乐时间</title></programme>
-  <programme start="20260930190000 +0800" stop="20260930220000 +0800" channel="cq-881"><title>非常可乐帮</title></programme>
 
   <!-- 重庆都市广播 -->
   <programme start="20260930070000 +0800" stop="20260930120000 +0800" channel="cq-938"><title>都市早班车</title></programme>
@@ -927,13 +1283,167 @@
   <programme start="20260930183000 +0800" stop="20260930190000 +0800" channel="gs-961"><title>转播全国新闻联播</title></programme>
 
   <!-- 甘肃交通广播 -->
-  <programme start="20260930060000 +0800" stop="20260930070000 +0800" channel="gs-1035"><title>交广早报</title></programme>
-  <programme start="20260930070000 +0800" stop="20260930090000 +0800" channel="gs-1035"><title>路况信息 交警指路</title></programme>
-  <programme start="20260930090000 +0800" stop="20260930110000 +0800" channel="gs-1035"><title>完美车时代</title></programme>
-  <programme start="20260930110000 +0800" stop="20260930120000 +0800" channel="gs-1035"><title>一路秀逍遥</title></programme>
-  <programme start="20260930120000 +0800" stop="20260930123000 +0800" channel="gs-1035"><title>资讯餐吧</title></programme>
-  <programme start="20260930173000 +0800" stop="20260930190000 +0800" channel="gs-1035"><title>有我陪着你</title></programme>
-  <programme start="20260930193000 +0800" stop="20260930200000 +0800" channel="gs-1035"><title>汽车音乐榜</title></programme>
+  <programme start="20260930000000 +0800" stop="20260930003000 +0800" channel="bj-1006"><title>文化范儿（重播）</title></programme>
+  <programme start="20260930003000 +0800" stop="20260930020000 +0800" channel="bj-1006"><title>大城小事（重播）</title></programme>
+  <programme start="20260930020000 +0800" stop="20260930023500 +0800" channel="bj-1006"><title>945养生派（重播）</title></programme>
+  <programme start="20260930023500 +0800" stop="20260930030000 +0800" channel="bj-1006"><title>北京的声音（重播）</title></programme>
+  <programme start="20260930030000 +0800" stop="20260930033500 +0800" channel="bj-1006"><title>话里话外（重播）</title></programme>
+  <programme start="20260930033500 +0800" stop="20260930040000 +0800" channel="bj-1006"><title>谜幻时空（重播）</title></programme>
+  <programme start="20260930040000 +0800" stop="20260930050000 +0800" channel="bj-1006"><title>乐海星歌（重播）</title></programme>
+  <programme start="20260930050000 +0800" stop="20260930053500 +0800" channel="bj-1006"><title>科技新视点（重播）</title></programme>
+  <programme start="20260930053500 +0800" stop="20260930060000 +0800" channel="bj-1006"><title>健康北京（重播）</title></programme>
+  <programme start="20260930060000 +0800" stop="20260930062000 +0800" channel="bj-1006"><title>新闻晨报</title></programme>
+  <programme start="20260930062000 +0800" stop="20260930063000 +0800" channel="bj-1006"><title>新闻热线</title></programme>
+  <programme start="20260930063000 +0800" stop="20260930070000 +0800" channel="bj-1006"><title>新闻和报纸摘要</title></programme>
+  <programme start="20260930070000 +0800" stop="20260930072500 +0800" channel="bj-1006"><title>北京新闻</title></programme>
+  <programme start="20260930072500 +0800" stop="20260930073000 +0800" channel="bj-1006"><title>新闻热线</title></programme>
+  <programme start="20260930073000 +0800" stop="20260930090000 +0800" channel="bj-1006"><title>主播在线</title></programme>
+  <programme start="20260930090000 +0800" stop="20260930091500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260930091500 +0800" stop="20260930095000 +0800" channel="bj-1006"><title>财经对对碰</title></programme>
+  <programme start="20260930095000 +0800" stop="20260930100000 +0800" channel="bj-1006"><title>北广生活时间</title></programme>
+  <programme start="20260930100000 +0800" stop="20260930101500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260930101500 +0800" stop="20260930105000 +0800" channel="bj-1006"><title>话里话外</title></programme>
+  <programme start="20260930105000 +0800" stop="20260930110000 +0800" channel="bj-1006"><title>北广生活时间</title></programme>
+  <programme start="20260930110000 +0800" stop="20260930120000 +0800" channel="bj-1006"><title>档案</title></programme>
+  <programme start="20260930120000 +0800" stop="20260930121000 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260930121000 +0800" stop="20260930125000 +0800" channel="bj-1006"><title>945养生派</title></programme>
+  <programme start="20260930125000 +0800" stop="20260930130000 +0800" channel="bj-1006"><title>北广生活时间</title></programme>
+  <programme start="20260930130000 +0800" stop="20260930131000 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260930131000 +0800" stop="20260930140000 +0800" channel="bj-1006"><title>乐海星歌</title></programme>
+  <programme start="20260930140000 +0800" stop="20260930141500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260930141500 +0800" stop="20260930145000 +0800" channel="bj-1006"><title>文化范儿</title></programme>
+  <programme start="20260930145000 +0800" stop="20260930150000 +0800" channel="bj-1006"><title>北广生活时间</title></programme>
+  <programme start="20260930150000 +0800" stop="20260930151500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260930151500 +0800" stop="20260930160000 +0800" channel="bj-1006"><title>科技新视点（重播）</title></programme>
+  <programme start="20260930160000 +0800" stop="20260930162000 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260930162000 +0800" stop="20260930180000 +0800" channel="bj-1006"><title>大城小事</title></programme>
+  <programme start="20260930180000 +0800" stop="20260930190000 +0800" channel="bj-1006"><title>新闻2026</title></programme>
+  <programme start="20260930190000 +0800" stop="20260930193000 +0800" channel="bj-1006"><title>央视新闻联播</title></programme>
+  <programme start="20260930193000 +0800" stop="20260930200000 +0800" channel="bj-1006"><title>健康北京</title></programme>
+  <programme start="20260930200000 +0800" stop="20260930201500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260930201500 +0800" stop="20260930210000 +0800" channel="bj-1006"><title>科技新视点</title></programme>
+  <programme start="20260930210000 +0800" stop="20260930211000 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260930211000 +0800" stop="20260930220000 +0800" channel="bj-1006"><title>945养生派（重播）</title></programme>
+  <programme start="20260930220000 +0800" stop="20260930221000 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20260930221000 +0800" stop="20260930223500 +0800" channel="bj-1006"><title>北京的声音</title></programme>
+  <programme start="20260930223500 +0800" stop="20260930230000 +0800" channel="bj-1006"><title>谜幻时空</title></programme>
+  <programme start="20260930230000 +0800" stop="20260930235900 +0800" channel="bj-1006"><title>新闻2026（重播）</title></programme>
+  <programme start="20260930000000 +0800" stop="20260930070000 +0800" channel="bj-974"><title>乐海星歌</title></programme>
+  <programme start="20260930070000 +0800" stop="20260930090000 +0800" channel="bj-974"><title>早安音乐秀</title></programme>
+  <programme start="20260930090000 +0800" stop="20260930110000 +0800" channel="bj-974"><title>汽车音乐汇</title></programme>
+  <programme start="20260930110000 +0800" stop="20260930120000 +0800" channel="bj-974"><title>音乐加块糖</title></programme>
+  <programme start="20260930120000 +0800" stop="20260930130000 +0800" channel="bj-974"><title>乐听乐流行</title></programme>
+  <programme start="20260930130000 +0800" stop="20260930140000 +0800" channel="bj-974"><title>永恒的魅力</title></programme>
+  <programme start="20260930140000 +0800" stop="20260930150000 +0800" channel="bj-974"><title>经典三重奏</title></programme>
+  <programme start="20260930150000 +0800" stop="20260930160000 +0800" channel="bj-974"><title>你的故事我的歌</title></programme>
+  <programme start="20260930160000 +0800" stop="20260930170000 +0800" channel="bj-974"><title>音乐种草家</title></programme>
+  <programme start="20260930170000 +0800" stop="20260930190000 +0800" channel="bj-974"><title>娱乐最王牌</title></programme>
+  <programme start="20260930190000 +0800" stop="20260930200000 +0800" channel="bj-974"><title>华语金曲星光荟</title></programme>
+  <programme start="20260930200000 +0800" stop="20260930210000 +0800" channel="bj-974"><title>就听好歌不听话</title></programme>
+  <programme start="20260930210000 +0800" stop="20260930230000 +0800" channel="bj-974"><title>男左女右</title></programme>
+  <programme start="20260930230000 +0800" stop="20260930235900 +0800" channel="bj-974"><title>午夜情歌</title></programme>
+  <programme start="20260930000000 +0800" stop="20260930010000 +0800" channel="bj-1039"><title>欢乐正前方·就是这个味（重播）</title></programme>
+  <programme start="20260930010000 +0800" stop="20260930020000 +0800" channel="bj-1039"><title>1039慧旅行（重播）</title></programme>
+  <programme start="20260930020000 +0800" stop="20260930030000 +0800" channel="bj-1039"><title>行走天下（重播）</title></programme>
+  <programme start="20260930030000 +0800" stop="20260930040000 +0800" channel="bj-1039"><title>拾光聚会（重播）</title></programme>
+  <programme start="20260930040000 +0800" stop="20260930050000 +0800" channel="bj-1039"><title>蓝调北京（重播）</title></programme>
+  <programme start="20260930050000 +0800" stop="20260930053000 +0800" channel="bj-1039"><title>峰回路转（重播）</title></programme>
+  <programme start="20260930053000 +0800" stop="20260930060000 +0800" channel="bj-1039"><title>动听天下</title></programme>
+  <programme start="20260930060000 +0800" stop="20260930063000 +0800" channel="bj-1039"><title>徐徐道来话北京</title></programme>
+  <programme start="20260930063000 +0800" stop="20260930072000 +0800" channel="bj-1039"><title>1039新闻早报</title></programme>
+  <programme start="20260930072000 +0800" stop="20260930073000 +0800" channel="bj-1039"><title>问道1039</title></programme>
+  <programme start="20260930073000 +0800" stop="20260930093000 +0800" channel="bj-1039"><title>一路畅通</title></programme>
+  <programme start="20260930093000 +0800" stop="20260930100000 +0800" channel="bj-1039"><title>跃动的坐标</title></programme>
+  <programme start="20260930100000 +0800" stop="20260930110000 +0800" channel="bj-1039"><title>1039汽车天下</title></programme>
+  <programme start="20260930110000 +0800" stop="20260930120000 +0800" channel="bj-1039"><title>1039慧旅行</title></programme>
+  <programme start="20260930120000 +0800" stop="20260930130000 +0800" channel="bj-1039"><title>欢乐正前方·就是这个味儿</title></programme>
+  <programme start="20260930130000 +0800" stop="20260930140000 +0800" channel="bj-1039"><title>1039剧场</title></programme>
+  <programme start="20260930140000 +0800" stop="20260930150000 +0800" channel="bj-1039"><title>1039服务热线</title></programme>
+  <programme start="20260930150000 +0800" stop="20260930153000 +0800" channel="bj-1039"><title>动听天下（重播）</title></programme>
+  <programme start="20260930153000 +0800" stop="20260930160000 +0800" channel="bj-1039"><title>1039听见</title></programme>
+  <programme start="20260930160000 +0800" stop="20260930170000 +0800" channel="bj-1039"><title>行走天下</title></programme>
+  <programme start="20260930170000 +0800" stop="20260930190000 +0800" channel="bj-1039"><title>一路畅通</title></programme>
+  <programme start="20260930190000 +0800" stop="20260930200000 +0800" channel="bj-1039"><title>拾光聚会</title></programme>
+  <programme start="20260930200000 +0800" stop="20260930210000 +0800" channel="bj-1039"><title>新闻要知道</title></programme>
+  <programme start="20260930210000 +0800" stop="20260930213000 +0800" channel="bj-1039"><title>动听天下（重播）</title></programme>
+  <programme start="20260930213000 +0800" stop="20260930220000 +0800" channel="bj-1039"><title>跃动的坐标（重播）</title></programme>
+  <programme start="20260930220000 +0800" stop="20260930230000 +0800" channel="bj-1039"><title>蓝调北京</title></programme>
+  <programme start="20260930230000 +0800" stop="20260930235900 +0800" channel="bj-1039"><title>1039剧场（重播）</title></programme>
+  <programme start="20260930000000 +0800" stop="20260930033000 +0800" channel="cq-968"><title>广告专题</title></programme>
+  <programme start="20260930033000 +0800" stop="20260930060000 +0800" channel="cq-968"><title>广告专题</title></programme>
+  <programme start="20260930060000 +0800" stop="20260930062000 +0800" channel="cq-968"><title>早安重庆</title></programme>
+  <programme start="20260930062000 +0800" stop="20260930063000 +0800" channel="cq-968"><title>名曲鉴赏</title></programme>
+  <programme start="20260930063000 +0800" stop="20260930070000 +0800" channel="cq-968"><title>转播新闻和报纸摘要</title></programme>
+  <programme start="20260930070000 +0800" stop="20260930080000 +0800" channel="cq-968"><title>重庆早新闻</title></programme>
+  <programme start="20260930080000 +0800" stop="20260930100000 +0800" channel="cq-968"><title>菲姐说</title></programme>
+  <programme start="20260930100000 +0800" stop="20260930100500 +0800" channel="cq-968"><title>即时资讯</title></programme>
+  <programme start="20260930100500 +0800" stop="20260930110000 +0800" channel="cq-968"><title>身边说法</title></programme>
+  <programme start="20260930110000 +0800" stop="20260930120000 +0800" channel="cq-968"><title>968家长热线</title></programme>
+  <programme start="20260930120000 +0800" stop="20260930130000 +0800" channel="cq-968"><title>山城论健</title></programme>
+  <programme start="20260930130000 +0800" stop="20260930140000 +0800" channel="cq-968"><title>身边说法（重播）</title></programme>
+  <programme start="20260930140000 +0800" stop="20260930150000 +0800" channel="cq-968"><title>968家长热线（重播）</title></programme>
+  <programme start="20260930150000 +0800" stop="20260930150500 +0800" channel="cq-968"><title>即时资讯</title></programme>
+  <programme start="20260930150500 +0800" stop="20260930160000 +0800" channel="cq-968"><title>民呼我为热线</title></programme>
+  <programme start="20260930160000 +0800" stop="20260930160500 +0800" channel="cq-968"><title>即时资讯</title></programme>
+  <programme start="20260930160500 +0800" stop="20260930170000 +0800" channel="cq-968"><title>山城论健（重播）</title></programme>
+  <programme start="20260930170000 +0800" stop="20260930170500 +0800" channel="cq-968"><title>即时资讯</title></programme>
+  <programme start="20260930170500 +0800" stop="20260930180000 +0800" channel="cq-968"><title>晚高峰大搜索</title></programme>
+  <programme start="20260930180000 +0800" stop="20260930183000 +0800" channel="cq-968"><title>重庆之声·阳光关注</title></programme>
+  <programme start="20260930183000 +0800" stop="20260930190000 +0800" channel="cq-968"><title>转播全国新闻联播</title></programme>
+  <programme start="20260930190000 +0800" stop="20260930193000 +0800" channel="cq-968"><title>真相</title></programme>
+  <programme start="20260930193000 +0800" stop="20260930200000 +0800" channel="cq-968"><title>重庆之声·阳光关注（重播）</title></programme>
+  <programme start="20260930200000 +0800" stop="20260930210000 +0800" channel="cq-968"><title>身边说法（重播）</title></programme>
+  <programme start="20260930210000 +0800" stop="20260930220000 +0800" channel="cq-968"><title>968家长热线（重播）</title></programme>
+  <programme start="20260930220000 +0800" stop="20260930230000 +0800" channel="cq-968"><title>山城论健（重播）</title></programme>
+  <programme start="20260930230000 +0800" stop="20260930235900 +0800" channel="cq-968"><title>民呼我为热线（重播）</title></programme>
+  <programme start="20260930000000 +0800" stop="20260930060000 +0800" channel="cq-955"><title>一路倾听</title></programme>
+  <programme start="20260930060000 +0800" stop="20260930070000 +0800" channel="cq-955"><title>健康面对面</title></programme>
+  <programme start="20260930070000 +0800" stop="20260930083000 +0800" channel="cq-955"><title>资讯早班车</title></programme>
+  <programme start="20260930083000 +0800" stop="20260930100000 +0800" channel="cq-955"><title>955与你相随</title></programme>
+  <programme start="20260930100000 +0800" stop="20260930110000 +0800" channel="cq-955"><title>人车在线</title></programme>
+  <programme start="20260930110000 +0800" stop="20260930120000 +0800" channel="cq-955"><title>驾驶员俱乐部</title></programme>
+  <programme start="20260930120000 +0800" stop="20260930123000 +0800" channel="cq-955"><title>向左走向右走</title></programme>
+  <programme start="20260930123000 +0800" stop="20260930130000 +0800" channel="cq-955"><title>重庆好故事</title></programme>
+  <programme start="20260930130000 +0800" stop="20260930140000 +0800" channel="cq-955"><title>小咖看世界</title></programme>
+  <programme start="20260930140000 +0800" stop="20260930150000 +0800" channel="cq-955"><title>向快乐出发</title></programme>
+  <programme start="20260930150000 +0800" stop="20260930160000 +0800" channel="cq-955"><title>汽车世界</title></programme>
+  <programme start="20260930160000 +0800" stop="20260930170000 +0800" channel="cq-955"><title>健康面对面</title></programme>
+  <programme start="20260930170000 +0800" stop="20260930180000 +0800" channel="cq-955"><title>交广乐逍遥</title></programme>
+  <programme start="20260930180000 +0800" stop="20260930190000 +0800" channel="cq-955"><title>交广关注</title></programme>
+  <programme start="20260930190000 +0800" stop="20260930200000 +0800" channel="cq-955"><title>955车友生活</title></programme>
+  <programme start="20260930200000 +0800" stop="20260930210000 +0800" channel="cq-955"><title>人车在线</title></programme>
+  <programme start="20260930210000 +0800" stop="20260930220000 +0800" channel="cq-955"><title>小咖看世界</title></programme>
+  <programme start="20260930220000 +0800" stop="20260930230000 +0800" channel="cq-955"><title>交广乐逍遥</title></programme>
+  <programme start="20260930230000 +0800" stop="20260930235900 +0800" channel="cq-955"><title>一路倾听</title></programme>
+  <programme start="20260930000000 +0800" stop="20260930060000 +0800" channel="cq-881"><title>一整晚的音乐</title></programme>
+  <programme start="20260930060000 +0800" stop="20260930063000 +0800" channel="cq-881"><title>音乐问早安</title></programme>
+  <programme start="20260930063000 +0800" stop="20260930073000 +0800" channel="cq-881"><title>古典也流行</title></programme>
+  <programme start="20260930073000 +0800" stop="20260930083000 +0800" channel="cq-881"><title>汽车CD早安秀</title></programme>
+  <programme start="20260930083000 +0800" stop="20260930100000 +0800" channel="cq-881"><title>城市音乐杂志</title></programme>
+  <programme start="20260930100000 +0800" stop="20260930110000 +0800" channel="cq-881"><title>音乐风情之旅</title></programme>
+  <programme start="20260930110000 +0800" stop="20260930120000 +0800" channel="cq-881"><title>金曲时光机</title></programme>
+  <programme start="20260930120000 +0800" stop="20260930130000 +0800" channel="cq-881"><title>非常可乐帮</title></programme>
+  <programme start="20260930130000 +0800" stop="20260930140000 +0800" channel="cq-881"><title>音乐博客</title></programme>
+  <programme start="20260930140000 +0800" stop="20260930150000 +0800" channel="cq-881"><title>姐姐的音乐书吧</title></programme>
+  <programme start="20260930150000 +0800" stop="20260930160000 +0800" channel="cq-881"><title>潮妈驾到</title></programme>
+  <programme start="20260930160000 +0800" stop="20260930170000 +0800" channel="cq-881"><title>最流行</title></programme>
+  <programme start="20260930170000 +0800" stop="20260930183000 +0800" channel="cq-881"><title>潮玩心动派</title></programme>
+  <programme start="20260930183000 +0800" stop="20260930200000 +0800" channel="cq-881"><title>汽车音乐时间</title></programme>
+  <programme start="20260930200000 +0800" stop="20260930210000 +0800" channel="cq-881"><title>金曲时光机</title></programme>
+  <programme start="20260930210000 +0800" stop="20260930220000 +0800" channel="cq-881"><title>环球音乐网</title></programme>
+  <programme start="20260930220000 +0800" stop="20260930230000 +0800" channel="cq-881"><title>音乐博客</title></programme>
+  <programme start="20260930230000 +0800" stop="20260930235900 +0800" channel="cq-881"><title>音乐风情之旅</title></programme>
+  <programme start="20260930000000 +0800" stop="20260930010000 +0800" channel="gs-1035"><title>晚安甘肃（录播）</title></programme>
+  <programme start="20260930060000 +0800" stop="20260930070000 +0800" channel="gs-1035"><title>音乐第一班（录播）</title></programme>
+  <programme start="20260930070000 +0800" stop="20260930090000 +0800" channel="gs-1035"><title>早安甘肃</title></programme>
+  <programme start="20260930090000 +0800" stop="20260930110000 +0800" channel="gs-1035"><title>交通你发言</title></programme>
+  <programme start="20260930110000 +0800" stop="20260930130000 +0800" channel="gs-1035"><title>旅行大玩家</title></programme>
+  <programme start="20260930130000 +0800" stop="20260930150000 +0800" channel="gs-1035"><title>尕兰州喧车</title></programme>
+  <programme start="20260930150000 +0800" stop="20260930170000 +0800" channel="gs-1035"><title>1035幸福家</title></programme>
+  <programme start="20260930170000 +0800" stop="20260930190000 +0800" channel="gs-1035"><title>欢乐正前方</title></programme>
+  <programme start="20260930190000 +0800" stop="20260930210000 +0800" channel="gs-1035"><title>1035甄选</title></programme>
+  <programme start="20260930210000 +0800" stop="20260930230000 +0800" channel="gs-1035"><title>车外有星光</title></programme>
+  <programme start="20260930230000 +0800" stop="20260930235900 +0800" channel="gs-1035"><title>晚安甘肃（录播）</title></programme>
 <!-- 中国之声（通用日表） -->
   <programme start="20261001000000 +0800" stop="20261001000030 +0800" channel="cnr-zgzs"><title>档案揭秘</title></programme>
   <programme start="20261001000030 +0800" stop="20261001010000 +0800" channel="cnr-zgzs"><title>记录中国</title></programme>
@@ -1024,36 +1534,10 @@
   <programme start="20261001210000 +0800" stop="20261001235959 +0800" channel="cnr-jtgb"><title>夜行指南</title></programme>
 
   <!-- 北京交通广播 -->
-  <programme start="20261001053000 +0800" stop="20261001060000 +0800" channel="bj-1039"><title>动听天下</title></programme>
-  <programme start="20261001060000 +0800" stop="20261001063000 +0800" channel="bj-1039"><title>徐徐道来话北京</title></programme>
-  <programme start="20261001063000 +0800" stop="20261001073000 +0800" channel="bj-1039"><title>1039新闻早报</title></programme>
-  <programme start="20261001073000 +0800" stop="20261001093000 +0800" channel="bj-1039"><title>一路畅通</title></programme>
-  <programme start="20261001093000 +0800" stop="20261001100000 +0800" channel="bj-1039"><title>跃动的坐标</title></programme>
-  <programme start="20261001100000 +0800" stop="20261001110000 +0800" channel="bj-1039"><title>1039汽车天下</title></programme>
-  <programme start="20261001110000 +0800" stop="20261001120000 +0800" channel="bj-1039"><title>1039慧旅行</title></programme>
-  <programme start="20261001120000 +0800" stop="20261001130000 +0800" channel="bj-1039"><title>欢乐正前方</title></programme>
-  <programme start="20261001130000 +0800" stop="20261001133000 +0800" channel="bj-1039"><title>1039服务热线</title></programme>
-  <programme start="20261001153000 +0800" stop="20261001160000 +0800" channel="bj-1039"><title>1039汽车音乐时间</title></programme>
-  <programme start="20261001160000 +0800" stop="20261001170000 +0800" channel="bj-1039"><title>一路畅通</title></programme>
-  <programme start="20261001170000 +0800" stop="20261001190000 +0800" channel="bj-1039"><title>新闻要知道</title></programme>
-  <programme start="20261001190000 +0800" stop="20261001200000 +0800" channel="bj-1039"><title>1039都市调查组</title></programme>
-  <programme start="20261001200000 +0800" stop="20261001210000 +0800" channel="bj-1039"><title>动听天下(重播)</title></programme>
-  <programme start="20261001210000 +0800" stop="20261001213000 +0800" channel="bj-1039"><title>应急时刻</title></programme>
-  <programme start="20261001220000 +0800" stop="20261001230000 +0800" channel="bj-1039"><title>蓝调北京</title></programme>
 
   <!-- 北京音乐广播 -->
-  <programme start="20261001060000 +0800" stop="20261001120000 +0800" channel="bj-974"><title>晨光音乐</title></programme>
-  <programme start="20261001120000 +0800" stop="20261001180000 +0800" channel="bj-974"><title>音乐下午茶</title></programme>
-  <programme start="20261001200000 +0800" stop="20261001220000 +0800" channel="bj-974"><title>974Live Show</title></programme>
-  <programme start="20261001220000 +0800" stop="20261001235959 +0800" channel="bj-974"><title>深夜电台</title></programme>
 
   <!-- 北京新闻广播 -->
-  <programme start="20261001060000 +0800" stop="20261001070000 +0800" channel="bj-1006"><title>新闻晨报</title></programme>
-  <programme start="20261001070000 +0800" stop="20261001090000 +0800" channel="bj-1006"><title>北京新闻</title></programme>
-  <programme start="20261001090000 +0800" stop="20261001120000 +0800" channel="bj-1006"><title>时政访谈</title></programme>
-  <programme start="20261001120000 +0800" stop="20261001140000 +0800" channel="bj-1006"><title>文化范儿</title></programme>
-  <programme start="20261001140000 +0800" stop="20261001170000 +0800" channel="bj-1006"><title>新闻热线</title></programme>
-  <programme start="20261001170000 +0800" stop="20261001190000 +0800" channel="bj-1006"><title>京津冀之声转接</title></programme>
 
   <!-- 北京文艺广播 -->
   <programme start="20261001063000 +0800" stop="20261001073000 +0800" channel="bj-876"><title>早起听书</title></programme>
@@ -1064,15 +1548,6 @@
   <programme start="20261001190000 +0800" stop="20261001210000 +0800" channel="bj-876"><title>快乐旅行家</title></programme>
 
   <!-- 重庆新闻广播 -->
-  <programme start="20261001063000 +0800" stop="20261001070000 +0800" channel="cq-968"><title>转播新闻和报纸摘要</title></programme>
-  <programme start="20261001070000 +0800" stop="20261001080000 +0800" channel="cq-968"><title>重庆早新闻</title></programme>
-  <programme start="20261001080000 +0800" stop="20261001100000 +0800" channel="cq-968"><title>菲姐说</title></programme>
-  <programme start="20261001100000 +0800" stop="20261001110000 +0800" channel="cq-968"><title>民呼我为</title></programme>
-  <programme start="20261001110000 +0800" stop="20261001120000 +0800" channel="cq-968"><title>968家长热线</title></programme>
-  <programme start="20261001120000 +0800" stop="20261001130000 +0800" channel="cq-968"><title>好个重庆城</title></programme>
-  <programme start="20261001130000 +0800" stop="20261001140000 +0800" channel="cq-968"><title>身边说法</title></programme>
-  <programme start="20261001163000 +0800" stop="20261001180000 +0800" channel="cq-968"><title>968晚高峰</title></programme>
-  <programme start="20261001183000 +0800" stop="20261001190000 +0800" channel="cq-968"><title>转播全国新闻联播</title></programme>
 
   <!-- 重庆经济广播 -->
   <programme start="20261001070000 +0800" stop="20261001120000 +0800" channel="cq-1015"><title>财经重庆</title></programme>
@@ -1081,19 +1556,8 @@
   <programme start="20261001170000 +0800" stop="20261001200000 +0800" channel="cq-1015"><title>经济夜话</title></programme>
 
   <!-- 重庆交通广播 -->
-  <programme start="20261001070000 +0800" stop="20261001090000 +0800" channel="cq-955"><title>早安重庆·路况</title></programme>
-  <programme start="20261001090000 +0800" stop="20261001120000 +0800" channel="cq-955"><title>汽车CD</title></programme>
-  <programme start="20261001120000 +0800" stop="20261001140000 +0800" channel="cq-955"><title>出行服务台</title></programme>
-  <programme start="20261001170000 +0800" stop="20261001190000 +0800" channel="cq-955"><title>晚高峰路况</title></programme>
-  <programme start="20261001190000 +0800" stop="20261001210000 +0800" channel="cq-955"><title>交通热线</title></programme>
 
   <!-- 重庆音乐广播 -->
-  <programme start="20261001000000 +0800" stop="20261001060000 +0800" channel="cq-881"><title>音乐永远在</title></programme>
-  <programme start="20261001060000 +0800" stop="20261001073000 +0800" channel="cq-881"><title>音乐风情之旅</title></programme>
-  <programme start="20261001073000 +0800" stop="20261001100000 +0800" channel="cq-881"><title>汽车CD早安秀</title></programme>
-  <programme start="20261001100000 +0800" stop="20261001120000 +0800" channel="cq-881"><title>最流行</title></programme>
-  <programme start="20261001170000 +0800" stop="20261001190000 +0800" channel="cq-881"><title>汽车音乐时间</title></programme>
-  <programme start="20261001190000 +0800" stop="20261001220000 +0800" channel="cq-881"><title>非常可乐帮</title></programme>
 
   <!-- 重庆都市广播 -->
   <programme start="20261001070000 +0800" stop="20261001120000 +0800" channel="cq-938"><title>都市早班车</title></programme>
@@ -1110,13 +1574,167 @@
   <programme start="20261001183000 +0800" stop="20261001190000 +0800" channel="gs-961"><title>转播全国新闻联播</title></programme>
 
   <!-- 甘肃交通广播 -->
-  <programme start="20261001060000 +0800" stop="20261001070000 +0800" channel="gs-1035"><title>交广早报</title></programme>
-  <programme start="20261001070000 +0800" stop="20261001090000 +0800" channel="gs-1035"><title>路况信息 交警指路</title></programme>
-  <programme start="20261001090000 +0800" stop="20261001110000 +0800" channel="gs-1035"><title>完美车时代</title></programme>
-  <programme start="20261001110000 +0800" stop="20261001120000 +0800" channel="gs-1035"><title>一路秀逍遥</title></programme>
-  <programme start="20261001120000 +0800" stop="20261001123000 +0800" channel="gs-1035"><title>资讯餐吧</title></programme>
-  <programme start="20261001173000 +0800" stop="20261001190000 +0800" channel="gs-1035"><title>有我陪着你</title></programme>
-  <programme start="20261001193000 +0800" stop="20261001200000 +0800" channel="gs-1035"><title>汽车音乐榜</title></programme>
+  <programme start="20261001000000 +0800" stop="20261001003000 +0800" channel="bj-1006"><title>文化范儿（重播）</title></programme>
+  <programme start="20261001003000 +0800" stop="20261001020000 +0800" channel="bj-1006"><title>大城小事（重播）</title></programme>
+  <programme start="20261001020000 +0800" stop="20261001023500 +0800" channel="bj-1006"><title>945养生派（重播）</title></programme>
+  <programme start="20261001023500 +0800" stop="20261001030000 +0800" channel="bj-1006"><title>北京的声音（重播）</title></programme>
+  <programme start="20261001030000 +0800" stop="20261001033500 +0800" channel="bj-1006"><title>话里话外（重播）</title></programme>
+  <programme start="20261001033500 +0800" stop="20261001040000 +0800" channel="bj-1006"><title>谜幻时空（重播）</title></programme>
+  <programme start="20261001040000 +0800" stop="20261001050000 +0800" channel="bj-1006"><title>乐海星歌（重播）</title></programme>
+  <programme start="20261001050000 +0800" stop="20261001053500 +0800" channel="bj-1006"><title>科技新视点（重播）</title></programme>
+  <programme start="20261001053500 +0800" stop="20261001060000 +0800" channel="bj-1006"><title>健康北京（重播）</title></programme>
+  <programme start="20261001060000 +0800" stop="20261001062000 +0800" channel="bj-1006"><title>新闻晨报</title></programme>
+  <programme start="20261001062000 +0800" stop="20261001063000 +0800" channel="bj-1006"><title>新闻热线</title></programme>
+  <programme start="20261001063000 +0800" stop="20261001070000 +0800" channel="bj-1006"><title>新闻和报纸摘要</title></programme>
+  <programme start="20261001070000 +0800" stop="20261001072500 +0800" channel="bj-1006"><title>北京新闻</title></programme>
+  <programme start="20261001072500 +0800" stop="20261001073000 +0800" channel="bj-1006"><title>新闻热线</title></programme>
+  <programme start="20261001073000 +0800" stop="20261001090000 +0800" channel="bj-1006"><title>主播在线</title></programme>
+  <programme start="20261001090000 +0800" stop="20261001091500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20261001091500 +0800" stop="20261001095000 +0800" channel="bj-1006"><title>财经对对碰</title></programme>
+  <programme start="20261001095000 +0800" stop="20261001100000 +0800" channel="bj-1006"><title>北广生活时间</title></programme>
+  <programme start="20261001100000 +0800" stop="20261001101500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20261001101500 +0800" stop="20261001105000 +0800" channel="bj-1006"><title>话里话外</title></programme>
+  <programme start="20261001105000 +0800" stop="20261001110000 +0800" channel="bj-1006"><title>北广生活时间</title></programme>
+  <programme start="20261001110000 +0800" stop="20261001120000 +0800" channel="bj-1006"><title>档案</title></programme>
+  <programme start="20261001120000 +0800" stop="20261001121000 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20261001121000 +0800" stop="20261001125000 +0800" channel="bj-1006"><title>945养生派</title></programme>
+  <programme start="20261001125000 +0800" stop="20261001130000 +0800" channel="bj-1006"><title>北广生活时间</title></programme>
+  <programme start="20261001130000 +0800" stop="20261001131000 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20261001131000 +0800" stop="20261001140000 +0800" channel="bj-1006"><title>乐海星歌</title></programme>
+  <programme start="20261001140000 +0800" stop="20261001141500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20261001141500 +0800" stop="20261001145000 +0800" channel="bj-1006"><title>文化范儿</title></programme>
+  <programme start="20261001145000 +0800" stop="20261001150000 +0800" channel="bj-1006"><title>北广生活时间</title></programme>
+  <programme start="20261001150000 +0800" stop="20261001151500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20261001151500 +0800" stop="20261001160000 +0800" channel="bj-1006"><title>科技新视点（重播）</title></programme>
+  <programme start="20261001160000 +0800" stop="20261001162000 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20261001162000 +0800" stop="20261001180000 +0800" channel="bj-1006"><title>大城小事</title></programme>
+  <programme start="20261001180000 +0800" stop="20261001190000 +0800" channel="bj-1006"><title>新闻2026</title></programme>
+  <programme start="20261001190000 +0800" stop="20261001193000 +0800" channel="bj-1006"><title>央视新闻联播</title></programme>
+  <programme start="20261001193000 +0800" stop="20261001200000 +0800" channel="bj-1006"><title>健康北京</title></programme>
+  <programme start="20261001200000 +0800" stop="20261001201500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20261001201500 +0800" stop="20261001210000 +0800" channel="bj-1006"><title>科技新视点</title></programme>
+  <programme start="20261001210000 +0800" stop="20261001211000 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20261001211000 +0800" stop="20261001220000 +0800" channel="bj-1006"><title>945养生派（重播）</title></programme>
+  <programme start="20261001220000 +0800" stop="20261001221000 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20261001221000 +0800" stop="20261001223500 +0800" channel="bj-1006"><title>北京的声音</title></programme>
+  <programme start="20261001223500 +0800" stop="20261001230000 +0800" channel="bj-1006"><title>谜幻时空</title></programme>
+  <programme start="20261001230000 +0800" stop="20261001235900 +0800" channel="bj-1006"><title>新闻2026（重播）</title></programme>
+  <programme start="20261001000000 +0800" stop="20261001070000 +0800" channel="bj-974"><title>乐海星歌</title></programme>
+  <programme start="20261001070000 +0800" stop="20261001090000 +0800" channel="bj-974"><title>早安音乐秀</title></programme>
+  <programme start="20261001090000 +0800" stop="20261001110000 +0800" channel="bj-974"><title>汽车音乐汇</title></programme>
+  <programme start="20261001110000 +0800" stop="20261001120000 +0800" channel="bj-974"><title>音乐加块糖</title></programme>
+  <programme start="20261001120000 +0800" stop="20261001130000 +0800" channel="bj-974"><title>乐听乐流行</title></programme>
+  <programme start="20261001130000 +0800" stop="20261001140000 +0800" channel="bj-974"><title>永恒的魅力</title></programme>
+  <programme start="20261001140000 +0800" stop="20261001150000 +0800" channel="bj-974"><title>经典三重奏</title></programme>
+  <programme start="20261001150000 +0800" stop="20261001160000 +0800" channel="bj-974"><title>你的故事我的歌</title></programme>
+  <programme start="20261001160000 +0800" stop="20261001170000 +0800" channel="bj-974"><title>音乐种草家</title></programme>
+  <programme start="20261001170000 +0800" stop="20261001190000 +0800" channel="bj-974"><title>娱乐最王牌</title></programme>
+  <programme start="20261001190000 +0800" stop="20261001200000 +0800" channel="bj-974"><title>华语金曲星光荟</title></programme>
+  <programme start="20261001200000 +0800" stop="20261001210000 +0800" channel="bj-974"><title>就听好歌不听话</title></programme>
+  <programme start="20261001210000 +0800" stop="20261001230000 +0800" channel="bj-974"><title>男左女右</title></programme>
+  <programme start="20261001230000 +0800" stop="20261001235900 +0800" channel="bj-974"><title>午夜情歌</title></programme>
+  <programme start="20261001000000 +0800" stop="20261001010000 +0800" channel="bj-1039"><title>欢乐正前方·就是这个味（重播）</title></programme>
+  <programme start="20261001010000 +0800" stop="20261001020000 +0800" channel="bj-1039"><title>1039慧旅行（重播）</title></programme>
+  <programme start="20261001020000 +0800" stop="20261001030000 +0800" channel="bj-1039"><title>行走天下（重播）</title></programme>
+  <programme start="20261001030000 +0800" stop="20261001040000 +0800" channel="bj-1039"><title>拾光聚会（重播）</title></programme>
+  <programme start="20261001040000 +0800" stop="20261001050000 +0800" channel="bj-1039"><title>蓝调北京（重播）</title></programme>
+  <programme start="20261001050000 +0800" stop="20261001053000 +0800" channel="bj-1039"><title>峰回路转（重播）</title></programme>
+  <programme start="20261001053000 +0800" stop="20261001060000 +0800" channel="bj-1039"><title>动听天下</title></programme>
+  <programme start="20261001060000 +0800" stop="20261001063000 +0800" channel="bj-1039"><title>徐徐道来话北京</title></programme>
+  <programme start="20261001063000 +0800" stop="20261001072000 +0800" channel="bj-1039"><title>1039新闻早报</title></programme>
+  <programme start="20261001072000 +0800" stop="20261001073000 +0800" channel="bj-1039"><title>问道1039</title></programme>
+  <programme start="20261001073000 +0800" stop="20261001093000 +0800" channel="bj-1039"><title>一路畅通</title></programme>
+  <programme start="20261001093000 +0800" stop="20261001100000 +0800" channel="bj-1039"><title>跃动的坐标</title></programme>
+  <programme start="20261001100000 +0800" stop="20261001110000 +0800" channel="bj-1039"><title>1039汽车天下</title></programme>
+  <programme start="20261001110000 +0800" stop="20261001120000 +0800" channel="bj-1039"><title>1039慧旅行</title></programme>
+  <programme start="20261001120000 +0800" stop="20261001130000 +0800" channel="bj-1039"><title>欢乐正前方·就是这个味儿</title></programme>
+  <programme start="20261001130000 +0800" stop="20261001140000 +0800" channel="bj-1039"><title>1039剧场</title></programme>
+  <programme start="20261001140000 +0800" stop="20261001150000 +0800" channel="bj-1039"><title>1039服务热线</title></programme>
+  <programme start="20261001150000 +0800" stop="20261001153000 +0800" channel="bj-1039"><title>动听天下（重播）</title></programme>
+  <programme start="20261001153000 +0800" stop="20261001160000 +0800" channel="bj-1039"><title>1039听见</title></programme>
+  <programme start="20261001160000 +0800" stop="20261001170000 +0800" channel="bj-1039"><title>行走天下</title></programme>
+  <programme start="20261001170000 +0800" stop="20261001190000 +0800" channel="bj-1039"><title>一路畅通</title></programme>
+  <programme start="20261001190000 +0800" stop="20261001200000 +0800" channel="bj-1039"><title>拾光聚会</title></programme>
+  <programme start="20261001200000 +0800" stop="20261001210000 +0800" channel="bj-1039"><title>新闻要知道</title></programme>
+  <programme start="20261001210000 +0800" stop="20261001213000 +0800" channel="bj-1039"><title>动听天下（重播）</title></programme>
+  <programme start="20261001213000 +0800" stop="20261001220000 +0800" channel="bj-1039"><title>跃动的坐标（重播）</title></programme>
+  <programme start="20261001220000 +0800" stop="20261001230000 +0800" channel="bj-1039"><title>蓝调北京</title></programme>
+  <programme start="20261001230000 +0800" stop="20261001235900 +0800" channel="bj-1039"><title>1039剧场（重播）</title></programme>
+  <programme start="20261001000000 +0800" stop="20261001033000 +0800" channel="cq-968"><title>广告专题</title></programme>
+  <programme start="20261001033000 +0800" stop="20261001060000 +0800" channel="cq-968"><title>广告专题</title></programme>
+  <programme start="20261001060000 +0800" stop="20261001062000 +0800" channel="cq-968"><title>早安重庆</title></programme>
+  <programme start="20261001062000 +0800" stop="20261001063000 +0800" channel="cq-968"><title>名曲鉴赏</title></programme>
+  <programme start="20261001063000 +0800" stop="20261001070000 +0800" channel="cq-968"><title>转播新闻和报纸摘要</title></programme>
+  <programme start="20261001070000 +0800" stop="20261001080000 +0800" channel="cq-968"><title>重庆早新闻</title></programme>
+  <programme start="20261001080000 +0800" stop="20261001100000 +0800" channel="cq-968"><title>菲姐说</title></programme>
+  <programme start="20261001100000 +0800" stop="20261001100500 +0800" channel="cq-968"><title>即时资讯</title></programme>
+  <programme start="20261001100500 +0800" stop="20261001110000 +0800" channel="cq-968"><title>身边说法</title></programme>
+  <programme start="20261001110000 +0800" stop="20261001120000 +0800" channel="cq-968"><title>968家长热线</title></programme>
+  <programme start="20261001120000 +0800" stop="20261001130000 +0800" channel="cq-968"><title>山城论健</title></programme>
+  <programme start="20261001130000 +0800" stop="20261001140000 +0800" channel="cq-968"><title>身边说法（重播）</title></programme>
+  <programme start="20261001140000 +0800" stop="20261001150000 +0800" channel="cq-968"><title>968家长热线（重播）</title></programme>
+  <programme start="20261001150000 +0800" stop="20261001150500 +0800" channel="cq-968"><title>即时资讯</title></programme>
+  <programme start="20261001150500 +0800" stop="20261001160000 +0800" channel="cq-968"><title>民呼我为热线</title></programme>
+  <programme start="20261001160000 +0800" stop="20261001160500 +0800" channel="cq-968"><title>即时资讯</title></programme>
+  <programme start="20261001160500 +0800" stop="20261001170000 +0800" channel="cq-968"><title>山城论健（重播）</title></programme>
+  <programme start="20261001170000 +0800" stop="20261001170500 +0800" channel="cq-968"><title>即时资讯</title></programme>
+  <programme start="20261001170500 +0800" stop="20261001180000 +0800" channel="cq-968"><title>晚高峰大搜索</title></programme>
+  <programme start="20261001180000 +0800" stop="20261001183000 +0800" channel="cq-968"><title>重庆之声·阳光关注</title></programme>
+  <programme start="20261001183000 +0800" stop="20261001190000 +0800" channel="cq-968"><title>转播全国新闻联播</title></programme>
+  <programme start="20261001190000 +0800" stop="20261001193000 +0800" channel="cq-968"><title>真相</title></programme>
+  <programme start="20261001193000 +0800" stop="20261001200000 +0800" channel="cq-968"><title>重庆之声·阳光关注（重播）</title></programme>
+  <programme start="20261001200000 +0800" stop="20261001210000 +0800" channel="cq-968"><title>身边说法（重播）</title></programme>
+  <programme start="20261001210000 +0800" stop="20261001220000 +0800" channel="cq-968"><title>968家长热线（重播）</title></programme>
+  <programme start="20261001220000 +0800" stop="20261001230000 +0800" channel="cq-968"><title>山城论健（重播）</title></programme>
+  <programme start="20261001230000 +0800" stop="20261001235900 +0800" channel="cq-968"><title>民呼我为热线（重播）</title></programme>
+  <programme start="20261001000000 +0800" stop="20261001060000 +0800" channel="cq-955"><title>一路倾听</title></programme>
+  <programme start="20261001060000 +0800" stop="20261001070000 +0800" channel="cq-955"><title>健康面对面</title></programme>
+  <programme start="20261001070000 +0800" stop="20261001083000 +0800" channel="cq-955"><title>资讯早班车</title></programme>
+  <programme start="20261001083000 +0800" stop="20261001100000 +0800" channel="cq-955"><title>955与你相随</title></programme>
+  <programme start="20261001100000 +0800" stop="20261001110000 +0800" channel="cq-955"><title>人车在线</title></programme>
+  <programme start="20261001110000 +0800" stop="20261001120000 +0800" channel="cq-955"><title>驾驶员俱乐部</title></programme>
+  <programme start="20261001120000 +0800" stop="20261001123000 +0800" channel="cq-955"><title>向左走向右走</title></programme>
+  <programme start="20261001123000 +0800" stop="20261001130000 +0800" channel="cq-955"><title>重庆好故事</title></programme>
+  <programme start="20261001130000 +0800" stop="20261001140000 +0800" channel="cq-955"><title>小咖看世界</title></programme>
+  <programme start="20261001140000 +0800" stop="20261001150000 +0800" channel="cq-955"><title>向快乐出发</title></programme>
+  <programme start="20261001150000 +0800" stop="20261001160000 +0800" channel="cq-955"><title>汽车世界</title></programme>
+  <programme start="20261001160000 +0800" stop="20261001170000 +0800" channel="cq-955"><title>健康面对面</title></programme>
+  <programme start="20261001170000 +0800" stop="20261001180000 +0800" channel="cq-955"><title>交广乐逍遥</title></programme>
+  <programme start="20261001180000 +0800" stop="20261001190000 +0800" channel="cq-955"><title>交广关注</title></programme>
+  <programme start="20261001190000 +0800" stop="20261001200000 +0800" channel="cq-955"><title>955车友生活</title></programme>
+  <programme start="20261001200000 +0800" stop="20261001210000 +0800" channel="cq-955"><title>人车在线</title></programme>
+  <programme start="20261001210000 +0800" stop="20261001220000 +0800" channel="cq-955"><title>小咖看世界</title></programme>
+  <programme start="20261001220000 +0800" stop="20261001230000 +0800" channel="cq-955"><title>交广乐逍遥</title></programme>
+  <programme start="20261001230000 +0800" stop="20261001235900 +0800" channel="cq-955"><title>一路倾听</title></programme>
+  <programme start="20261001000000 +0800" stop="20261001060000 +0800" channel="cq-881"><title>一整晚的音乐</title></programme>
+  <programme start="20261001060000 +0800" stop="20261001063000 +0800" channel="cq-881"><title>音乐问早安</title></programme>
+  <programme start="20261001063000 +0800" stop="20261001073000 +0800" channel="cq-881"><title>古典也流行</title></programme>
+  <programme start="20261001073000 +0800" stop="20261001083000 +0800" channel="cq-881"><title>汽车CD早安秀</title></programme>
+  <programme start="20261001083000 +0800" stop="20261001100000 +0800" channel="cq-881"><title>城市音乐杂志</title></programme>
+  <programme start="20261001100000 +0800" stop="20261001110000 +0800" channel="cq-881"><title>音乐风情之旅</title></programme>
+  <programme start="20261001110000 +0800" stop="20261001120000 +0800" channel="cq-881"><title>金曲时光机</title></programme>
+  <programme start="20261001120000 +0800" stop="20261001130000 +0800" channel="cq-881"><title>非常可乐帮</title></programme>
+  <programme start="20261001130000 +0800" stop="20261001140000 +0800" channel="cq-881"><title>音乐博客</title></programme>
+  <programme start="20261001140000 +0800" stop="20261001150000 +0800" channel="cq-881"><title>姐姐的音乐书吧</title></programme>
+  <programme start="20261001150000 +0800" stop="20261001160000 +0800" channel="cq-881"><title>潮妈驾到</title></programme>
+  <programme start="20261001160000 +0800" stop="20261001170000 +0800" channel="cq-881"><title>最流行</title></programme>
+  <programme start="20261001170000 +0800" stop="20261001183000 +0800" channel="cq-881"><title>潮玩心动派</title></programme>
+  <programme start="20261001183000 +0800" stop="20261001200000 +0800" channel="cq-881"><title>汽车音乐时间</title></programme>
+  <programme start="20261001200000 +0800" stop="20261001210000 +0800" channel="cq-881"><title>金曲时光机</title></programme>
+  <programme start="20261001210000 +0800" stop="20261001220000 +0800" channel="cq-881"><title>环球音乐网</title></programme>
+  <programme start="20261001220000 +0800" stop="20261001230000 +0800" channel="cq-881"><title>音乐博客</title></programme>
+  <programme start="20261001230000 +0800" stop="20261001235900 +0800" channel="cq-881"><title>音乐风情之旅</title></programme>
+  <programme start="20261001000000 +0800" stop="20261001010000 +0800" channel="gs-1035"><title>晚安甘肃（录播）</title></programme>
+  <programme start="20261001060000 +0800" stop="20261001070000 +0800" channel="gs-1035"><title>音乐第一班（录播）</title></programme>
+  <programme start="20261001070000 +0800" stop="20261001090000 +0800" channel="gs-1035"><title>早安甘肃</title></programme>
+  <programme start="20261001090000 +0800" stop="20261001110000 +0800" channel="gs-1035"><title>交通你发言</title></programme>
+  <programme start="20261001110000 +0800" stop="20261001130000 +0800" channel="gs-1035"><title>旅行大玩家</title></programme>
+  <programme start="20261001130000 +0800" stop="20261001150000 +0800" channel="gs-1035"><title>尕兰州喧车</title></programme>
+  <programme start="20261001150000 +0800" stop="20261001170000 +0800" channel="gs-1035"><title>1035幸福家</title></programme>
+  <programme start="20261001170000 +0800" stop="20261001190000 +0800" channel="gs-1035"><title>欢乐正前方</title></programme>
+  <programme start="20261001190000 +0800" stop="20261001210000 +0800" channel="gs-1035"><title>1035甄选</title></programme>
+  <programme start="20261001210000 +0800" stop="20261001230000 +0800" channel="gs-1035"><title>车外有星光</title></programme>
+  <programme start="20261001230000 +0800" stop="20261001235900 +0800" channel="gs-1035"><title>晚安甘肃（录播）</title></programme>
 <!-- 中国之声（通用日表） -->
   <programme start="20261002000000 +0800" stop="20261002000030 +0800" channel="cnr-zgzs"><title>档案揭秘</title></programme>
   <programme start="20261002000030 +0800" stop="20261002010000 +0800" channel="cnr-zgzs"><title>记录中国</title></programme>
@@ -1207,36 +1825,10 @@
   <programme start="20261002210000 +0800" stop="20261002235959 +0800" channel="cnr-jtgb"><title>夜行指南</title></programme>
 
   <!-- 北京交通广播 -->
-  <programme start="20261002053000 +0800" stop="20261002060000 +0800" channel="bj-1039"><title>动听天下</title></programme>
-  <programme start="20261002060000 +0800" stop="20261002063000 +0800" channel="bj-1039"><title>徐徐道来话北京</title></programme>
-  <programme start="20261002063000 +0800" stop="20261002073000 +0800" channel="bj-1039"><title>1039新闻早报</title></programme>
-  <programme start="20261002073000 +0800" stop="20261002093000 +0800" channel="bj-1039"><title>一路畅通</title></programme>
-  <programme start="20261002093000 +0800" stop="20261002100000 +0800" channel="bj-1039"><title>跃动的坐标</title></programme>
-  <programme start="20261002100000 +0800" stop="20261002110000 +0800" channel="bj-1039"><title>1039汽车天下</title></programme>
-  <programme start="20261002110000 +0800" stop="20261002120000 +0800" channel="bj-1039"><title>1039慧旅行</title></programme>
-  <programme start="20261002120000 +0800" stop="20261002130000 +0800" channel="bj-1039"><title>欢乐正前方</title></programme>
-  <programme start="20261002130000 +0800" stop="20261002133000 +0800" channel="bj-1039"><title>1039服务热线</title></programme>
-  <programme start="20261002153000 +0800" stop="20261002160000 +0800" channel="bj-1039"><title>1039汽车音乐时间</title></programme>
-  <programme start="20261002160000 +0800" stop="20261002170000 +0800" channel="bj-1039"><title>一路畅通</title></programme>
-  <programme start="20261002170000 +0800" stop="20261002190000 +0800" channel="bj-1039"><title>新闻要知道</title></programme>
-  <programme start="20261002190000 +0800" stop="20261002200000 +0800" channel="bj-1039"><title>1039都市调查组</title></programme>
-  <programme start="20261002200000 +0800" stop="20261002210000 +0800" channel="bj-1039"><title>动听天下(重播)</title></programme>
-  <programme start="20261002210000 +0800" stop="20261002213000 +0800" channel="bj-1039"><title>应急时刻</title></programme>
-  <programme start="20261002220000 +0800" stop="20261002230000 +0800" channel="bj-1039"><title>蓝调北京</title></programme>
 
   <!-- 北京音乐广播 -->
-  <programme start="20261002060000 +0800" stop="20261002120000 +0800" channel="bj-974"><title>晨光音乐</title></programme>
-  <programme start="20261002120000 +0800" stop="20261002180000 +0800" channel="bj-974"><title>音乐下午茶</title></programme>
-  <programme start="20261002200000 +0800" stop="20261002220000 +0800" channel="bj-974"><title>974Live Show</title></programme>
-  <programme start="20261002220000 +0800" stop="20261002235959 +0800" channel="bj-974"><title>深夜电台</title></programme>
 
   <!-- 北京新闻广播 -->
-  <programme start="20261002060000 +0800" stop="20261002070000 +0800" channel="bj-1006"><title>新闻晨报</title></programme>
-  <programme start="20261002070000 +0800" stop="20261002090000 +0800" channel="bj-1006"><title>北京新闻</title></programme>
-  <programme start="20261002090000 +0800" stop="20261002120000 +0800" channel="bj-1006"><title>时政访谈</title></programme>
-  <programme start="20261002120000 +0800" stop="20261002140000 +0800" channel="bj-1006"><title>文化范儿</title></programme>
-  <programme start="20261002140000 +0800" stop="20261002170000 +0800" channel="bj-1006"><title>新闻热线</title></programme>
-  <programme start="20261002170000 +0800" stop="20261002190000 +0800" channel="bj-1006"><title>京津冀之声转接</title></programme>
 
   <!-- 北京文艺广播 -->
   <programme start="20261002063000 +0800" stop="20261002073000 +0800" channel="bj-876"><title>早起听书</title></programme>
@@ -1247,15 +1839,6 @@
   <programme start="20261002190000 +0800" stop="20261002210000 +0800" channel="bj-876"><title>快乐旅行家</title></programme>
 
   <!-- 重庆新闻广播 -->
-  <programme start="20261002063000 +0800" stop="20261002070000 +0800" channel="cq-968"><title>转播新闻和报纸摘要</title></programme>
-  <programme start="20261002070000 +0800" stop="20261002080000 +0800" channel="cq-968"><title>重庆早新闻</title></programme>
-  <programme start="20261002080000 +0800" stop="20261002100000 +0800" channel="cq-968"><title>菲姐说</title></programme>
-  <programme start="20261002100000 +0800" stop="20261002110000 +0800" channel="cq-968"><title>民呼我为</title></programme>
-  <programme start="20261002110000 +0800" stop="20261002120000 +0800" channel="cq-968"><title>968家长热线</title></programme>
-  <programme start="20261002120000 +0800" stop="20261002130000 +0800" channel="cq-968"><title>好个重庆城</title></programme>
-  <programme start="20261002130000 +0800" stop="20261002140000 +0800" channel="cq-968"><title>身边说法</title></programme>
-  <programme start="20261002163000 +0800" stop="20261002180000 +0800" channel="cq-968"><title>968晚高峰</title></programme>
-  <programme start="20261002183000 +0800" stop="20261002190000 +0800" channel="cq-968"><title>转播全国新闻联播</title></programme>
 
   <!-- 重庆经济广播 -->
   <programme start="20261002070000 +0800" stop="20261002120000 +0800" channel="cq-1015"><title>财经重庆</title></programme>
@@ -1264,19 +1847,8 @@
   <programme start="20261002170000 +0800" stop="20261002200000 +0800" channel="cq-1015"><title>经济夜话</title></programme>
 
   <!-- 重庆交通广播 -->
-  <programme start="20261002070000 +0800" stop="20261002090000 +0800" channel="cq-955"><title>早安重庆·路况</title></programme>
-  <programme start="20261002090000 +0800" stop="20261002120000 +0800" channel="cq-955"><title>汽车CD</title></programme>
-  <programme start="20261002120000 +0800" stop="20261002140000 +0800" channel="cq-955"><title>出行服务台</title></programme>
-  <programme start="20261002170000 +0800" stop="20261002190000 +0800" channel="cq-955"><title>晚高峰路况</title></programme>
-  <programme start="20261002190000 +0800" stop="20261002210000 +0800" channel="cq-955"><title>交通热线</title></programme>
 
   <!-- 重庆音乐广播 -->
-  <programme start="20261002000000 +0800" stop="20261002060000 +0800" channel="cq-881"><title>音乐永远在</title></programme>
-  <programme start="20261002060000 +0800" stop="20261002073000 +0800" channel="cq-881"><title>音乐风情之旅</title></programme>
-  <programme start="20261002073000 +0800" stop="20261002100000 +0800" channel="cq-881"><title>汽车CD早安秀</title></programme>
-  <programme start="20261002100000 +0800" stop="20261002120000 +0800" channel="cq-881"><title>最流行</title></programme>
-  <programme start="20261002170000 +0800" stop="20261002190000 +0800" channel="cq-881"><title>汽车音乐时间</title></programme>
-  <programme start="20261002190000 +0800" stop="20261002220000 +0800" channel="cq-881"><title>非常可乐帮</title></programme>
 
   <!-- 重庆都市广播 -->
   <programme start="20261002070000 +0800" stop="20261002120000 +0800" channel="cq-938"><title>都市早班车</title></programme>
@@ -1293,11 +1865,165 @@
   <programme start="20261002183000 +0800" stop="20261002190000 +0800" channel="gs-961"><title>转播全国新闻联播</title></programme>
 
   <!-- 甘肃交通广播 -->
-  <programme start="20261002060000 +0800" stop="20261002070000 +0800" channel="gs-1035"><title>交广早报</title></programme>
-  <programme start="20261002070000 +0800" stop="20261002090000 +0800" channel="gs-1035"><title>路况信息 交警指路</title></programme>
-  <programme start="20261002090000 +0800" stop="20261002110000 +0800" channel="gs-1035"><title>完美车时代</title></programme>
-  <programme start="20261002110000 +0800" stop="20261002120000 +0800" channel="gs-1035"><title>一路秀逍遥</title></programme>
-  <programme start="20261002120000 +0800" stop="20261002123000 +0800" channel="gs-1035"><title>资讯餐吧</title></programme>
-  <programme start="20261002173000 +0800" stop="20261002190000 +0800" channel="gs-1035"><title>有我陪着你</title></programme>
-  <programme start="20261002193000 +0800" stop="20261002200000 +0800" channel="gs-1035"><title>汽车音乐榜</title></programme>
+  <programme start="20261002000000 +0800" stop="20261002003000 +0800" channel="bj-1006"><title>文化范儿（重播）</title></programme>
+  <programme start="20261002003000 +0800" stop="20261002020000 +0800" channel="bj-1006"><title>大城小事（重播）</title></programme>
+  <programme start="20261002020000 +0800" stop="20261002023500 +0800" channel="bj-1006"><title>945养生派（重播）</title></programme>
+  <programme start="20261002023500 +0800" stop="20261002030000 +0800" channel="bj-1006"><title>北京的声音（重播）</title></programme>
+  <programme start="20261002030000 +0800" stop="20261002033500 +0800" channel="bj-1006"><title>话里话外（重播）</title></programme>
+  <programme start="20261002033500 +0800" stop="20261002040000 +0800" channel="bj-1006"><title>谜幻时空（重播）</title></programme>
+  <programme start="20261002040000 +0800" stop="20261002050000 +0800" channel="bj-1006"><title>乐海星歌（重播）</title></programme>
+  <programme start="20261002050000 +0800" stop="20261002053500 +0800" channel="bj-1006"><title>科技新视点（重播）</title></programme>
+  <programme start="20261002053500 +0800" stop="20261002060000 +0800" channel="bj-1006"><title>健康北京（重播）</title></programme>
+  <programme start="20261002060000 +0800" stop="20261002062000 +0800" channel="bj-1006"><title>新闻晨报</title></programme>
+  <programme start="20261002062000 +0800" stop="20261002063000 +0800" channel="bj-1006"><title>新闻热线</title></programme>
+  <programme start="20261002063000 +0800" stop="20261002070000 +0800" channel="bj-1006"><title>新闻和报纸摘要</title></programme>
+  <programme start="20261002070000 +0800" stop="20261002072500 +0800" channel="bj-1006"><title>北京新闻</title></programme>
+  <programme start="20261002072500 +0800" stop="20261002073000 +0800" channel="bj-1006"><title>新闻热线</title></programme>
+  <programme start="20261002073000 +0800" stop="20261002090000 +0800" channel="bj-1006"><title>主播在线</title></programme>
+  <programme start="20261002090000 +0800" stop="20261002091500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20261002091500 +0800" stop="20261002095000 +0800" channel="bj-1006"><title>财经对对碰</title></programme>
+  <programme start="20261002095000 +0800" stop="20261002100000 +0800" channel="bj-1006"><title>北广生活时间</title></programme>
+  <programme start="20261002100000 +0800" stop="20261002101500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20261002101500 +0800" stop="20261002105000 +0800" channel="bj-1006"><title>话里话外</title></programme>
+  <programme start="20261002105000 +0800" stop="20261002110000 +0800" channel="bj-1006"><title>北广生活时间</title></programme>
+  <programme start="20261002110000 +0800" stop="20261002120000 +0800" channel="bj-1006"><title>档案</title></programme>
+  <programme start="20261002120000 +0800" stop="20261002121000 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20261002121000 +0800" stop="20261002125000 +0800" channel="bj-1006"><title>945养生派</title></programme>
+  <programme start="20261002125000 +0800" stop="20261002130000 +0800" channel="bj-1006"><title>北广生活时间</title></programme>
+  <programme start="20261002130000 +0800" stop="20261002131000 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20261002131000 +0800" stop="20261002140000 +0800" channel="bj-1006"><title>乐海星歌</title></programme>
+  <programme start="20261002140000 +0800" stop="20261002141500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20261002141500 +0800" stop="20261002145000 +0800" channel="bj-1006"><title>文化范儿</title></programme>
+  <programme start="20261002145000 +0800" stop="20261002150000 +0800" channel="bj-1006"><title>北广生活时间</title></programme>
+  <programme start="20261002150000 +0800" stop="20261002151500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20261002151500 +0800" stop="20261002160000 +0800" channel="bj-1006"><title>科技新视点（重播）</title></programme>
+  <programme start="20261002160000 +0800" stop="20261002162000 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20261002162000 +0800" stop="20261002180000 +0800" channel="bj-1006"><title>大城小事</title></programme>
+  <programme start="20261002180000 +0800" stop="20261002190000 +0800" channel="bj-1006"><title>新闻2026</title></programme>
+  <programme start="20261002190000 +0800" stop="20261002193000 +0800" channel="bj-1006"><title>央视新闻联播</title></programme>
+  <programme start="20261002193000 +0800" stop="20261002200000 +0800" channel="bj-1006"><title>健康北京</title></programme>
+  <programme start="20261002200000 +0800" stop="20261002201500 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20261002201500 +0800" stop="20261002210000 +0800" channel="bj-1006"><title>科技新视点</title></programme>
+  <programme start="20261002210000 +0800" stop="20261002211000 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20261002211000 +0800" stop="20261002220000 +0800" channel="bj-1006"><title>945养生派（重播）</title></programme>
+  <programme start="20261002220000 +0800" stop="20261002221000 +0800" channel="bj-1006"><title>整点快报</title></programme>
+  <programme start="20261002221000 +0800" stop="20261002223500 +0800" channel="bj-1006"><title>北京的声音</title></programme>
+  <programme start="20261002223500 +0800" stop="20261002230000 +0800" channel="bj-1006"><title>谜幻时空</title></programme>
+  <programme start="20261002230000 +0800" stop="20261002235900 +0800" channel="bj-1006"><title>新闻2026（重播）</title></programme>
+  <programme start="20261002000000 +0800" stop="20261002070000 +0800" channel="bj-974"><title>乐海星歌</title></programme>
+  <programme start="20261002070000 +0800" stop="20261002090000 +0800" channel="bj-974"><title>早安音乐秀</title></programme>
+  <programme start="20261002090000 +0800" stop="20261002110000 +0800" channel="bj-974"><title>汽车音乐汇</title></programme>
+  <programme start="20261002110000 +0800" stop="20261002120000 +0800" channel="bj-974"><title>音乐加块糖</title></programme>
+  <programme start="20261002120000 +0800" stop="20261002130000 +0800" channel="bj-974"><title>乐听乐流行</title></programme>
+  <programme start="20261002130000 +0800" stop="20261002140000 +0800" channel="bj-974"><title>永恒的魅力</title></programme>
+  <programme start="20261002140000 +0800" stop="20261002150000 +0800" channel="bj-974"><title>经典三重奏</title></programme>
+  <programme start="20261002150000 +0800" stop="20261002160000 +0800" channel="bj-974"><title>你的故事我的歌</title></programme>
+  <programme start="20261002160000 +0800" stop="20261002170000 +0800" channel="bj-974"><title>音乐种草家</title></programme>
+  <programme start="20261002170000 +0800" stop="20261002190000 +0800" channel="bj-974"><title>娱乐最王牌</title></programme>
+  <programme start="20261002190000 +0800" stop="20261002200000 +0800" channel="bj-974"><title>华语金曲星光荟</title></programme>
+  <programme start="20261002200000 +0800" stop="20261002210000 +0800" channel="bj-974"><title>就听好歌不听话</title></programme>
+  <programme start="20261002210000 +0800" stop="20261002230000 +0800" channel="bj-974"><title>男左女右</title></programme>
+  <programme start="20261002230000 +0800" stop="20261002235900 +0800" channel="bj-974"><title>午夜情歌</title></programme>
+  <programme start="20261002000000 +0800" stop="20261002010000 +0800" channel="bj-1039"><title>欢乐正前方·就是这个味（重播）</title></programme>
+  <programme start="20261002010000 +0800" stop="20261002020000 +0800" channel="bj-1039"><title>1039慧旅行（重播）</title></programme>
+  <programme start="20261002020000 +0800" stop="20261002030000 +0800" channel="bj-1039"><title>行走天下（重播）</title></programme>
+  <programme start="20261002030000 +0800" stop="20261002040000 +0800" channel="bj-1039"><title>拾光聚会（重播）</title></programme>
+  <programme start="20261002040000 +0800" stop="20261002050000 +0800" channel="bj-1039"><title>蓝调北京（重播）</title></programme>
+  <programme start="20261002050000 +0800" stop="20261002053000 +0800" channel="bj-1039"><title>1039听见（重播）</title></programme>
+  <programme start="20261002053000 +0800" stop="20261002060000 +0800" channel="bj-1039"><title>动听天下</title></programme>
+  <programme start="20261002060000 +0800" stop="20261002063000 +0800" channel="bj-1039"><title>徐徐道来话北京</title></programme>
+  <programme start="20261002063000 +0800" stop="20261002072000 +0800" channel="bj-1039"><title>1039新闻早报</title></programme>
+  <programme start="20261002072000 +0800" stop="20261002073000 +0800" channel="bj-1039"><title>问道1039</title></programme>
+  <programme start="20261002073000 +0800" stop="20261002093000 +0800" channel="bj-1039"><title>一路畅通</title></programme>
+  <programme start="20261002093000 +0800" stop="20261002100000 +0800" channel="bj-1039"><title>跃动的坐标</title></programme>
+  <programme start="20261002100000 +0800" stop="20261002110000 +0800" channel="bj-1039"><title>1039汽车天下</title></programme>
+  <programme start="20261002110000 +0800" stop="20261002120000 +0800" channel="bj-1039"><title>1039慧旅行</title></programme>
+  <programme start="20261002120000 +0800" stop="20261002130000 +0800" channel="bj-1039"><title>欢乐正前方·就是这个味儿</title></programme>
+  <programme start="20261002130000 +0800" stop="20261002140000 +0800" channel="bj-1039"><title>1039剧场</title></programme>
+  <programme start="20261002140000 +0800" stop="20261002150000 +0800" channel="bj-1039"><title>1039服务热线</title></programme>
+  <programme start="20261002150000 +0800" stop="20261002153000 +0800" channel="bj-1039"><title>动听天下（重播）</title></programme>
+  <programme start="20261002153000 +0800" stop="20261002160000 +0800" channel="bj-1039"><title>1039听见</title></programme>
+  <programme start="20261002160000 +0800" stop="20261002170000 +0800" channel="bj-1039"><title>行走天下</title></programme>
+  <programme start="20261002170000 +0800" stop="20261002190000 +0800" channel="bj-1039"><title>一路畅通</title></programme>
+  <programme start="20261002190000 +0800" stop="20261002200000 +0800" channel="bj-1039"><title>拾光聚会</title></programme>
+  <programme start="20261002200000 +0800" stop="20261002210000 +0800" channel="bj-1039"><title>峰回路转</title></programme>
+  <programme start="20261002210000 +0800" stop="20261002213000 +0800" channel="bj-1039"><title>动听天下（重播）</title></programme>
+  <programme start="20261002213000 +0800" stop="20261002220000 +0800" channel="bj-1039"><title>跃动的坐标（重播）</title></programme>
+  <programme start="20261002220000 +0800" stop="20261002230000 +0800" channel="bj-1039"><title>蓝调北京</title></programme>
+  <programme start="20261002230000 +0800" stop="20261002235900 +0800" channel="bj-1039"><title>1039剧场（重播）</title></programme>
+  <programme start="20261002000000 +0800" stop="20261002033000 +0800" channel="cq-968"><title>广告专题</title></programme>
+  <programme start="20261002033000 +0800" stop="20261002060000 +0800" channel="cq-968"><title>广告专题</title></programme>
+  <programme start="20261002060000 +0800" stop="20261002062000 +0800" channel="cq-968"><title>早安重庆</title></programme>
+  <programme start="20261002062000 +0800" stop="20261002063000 +0800" channel="cq-968"><title>名曲鉴赏</title></programme>
+  <programme start="20261002063000 +0800" stop="20261002070000 +0800" channel="cq-968"><title>转播新闻和报纸摘要</title></programme>
+  <programme start="20261002070000 +0800" stop="20261002080000 +0800" channel="cq-968"><title>重庆早新闻</title></programme>
+  <programme start="20261002080000 +0800" stop="20261002100000 +0800" channel="cq-968"><title>菲姐说</title></programme>
+  <programme start="20261002100000 +0800" stop="20261002100500 +0800" channel="cq-968"><title>即时资讯</title></programme>
+  <programme start="20261002100500 +0800" stop="20261002110000 +0800" channel="cq-968"><title>身边说法</title></programme>
+  <programme start="20261002110000 +0800" stop="20261002120000 +0800" channel="cq-968"><title>968家长热线</title></programme>
+  <programme start="20261002120000 +0800" stop="20261002130000 +0800" channel="cq-968"><title>山城论健</title></programme>
+  <programme start="20261002130000 +0800" stop="20261002140000 +0800" channel="cq-968"><title>身边说法（重播）</title></programme>
+  <programme start="20261002140000 +0800" stop="20261002150000 +0800" channel="cq-968"><title>968家长热线（重播）</title></programme>
+  <programme start="20261002150000 +0800" stop="20261002150500 +0800" channel="cq-968"><title>即时资讯</title></programme>
+  <programme start="20261002150500 +0800" stop="20261002160000 +0800" channel="cq-968"><title>民呼我为热线</title></programme>
+  <programme start="20261002160000 +0800" stop="20261002160500 +0800" channel="cq-968"><title>即时资讯</title></programme>
+  <programme start="20261002160500 +0800" stop="20261002170000 +0800" channel="cq-968"><title>山城论健（重播）</title></programme>
+  <programme start="20261002170000 +0800" stop="20261002170500 +0800" channel="cq-968"><title>即时资讯</title></programme>
+  <programme start="20261002170500 +0800" stop="20261002180000 +0800" channel="cq-968"><title>晚高峰大搜索</title></programme>
+  <programme start="20261002180000 +0800" stop="20261002183000 +0800" channel="cq-968"><title>重庆之声·阳光关注</title></programme>
+  <programme start="20261002183000 +0800" stop="20261002190000 +0800" channel="cq-968"><title>转播全国新闻联播</title></programme>
+  <programme start="20261002190000 +0800" stop="20261002193000 +0800" channel="cq-968"><title>真相</title></programme>
+  <programme start="20261002193000 +0800" stop="20261002200000 +0800" channel="cq-968"><title>重庆之声·阳光关注（重播）</title></programme>
+  <programme start="20261002200000 +0800" stop="20261002210000 +0800" channel="cq-968"><title>身边说法（重播）</title></programme>
+  <programme start="20261002210000 +0800" stop="20261002220000 +0800" channel="cq-968"><title>968家长热线（重播）</title></programme>
+  <programme start="20261002220000 +0800" stop="20261002230000 +0800" channel="cq-968"><title>山城论健（重播）</title></programme>
+  <programme start="20261002230000 +0800" stop="20261002235900 +0800" channel="cq-968"><title>民呼我为热线（重播）</title></programme>
+  <programme start="20261002000000 +0800" stop="20261002060000 +0800" channel="cq-955"><title>一路倾听</title></programme>
+  <programme start="20261002060000 +0800" stop="20261002070000 +0800" channel="cq-955"><title>健康面对面</title></programme>
+  <programme start="20261002070000 +0800" stop="20261002083000 +0800" channel="cq-955"><title>资讯早班车</title></programme>
+  <programme start="20261002083000 +0800" stop="20261002100000 +0800" channel="cq-955"><title>955与你相随</title></programme>
+  <programme start="20261002100000 +0800" stop="20261002110000 +0800" channel="cq-955"><title>人车在线</title></programme>
+  <programme start="20261002110000 +0800" stop="20261002120000 +0800" channel="cq-955"><title>驾驶员俱乐部</title></programme>
+  <programme start="20261002120000 +0800" stop="20261002123000 +0800" channel="cq-955"><title>向左走向右走</title></programme>
+  <programme start="20261002123000 +0800" stop="20261002130000 +0800" channel="cq-955"><title>重庆好故事</title></programme>
+  <programme start="20261002130000 +0800" stop="20261002140000 +0800" channel="cq-955"><title>小咖看世界</title></programme>
+  <programme start="20261002140000 +0800" stop="20261002150000 +0800" channel="cq-955"><title>向快乐出发</title></programme>
+  <programme start="20261002150000 +0800" stop="20261002160000 +0800" channel="cq-955"><title>汽车世界</title></programme>
+  <programme start="20261002160000 +0800" stop="20261002170000 +0800" channel="cq-955"><title>健康面对面</title></programme>
+  <programme start="20261002170000 +0800" stop="20261002180000 +0800" channel="cq-955"><title>交广乐逍遥</title></programme>
+  <programme start="20261002180000 +0800" stop="20261002190000 +0800" channel="cq-955"><title>交广关注</title></programme>
+  <programme start="20261002190000 +0800" stop="20261002200000 +0800" channel="cq-955"><title>955车友生活</title></programme>
+  <programme start="20261002200000 +0800" stop="20261002210000 +0800" channel="cq-955"><title>人车在线</title></programme>
+  <programme start="20261002210000 +0800" stop="20261002220000 +0800" channel="cq-955"><title>小咖看世界</title></programme>
+  <programme start="20261002220000 +0800" stop="20261002230000 +0800" channel="cq-955"><title>交广乐逍遥</title></programme>
+  <programme start="20261002230000 +0800" stop="20261002235900 +0800" channel="cq-955"><title>一路倾听</title></programme>
+  <programme start="20261002000000 +0800" stop="20261002060000 +0800" channel="cq-881"><title>一整晚的音乐</title></programme>
+  <programme start="20261002060000 +0800" stop="20261002063000 +0800" channel="cq-881"><title>音乐问早安</title></programme>
+  <programme start="20261002063000 +0800" stop="20261002073000 +0800" channel="cq-881"><title>古典也流行</title></programme>
+  <programme start="20261002073000 +0800" stop="20261002083000 +0800" channel="cq-881"><title>汽车CD早安秀</title></programme>
+  <programme start="20261002083000 +0800" stop="20261002100000 +0800" channel="cq-881"><title>城市音乐杂志</title></programme>
+  <programme start="20261002100000 +0800" stop="20261002110000 +0800" channel="cq-881"><title>音乐风情之旅</title></programme>
+  <programme start="20261002110000 +0800" stop="20261002120000 +0800" channel="cq-881"><title>金曲时光机</title></programme>
+  <programme start="20261002120000 +0800" stop="20261002130000 +0800" channel="cq-881"><title>非常可乐帮</title></programme>
+  <programme start="20261002130000 +0800" stop="20261002140000 +0800" channel="cq-881"><title>音乐博客</title></programme>
+  <programme start="20261002140000 +0800" stop="20261002150000 +0800" channel="cq-881"><title>姐姐的音乐书吧</title></programme>
+  <programme start="20261002150000 +0800" stop="20261002160000 +0800" channel="cq-881"><title>潮妈驾到</title></programme>
+  <programme start="20261002160000 +0800" stop="20261002170000 +0800" channel="cq-881"><title>最流行</title></programme>
+  <programme start="20261002170000 +0800" stop="20261002183000 +0800" channel="cq-881"><title>潮玩心动派</title></programme>
+  <programme start="20261002183000 +0800" stop="20261002200000 +0800" channel="cq-881"><title>汽车音乐时间</title></programme>
+  <programme start="20261002200000 +0800" stop="20261002210000 +0800" channel="cq-881"><title>金曲时光机</title></programme>
+  <programme start="20261002210000 +0800" stop="20261002220000 +0800" channel="cq-881"><title>环球音乐网</title></programme>
+  <programme start="20261002220000 +0800" stop="20261002230000 +0800" channel="cq-881"><title>音乐博客</title></programme>
+  <programme start="20261002230000 +0800" stop="20261002235900 +0800" channel="cq-881"><title>音乐风情之旅</title></programme>
+  <programme start="20261002000000 +0800" stop="20261002010000 +0800" channel="gs-1035"><title>晚安甘肃（录播）</title></programme>
+  <programme start="20261002060000 +0800" stop="20261002070000 +0800" channel="gs-1035"><title>音乐第一班（录播）</title></programme>
+  <programme start="20261002070000 +0800" stop="20261002090000 +0800" channel="gs-1035"><title>早安甘肃</title></programme>
+  <programme start="20261002090000 +0800" stop="20261002110000 +0800" channel="gs-1035"><title>交通你发言</title></programme>
+  <programme start="20261002110000 +0800" stop="20261002130000 +0800" channel="gs-1035"><title>旅行大玩家</title></programme>
+  <programme start="20261002130000 +0800" stop="20261002150000 +0800" channel="gs-1035"><title>尕兰州喧车</title></programme>
+  <programme start="20261002150000 +0800" stop="20261002170000 +0800" channel="gs-1035"><title>1035幸福家</title></programme>
+  <programme start="20261002170000 +0800" stop="20261002190000 +0800" channel="gs-1035"><title>欢乐正前方</title></programme>
+  <programme start="20261002190000 +0800" stop="20261002210000 +0800" channel="gs-1035"><title>1035甄选</title></programme>
+  <programme start="20261002210000 +0800" stop="20261002230000 +0800" channel="gs-1035"><title>车外有星光</title></programme>
+  <programme start="20261002230000 +0800" stop="20261002235900 +0800" channel="gs-1035"><title>晚安甘肃（录播）</title></programme>
 </tv>

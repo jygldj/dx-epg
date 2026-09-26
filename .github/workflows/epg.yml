@@ -2,7 +2,7 @@ name: 更新 EPG
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 16 * * *'   # UTC 16:00 = 北京时间每日 00:00，日期翻页即铺新表
   workflow_dispatch:
 
 permissions:

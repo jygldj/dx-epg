@@ -6,7 +6,9 @@
 全量镜像 fanmingming 的 XMLTV，落地：
   epg.xml / epg.xml.gz / epg.gz
   epg/YYYY-MM-DD/{channel-id}.json   （昨天、今天、明天，东八区）
-GitHub Actions 每 12 小时执行；有变化才提交。
+GitHub Actions 每 24 小时执行；有变化才提交。
+广播 EPG：模板（radio_template.xml）+ 蜻蜓FM playbills 实况覆盖（已映射台），
+未映射台与抓取失败逐台逐日自动回落模板。
 """
 
 from __future__ import annotations
@@ -45,6 +47,23 @@ RADIO_GZ = os.path.join(OUT_DIR, "radio.xml.gz")
 RADIO_GZ_SHORT = os.path.join(OUT_DIR, "radio.gz")
 RADIO_DAYS = 7
 RADIO_MARKER = "<!-- @PROGRAMMES@ -->"
+
+# —— 蜻蜓FM 实况节目单（rapi.qingting.fm playbills，2026-09-26 勘察实证）——
+# day 参数：周日=1、周一=2 … 周六=7（官网 JS getDay()+1）
+# 映射仅收 gbdt.txt 已验证源实测有数据的频道号；337/648 等邻近号实测空数据故不映射
+QTING_RAPI = "https://rapi.qingting.fm/v2/channels/{cid}/playbills?day={day}"
+QTING_MAP = {
+    "bj-1006": 339,   # 北京新闻广播
+    "bj-974": 332,    # 北京音乐广播
+    "bj-1039": 336,   # 北京交通广播
+    "cq-968": 1498,   # 重庆新闻广播
+    "cq-955": 1500,   # 重庆交通广播
+    "cq-881": 647,    # 重庆音乐广播
+    "gs-1035": 3939,  # 甘肃交通广播
+}
+QTING_SLEEP = 0.6   # 请求间隔，控频防封
+QTING_RETRIES = 2
+QTING_TIMEOUT = 30
 
 UA = "Mozilla/5.0 (compatible; dx-epg/1.0)"
 TIMEOUT = 60
@@ -262,6 +281,64 @@ def write_radio_daily_json(xml_bytes: bytes) -> int:
     return files
 
 
+def _qting_day_num(d: datetime.date) -> int:
+    """蜻蜓 day 参数：周日=1、周一=2 … 周六=7（官网 JS getDay()+1）。"""
+    return (d.weekday() + 1) % 7 + 1
+
+
+def fetch_qting_playbills(cid: int, qday: int) -> list[dict]:
+    """取某频道某星期编号的实况节目单；失败/空数据返回空列表（回落模板）。"""
+    url = QTING_RAPI.format(cid=cid, day=qday)
+    last: object = None
+    for _ in range(1, QTING_RETRIES + 1):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": UA})
+            with urllib.request.urlopen(req, timeout=QTING_TIMEOUT) as resp:
+                payload = json.loads(resp.read().decode("utf-8"))
+            if payload.get("errcode") != 0:
+                raise ValueError(f"errcode={payload.get('errcode')}")
+            items = (payload.get("data") or {}).get(str(qday)) or []
+            if items:
+                return items
+            last = "空数据"
+        except Exception as e:  # noqa: BLE001
+            last = e
+            time.sleep(QTING_SLEEP)
+    print(f"[radio] 蜻蜓 cid={cid} day={qday} 取数失败（{last}），该日回落模板")
+    return []
+
+
+def _qting_dt(raw: str, base: datetime.date) -> datetime:
+    """HH:MM:SS → 当日 datetime；hh>=24（如 24:00:00）进位次日。"""
+    hh, mm, ss = (int(x) for x in raw.split(":"))
+    carry, hh = divmod(hh, 24)
+    return datetime(base.year, base.month, base.day, hh, mm, ss, tzinfo=TZ8) + timedelta(
+        days=carry
+    )
+
+
+def qting_programme_lines(tvg_id: str, items: list[dict], day: datetime.date) -> list[str]:
+    """实况条目 → 单行 XMLTV programme（14 位连写 +0800，标题做 XML 转义）。"""
+    from xml.sax.saxutils import escape
+
+    lines: list[str] = []
+    for it in items:
+        try:
+            s_dt = _qting_dt(it["start_time"], day)
+            e_dt = _qting_dt(it["end_time"], day)
+            if e_dt <= s_dt:  # 跨午夜（如 23:00~00:00）止点进一日
+                e_dt += timedelta(days=1)
+        except Exception:  # noqa: BLE001
+            continue
+        title = escape(str(it.get("title", "")).strip()) or "节目"
+        lines.append(
+            f'  <programme start="{s_dt.strftime("%Y%m%d%H%M%S")} +0800" '
+            f'stop="{e_dt.strftime("%Y%m%d%H%M%S")} +0800" '
+            f'channel="{tvg_id}"><title>{title}</title></programme>'
+        )
+    return lines
+
+
 def generate_radio_epg() -> int:
     if not os.path.isfile(RADIO_TEMPLATE):
         print("[radio] 模板 radio_template.xml 缺失，跳过")
@@ -278,6 +355,31 @@ def generate_radio_epg() -> int:
         day = today + timedelta(days=i)
         block = re.sub(r"DATE(\d{6})", lambda m, d=day: expand_radio_dt(m, d), tail)
         days_blocks.append(block)
+
+    # 蜻蜓实况覆盖：逐日逐台替换模板节目；取数失败该台该日回落模板
+    if QTING_MAP:
+        covered: dict[str, int] = {}
+        for i in range(RADIO_DAYS):
+            day = today + timedelta(days=i)
+            qday = _qting_day_num(day)
+            lines = days_blocks[i].splitlines()
+            for tvg_id, cid in QTING_MAP.items():
+                items = fetch_qting_playbills(cid, qday)
+                if not items:
+                    continue
+                real = qting_programme_lines(tvg_id, items, day)
+                if not real:
+                    continue
+                pat = re.compile(r'<programme\s[^>]*channel="' + re.escape(tvg_id) + '"')
+                lines = [ln for ln in lines if not pat.search(ln)] + real
+                covered[tvg_id] = covered.get(tvg_id, 0) + 1
+                time.sleep(QTING_SLEEP)
+            days_blocks[i] = "\n".join(lines)
+        print(
+            f"[radio] 蜻蜓实况覆盖 {sum(covered.values())} 台·日 "
+            f"（{len(covered)}/{len(QTING_MAP)} 台命中），其余回落模板"
+        )
+
     xml = head.rstrip() + "\n" + "\n".join(days_blocks) + "\n</tv>\n"
     data = xml.encode("utf-8")
     try:
