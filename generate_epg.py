@@ -216,7 +216,50 @@ def expand_radio_dt(m: "re.Match", base_day: datetime.date) -> str:
     carry = hh // 24
     hh = hh % 24
     day = base_day + timedelta(days=carry)
-    return day.strftime("%Y%m%d") + " " + f"{hh:02d}{mm:02d}{ss:02d}"
+    # XMLTV 标准：14 位连写（与电视 epg.xml 一致），日期与时间之间不能有空格
+    return day.strftime("%Y%m%d") + f"{hh:02d}{mm:02d}{ss:02d}"
+
+
+def write_radio_daily_json(xml_bytes: bytes) -> int:
+    """广播按日 JSON：与电视同目录 epg/{日期}/{tvg-id}.json。
+    只写今天/明天——电视 write_daily_json 会清理 keep(昨天/今天/明天)之外的日期目录，
+    广播若写 +2 天以后的文件会被误删，故与此对齐。"""
+    root = ET.fromstring(xml_bytes)
+    today = datetime.now(TZ8).date()
+    keep = {today.isoformat(), (today + timedelta(days=1)).isoformat()}
+    buckets: dict[str, dict[str, list[dict]]] = defaultdict(lambda: defaultdict(list))
+    for prog in root.findall("programme"):
+        cid = (prog.get("channel") or "").strip()
+        start = parse_xmltv_dt(prog.get("start") or "")
+        stop = parse_xmltv_dt(prog.get("stop") or "")
+        if not cid or start is None:
+            continue
+        day = start.date().isoformat()
+        if day not in keep:
+            continue
+        title_el = prog.find("title")
+        title = (title_el.text or "").strip() if title_el is not None else ""
+        buckets[day][cid].append(
+            {
+                "start": start.strftime("%H:%M"),
+                "end": stop.strftime("%H:%M") if stop is not None else "",
+                "title": title,
+                "desc": "",
+            }
+        )
+    files = 0
+    for day, channels in buckets.items():
+        day_dir = os.path.join(JSON_ROOT, day)
+        os.makedirs(day_dir, exist_ok=True)
+        for cid, items in channels.items():
+            items.sort(key=lambda x: x["start"])
+            payload = {"channel": cid, "date": day, "epg_data": items}
+            out = os.path.join(day_dir, f"{safe_filename(cid)}.json")
+            with open(out, "w", encoding="utf-8") as f:
+                json.dump(payload, f, ensure_ascii=False, separators=(",", ":"))
+            files += 1
+    print(f"[radio] JSON 写出 {files} 个文件，覆盖 {sorted(keep)}")
+    return files
 
 
 def generate_radio_epg() -> int:
@@ -249,6 +292,7 @@ def generate_radio_epg() -> int:
         f.write(gz_blob)
     with open(RADIO_GZ_SHORT, "wb") as f:
         f.write(gz_blob)
+    write_radio_daily_json(data)
     gz_kb = len(gz_blob) // 1024
     print(
         f"[radio] 写出 radio.xml（{len(data) // 1024} KB）与 gzip（{gz_kb} KB），"
