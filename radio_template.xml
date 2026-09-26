@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="dxdszb-radio-epg">
+  <!-- 频道定义：id 与 gbdt.txt / radio.m3u 的 tvg-id 一字不差 -->
+  <channel id="cnr-zgzs"><display-name>中国之声</display-name></channel>
+  <channel id="cnr-jjzs"><display-name>经济之声</display-name></channel>
+  <channel id="cnr-yyzs"><display-name>音乐之声</display-name></channel>
+  <channel id="cnr-zhzs"><display-name>中华之声</display-name></channel>
+  <channel id="cnr-szzs"><display-name>神州之声</display-name></channel>
+  <channel id="cnr-lnzs"><display-name>老年之声</display-name></channel>
+  <channel id="cnr-jtgb"><display-name>中国交通广播</display-name></channel>
+  <channel id="bj-1006"><display-name>北京新闻广播</display-name></channel>
+  <channel id="bj-974"><display-name>北京音乐广播</display-name></channel>
+  <channel id="bj-1039"><display-name>北京交通广播</display-name></channel>
+  <channel id="bj-876"><display-name>北京文艺广播</display-name></channel>
+  <channel id="cq-968"><display-name>重庆新闻广播</display-name></channel>
+  <channel id="cq-1015"><display-name>重庆经济广播</display-name></channel>
+  <channel id="cq-955"><display-name>重庆交通广播</display-name></channel>
+  <channel id="cq-881"><display-name>重庆音乐广播</display-name></channel>
+  <channel id="cq-938"><display-name>重庆都市广播</display-name></channel>
+  <channel id="gs-961"><display-name>甘肃新闻综合广播</display-name></channel>
+  <channel id="gs-1035"><display-name>甘肃交通广播</display-name></channel>
+
+  <!-- @PROGRAMMES@ -->
+  <!-- 中国之声（通用日表） -->
+  <programme start="DATE000000 +0800" stop="DATE000030 +0800" channel="cnr-zgzs"><title>档案揭秘</title></programme>
+  <programme start="DATE000030 +0800" stop="DATE010000 +0800" channel="cnr-zgzs"><title>记录中国</title></programme>
+  <programme start="DATE010000 +0800" stop="DATE030000 +0800" channel="cnr-zgzs"><title>昨日新闻重现</title></programme>
+  <programme start="DATE030000 +0800" stop="DATE040000 +0800" channel="cnr-zgzs"><title>新闻有观点(重播)</title></programme>
+  <programme start="DATE040000 +0800" stop="DATE050000 +0800" channel="cnr-zgzs"><title>朝花夕拾(重播)</title></programme>
+  <programme start="DATE050000 +0800" stop="DATE060000 +0800" channel="cnr-zgzs"><title>云听清晨</title></programme>
+  <programme start="DATE060000 +0800" stop="DATE063000 +0800" channel="cnr-zgzs"><title>国防时空</title></programme>
+  <programme start="DATE063000 +0800" stop="DATE070000 +0800" channel="cnr-zgzs"><title>新闻和报纸摘要</title></programme>
+  <programme start="DATE070000 +0800" stop="DATE090000 +0800" channel="cnr-zgzs"><title>新闻纵横</title></programme>
+  <programme start="DATE090000 +0800" stop="DATE093000 +0800" channel="cnr-zgzs"><title>新闻和报纸摘要(重播)</title></programme>
+  <programme start="DATE093000 +0800" stop="DATE120000 +0800" channel="cnr-zgzs"><title>新闻进行时</title></programme>
+  <programme start="DATE120000 +0800" stop="DATE130000 +0800" channel="cnr-zgzs"><title>正午60分</title></programme>
+  <programme start="DATE130000 +0800" stop="DATE163000 +0800" channel="cnr-zgzs"><title>新闻进行时</title></programme>
+  <programme start="DATE163000 +0800" stop="DATE183000 +0800" channel="cnr-zgzs"><title>新闻晚高峰</title></programme>
+  <programme start="DATE183000 +0800" stop="DATE190000 +0800" channel="cnr-zgzs"><title>全国新闻联播</title></programme>
+  <programme start="DATE190000 +0800" stop="DATE200000 +0800" channel="cnr-zgzs"><title>新闻有观点</title></programme>
+  <programme start="DATE200000 +0800" stop="DATE203000 +0800" channel="cnr-zgzs"><title>小喇叭</title></programme>
+  <programme start="DATE203000 +0800" stop="DATE210000 +0800" channel="cnr-zgzs"><title>全国新闻联播(重播)</title></programme>
+  <programme start="DATE210000 +0800" stop="DATE220000 +0800" channel="cnr-zgzs"><title>新闻超链接</title></programme>
+  <programme start="DATE220000 +0800" stop="DATE230000 +0800" channel="cnr-zgzs"><title>决胜时刻</title></programme>
+  <programme start="DATE230000 +0800" stop="DATE235959 +0800" channel="cnr-zgzs"><title>朝花夕拾</title></programme>
+
+  <!-- 经济之声 -->
+  <programme start="DATE050000 +0800" stop="DATE060000 +0800" channel="cnr-jjzs"><title>新鲜早世界</title></programme>
+  <programme start="DATE060000 +0800" stop="DATE070000 +0800" channel="cnr-jjzs"><title>视听大会(早间版)</title></programme>
+  <programme start="DATE070000 +0800" stop="DATE073000 +0800" channel="cnr-jjzs"><title>新闻和报纸摘要</title></programme>
+  <programme start="DATE073000 +0800" stop="DATE090000 +0800" channel="cnr-jjzs"><title>天下财经</title></programme>
+  <programme start="DATE090000 +0800" stop="DATE120000 +0800" channel="cnr-jjzs"><title>交易实况</title></programme>
+  <programme start="DATE120000 +0800" stop="DATE123000 +0800" channel="cnr-jjzs"><title>环球新财讯(午间版)</title></programme>
+  <programme start="DATE123000 +0800" stop="DATE130000 +0800" channel="cnr-jjzs"><title>天天315</title></programme>
+  <programme start="DATE130000 +0800" stop="DATE160000 +0800" channel="cnr-jjzs"><title>交易实况</title></programme>
+  <programme start="DATE160000 +0800" stop="DATE173000 +0800" channel="cnr-jjzs"><title>视听大会(下午版)</title></programme>
+  <programme start="DATE173000 +0800" stop="DATE190000 +0800" channel="cnr-jjzs"><title>环球新财讯(晚间版)</title></programme>
+  <programme start="DATE190000 +0800" stop="DATE193000 +0800" channel="cnr-jjzs"><title>天天315</title></programme>
+  <programme start="DATE193000 +0800" stop="DATE210000 +0800" channel="cnr-jjzs"><title>视听大会(晚间版)</title></programme>
+  <programme start="DATE210000 +0800" stop="DATE220000 +0800" channel="cnr-jjzs"><title>那些年</title></programme>
+  <programme start="DATE220000 +0800" stop="DATE230000 +0800" channel="cnr-jjzs"><title>财经夜读</title></programme>
+  <programme start="DATE230000 +0800" stop="DATE235959 +0800" channel="cnr-jjzs"><title>视听大会(夜间版)</title></programme>
+
+  <!-- 音乐之声：音乐轮换 -->
+  <programme start="DATE000000 +0800" stop="DATE060000 +0800" channel="cnr-yyzs"><title>音乐不打烊</title></programme>
+  <programme start="DATE060000 +0800" stop="DATE120000 +0800" channel="cnr-yyzs"><title>中国Top排行榜</title></programme>
+  <programme start="DATE120000 +0800" stop="DATE180000 +0800" channel="cnr-yyzs"><title>音乐万岁</title></programme>
+  <programme start="DATE180000 +0800" stop="DATE240000 +0800" channel="cnr-yyzs"><title>全球流行音乐金榜</title></programme>
+
+  <!-- 中华之声 / 神州之声：对台港澳及海外中文广播，通用新闻+文化块 -->
+  <programme start="DATE060000 +0800" stop="DATE070000 +0800" channel="cnr-zhzs"><title>新闻和报纸摘要</title></programme>
+  <programme start="DATE070000 +0800" stop="DATE120000 +0800" channel="cnr-zhzs"><title>中华之声专题</title></programme>
+  <programme start="DATE120000 +0800" stop="DATE180000 +0800" channel="cnr-zhzs"><title>文化大观园</title></programme>
+  <programme start="DATE180000 +0800" stop="DATE220000 +0800" channel="cnr-zhzs"><title>海峡两岸节目</title></programme>
+  <programme start="DATE220000 +0800" stop="DATE235959 +0800" channel="cnr-zhzs"><title>中华夜未央</title></programme>
+
+  <programme start="DATE060000 +0800" stop="DATE120000 +0800" channel="cnr-szzs"><title>神州之声·闽南话新闻</title></programme>
+  <programme start="DATE120000 +0800" stop="DATE180000 +0800" channel="cnr-szzs"><title>客家天地</title></programme>
+  <programme start="DATE180000 +0800" stop="DATE220000 +0800" channel="cnr-szzs"><title>神州戏曲</title></programme>
+  <programme start="DATE220000 +0800" stop="DATE235959 +0800" channel="cnr-szzs"><title>乡音乡情</title></programme>
+
+  <!-- 老年之声 -->
+  <programme start="DATE000000 +0800" stop="DATE020000 +0800" channel="cnr-lnzs"><title>伴你入眠</title></programme>
+  <programme start="DATE043000 +0800" stop="DATE060000 +0800" channel="cnr-lnzs"><title>养生音乐馆</title></programme>
+  <programme start="DATE060000 +0800" stop="DATE070000 +0800" channel="cnr-lnzs"><title>健康之家</title></programme>
+  <programme start="DATE070000 +0800" stop="DATE080000 +0800" channel="cnr-lnzs"><title>乐享时光</title></programme>
+  <programme start="DATE080000 +0800" stop="DATE090000 +0800" channel="cnr-lnzs"><title>笑口常开</title></programme>
+  <programme start="DATE090000 +0800" stop="DATE100000 +0800" channel="cnr-lnzs"><title>听书</title></programme>
+  <programme start="DATE100000 +0800" stop="DATE110000 +0800" channel="cnr-lnzs"><title>养生音乐馆</title></programme>
+  <programme start="DATE110000 +0800" stop="DATE120000 +0800" channel="cnr-lnzs"><title>评书开讲</title></programme>
+  <programme start="DATE120000 +0800" stop="DATE130000 +0800" channel="cnr-lnzs"><title>戏曲舞台</title></programme>
+  <programme start="DATE130000 +0800" stop="DATE140000 +0800" channel="cnr-lnzs"><title>文史精品</title></programme>
+  <programme start="DATE140000 +0800" stop="DATE150000 +0800" channel="cnr-lnzs"><title>养生音乐馆</title></programme>
+  <programme start="DATE150000 +0800" stop="DATE160000 +0800" channel="cnr-lnzs"><title>听书(重播)</title></programme>
+  <programme start="DATE160000 +0800" stop="DATE170000 +0800" channel="cnr-lnzs"><title>健康之家(重播)</title></programme>
+  <programme start="DATE170000 +0800" stop="DATE180000 +0800" channel="cnr-lnzs"><title>乐享时光(重播)</title></programme>
+  <programme start="DATE180000 +0800" stop="DATE190000 +0800" channel="cnr-lnzs"><title>笑口常开(重播)</title></programme>
+  <programme start="DATE190000 +0800" stop="DATE200000 +0800" channel="cnr-lnzs"><title>养生音乐馆</title></programme>
+  <programme start="DATE200000 +0800" stop="DATE210000 +0800" channel="cnr-lnzs"><title>戏曲舞台(重播)</title></programme>
+  <programme start="DATE210000 +0800" stop="DATE220000 +0800" channel="cnr-lnzs"><title>健康之家(重播)</title></programme>
+  <programme start="DATE220000 +0800" stop="DATE230000 +0800" channel="cnr-lnzs"><title>评书开讲(重播)</title></programme>
+  <programme start="DATE230000 +0800" stop="DATE235959 +0800" channel="cnr-lnzs"><title>伴你入眠</title></programme>
+
+  <!-- 中国交通广播 -->
+  <programme start="DATE060000 +0800" stop="DATE090000 +0800" channel="cnr-jtgb"><title>交通早班车</title></programme>
+  <programme start="DATE090000 +0800" stop="DATE120000 +0800" channel="cnr-jtgb"><title>路上早知道</title></programme>
+  <programme start="DATE120000 +0800" stop="DATE140000 +0800" channel="cnr-jtgb"><title>汽车时间</title></programme>
+  <programme start="DATE140000 +0800" stop="DATE170000 +0800" channel="cnr-jtgb"><title>高速路况</title></programme>
+  <programme start="DATE170000 +0800" stop="DATE190000 +0800" channel="cnr-jtgb"><title>晚高峰出行</title></programme>
+  <programme start="DATE190000 +0800" stop="DATE210000 +0800" channel="cnr-jtgb"><title>交通热线</title></programme>
+  <programme start="DATE210000 +0800" stop="DATE235959 +0800" channel="cnr-jtgb"><title>夜行指南</title></programme>
+
+  <!-- 北京交通广播 -->
+  <programme start="DATE053000 +0800" stop="DATE060000 +0800" channel="bj-1039"><title>动听天下</title></programme>
+  <programme start="DATE060000 +0800" stop="DATE063000 +0800" channel="bj-1039"><title>徐徐道来话北京</title></programme>
+  <programme start="DATE063000 +0800" stop="DATE073000 +0800" channel="bj-1039"><title>1039新闻早报</title></programme>
+  <programme start="DATE073000 +0800" stop="DATE093000 +0800" channel="bj-1039"><title>一路畅通</title></programme>
+  <programme start="DATE093000 +0800" stop="DATE100000 +0800" channel="bj-1039"><title>跃动的坐标</title></programme>
+  <programme start="DATE100000 +0800" stop="DATE110000 +0800" channel="bj-1039"><title>1039汽车天下</title></programme>
+  <programme start="DATE110000 +0800" stop="DATE120000 +0800" channel="bj-1039"><title>1039慧旅行</title></programme>
+  <programme start="DATE120000 +0800" stop="DATE130000 +0800" channel="bj-1039"><title>欢乐正前方</title></programme>
+  <programme start="DATE130000 +0800" stop="DATE133000 +0800" channel="bj-1039"><title>1039服务热线</title></programme>
+  <programme start="DATE153000 +0800" stop="DATE160000 +0800" channel="bj-1039"><title>1039汽车音乐时间</title></programme>
+  <programme start="DATE160000 +0800" stop="DATE170000 +0800" channel="bj-1039"><title>一路畅通</title></programme>
+  <programme start="DATE170000 +0800" stop="DATE190000 +0800" channel="bj-1039"><title>新闻要知道</title></programme>
+  <programme start="DATE190000 +0800" stop="DATE200000 +0800" channel="bj-1039"><title>1039都市调查组</title></programme>
+  <programme start="DATE200000 +0800" stop="DATE210000 +0800" channel="bj-1039"><title>动听天下(重播)</title></programme>
+  <programme start="DATE210000 +0800" stop="DATE213000 +0800" channel="bj-1039"><title>应急时刻</title></programme>
+  <programme start="DATE220000 +0800" stop="DATE230000 +0800" channel="bj-1039"><title>蓝调北京</title></programme>
+
+  <!-- 北京音乐广播 -->
+  <programme start="DATE060000 +0800" stop="DATE120000 +0800" channel="bj-974"><title>晨光音乐</title></programme>
+  <programme start="DATE120000 +0800" stop="DATE180000 +0800" channel="bj-974"><title>音乐下午茶</title></programme>
+  <programme start="DATE200000 +0800" stop="DATE220000 +0800" channel="bj-974"><title>974Live Show</title></programme>
+  <programme start="DATE220000 +0800" stop="DATE235959 +0800" channel="bj-974"><title>深夜电台</title></programme>
+
+  <!-- 北京新闻广播 -->
+  <programme start="DATE060000 +0800" stop="DATE070000 +0800" channel="bj-1006"><title>新闻晨报</title></programme>
+  <programme start="DATE070000 +0800" stop="DATE090000 +0800" channel="bj-1006"><title>北京新闻</title></programme>
+  <programme start="DATE090000 +0800" stop="DATE120000 +0800" channel="bj-1006"><title>时政访谈</title></programme>
+  <programme start="DATE120000 +0800" stop="DATE140000 +0800" channel="bj-1006"><title>文化范儿</title></programme>
+  <programme start="DATE140000 +0800" stop="DATE170000 +0800" channel="bj-1006"><title>新闻热线</title></programme>
+  <programme start="DATE170000 +0800" stop="DATE190000 +0800" channel="bj-1006"><title>京津冀之声转接</title></programme>
+
+  <!-- 北京文艺广播 -->
+  <programme start="DATE063000 +0800" stop="DATE073000 +0800" channel="bj-876"><title>早起听书</title></programme>
+  <programme start="DATE073000 +0800" stop="DATE090000 +0800" channel="bj-876"><title>空中笑林</title></programme>
+  <programme start="DATE090000 +0800" stop="DATE110000 +0800" channel="bj-876"><title>娱乐72变</title></programme>
+  <programme start="DATE110000 +0800" stop="DATE120000 +0800" channel="bj-876"><title>打开文化之门</title></programme>
+  <programme start="DATE170000 +0800" stop="DATE190000 +0800" channel="bj-876"><title>吃喝玩乐大搜索</title></programme>
+  <programme start="DATE190000 +0800" stop="DATE210000 +0800" channel="bj-876"><title>快乐旅行家</title></programme>
+
+  <!-- 重庆新闻广播 -->
+  <programme start="DATE063000 +0800" stop="DATE070000 +0800" channel="cq-968"><title>转播新闻和报纸摘要</title></programme>
+  <programme start="DATE070000 +0800" stop="DATE080000 +0800" channel="cq-968"><title>重庆早新闻</title></programme>
+  <programme start="DATE080000 +0800" stop="DATE100000 +0800" channel="cq-968"><title>菲姐说</title></programme>
+  <programme start="DATE100000 +0800" stop="DATE110000 +0800" channel="cq-968"><title>民呼我为</title></programme>
+  <programme start="DATE110000 +0800" stop="DATE120000 +0800" channel="cq-968"><title>968家长热线</title></programme>
+  <programme start="DATE120000 +0800" stop="DATE130000 +0800" channel="cq-968"><title>好个重庆城</title></programme>
+  <programme start="DATE130000 +0800" stop="DATE140000 +0800" channel="cq-968"><title>身边说法</title></programme>
+  <programme start="DATE163000 +0800" stop="DATE180000 +0800" channel="cq-968"><title>968晚高峰</title></programme>
+  <programme start="DATE183000 +0800" stop="DATE190000 +0800" channel="cq-968"><title>转播全国新闻联播</title></programme>
+
+  <!-- 重庆经济广播 -->
+  <programme start="DATE070000 +0800" stop="DATE120000 +0800" channel="cq-1015"><title>财经重庆</title></programme>
+  <programme start="DATE120000 +0800" stop="DATE140000 +0800" channel="cq-1015"><title>消费面对面</title></programme>
+  <programme start="DATE140000 +0800" stop="DATE170000 +0800" channel="cq-1015"><title>财富下午茶</title></programme>
+  <programme start="DATE170000 +0800" stop="DATE200000 +0800" channel="cq-1015"><title>经济夜话</title></programme>
+
+  <!-- 重庆交通广播 -->
+  <programme start="DATE070000 +0800" stop="DATE090000 +0800" channel="cq-955"><title>早安重庆·路况</title></programme>
+  <programme start="DATE090000 +0800" stop="DATE120000 +0800" channel="cq-955"><title>汽车CD</title></programme>
+  <programme start="DATE120000 +0800" stop="DATE140000 +0800" channel="cq-955"><title>出行服务台</title></programme>
+  <programme start="DATE170000 +0800" stop="DATE190000 +0800" channel="cq-955"><title>晚高峰路况</title></programme>
+  <programme start="DATE190000 +0800" stop="DATE210000 +0800" channel="cq-955"><title>交通热线</title></programme>
+
+  <!-- 重庆音乐广播 -->
+  <programme start="DATE000000 +0800" stop="DATE060000 +0800" channel="cq-881"><title>音乐永远在</title></programme>
+  <programme start="DATE060000 +0800" stop="DATE073000 +0800" channel="cq-881"><title>音乐风情之旅</title></programme>
+  <programme start="DATE073000 +0800" stop="DATE100000 +0800" channel="cq-881"><title>汽车CD早安秀</title></programme>
+  <programme start="DATE100000 +0800" stop="DATE120000 +0800" channel="cq-881"><title>最流行</title></programme>
+  <programme start="DATE170000 +0800" stop="DATE190000 +0800" channel="cq-881"><title>汽车音乐时间</title></programme>
+  <programme start="DATE190000 +0800" stop="DATE220000 +0800" channel="cq-881"><title>非常可乐帮</title></programme>
+
+  <!-- 重庆都市广播 -->
+  <programme start="DATE070000 +0800" stop="DATE120000 +0800" channel="cq-938"><title>都市早班车</title></programme>
+  <programme start="DATE120000 +0800" stop="DATE150000 +0800" channel="cq-938"><title>城市生活家</title></programme>
+  <programme start="DATE150000 +0800" stop="DATE180000 +0800" channel="cq-938"><title>吃喝玩乐在重庆</title></programme>
+  <programme start="DATE180000 +0800" stop="DATE210000 +0800" channel="cq-938"><title>都市夜话</title></programme>
+
+  <!-- 甘肃新闻综合广播 -->
+  <programme start="DATE063000 +0800" stop="DATE070000 +0800" channel="gs-961"><title>转播新闻和报纸摘要</title></programme>
+  <programme start="DATE070000 +0800" stop="DATE090000 +0800" channel="gs-961"><title>甘肃新闻</title></programme>
+  <programme start="DATE090000 +0800" stop="DATE120000 +0800" channel="gs-961"><title>丝路讲堂</title></programme>
+  <programme start="DATE120000 +0800" stop="DATE140000 +0800" channel="gs-961"><title>陇原大地</title></programme>
+  <programme start="DATE140000 +0800" stop="DATE170000 +0800" channel="gs-961"><title>新闻热线</title></programme>
+  <programme start="DATE183000 +0800" stop="DATE190000 +0800" channel="gs-961"><title>转播全国新闻联播</title></programme>
+
+  <!-- 甘肃交通广播 -->
+  <programme start="DATE060000 +0800" stop="DATE070000 +0800" channel="gs-1035"><title>交广早报</title></programme>
+  <programme start="DATE070000 +0800" stop="DATE090000 +0800" channel="gs-1035"><title>路况信息 交警指路</title></programme>
+  <programme start="DATE090000 +0800" stop="DATE110000 +0800" channel="gs-1035"><title>完美车时代</title></programme>
+  <programme start="DATE110000 +0800" stop="DATE120000 +0800" channel="gs-1035"><title>一路秀逍遥</title></programme>
+  <programme start="DATE120000 +0800" stop="DATE123000 +0800" channel="gs-1035"><title>资讯餐吧</title></programme>
+  <programme start="DATE173000 +0800" stop="DATE190000 +0800" channel="gs-1035"><title>有我陪着你</title></programme>
+  <programme start="DATE193000 +0800" stop="DATE200000 +0800" channel="gs-1035"><title>汽车音乐榜</title></programme>

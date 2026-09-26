@@ -38,6 +38,14 @@ OUT_GZ_PATH = os.path.join(OUT_DIR, "epg.xml.gz")
 OUT_GZ_SHORT = os.path.join(OUT_DIR, "epg.gz")
 JSON_ROOT = os.path.join(OUT_DIR, "epg")
 
+# —— 广播电台 EPG（自包含，无网络依赖，并入现役管线统一生成/部署）——
+RADIO_TEMPLATE = os.path.join(OUT_DIR, "radio_template.xml")
+RADIO_OUT = os.path.join(OUT_DIR, "radio.xml")
+RADIO_GZ = os.path.join(OUT_DIR, "radio.xml.gz")
+RADIO_GZ_SHORT = os.path.join(OUT_DIR, "radio.gz")
+RADIO_DAYS = 7
+RADIO_MARKER = "<!-- @PROGRAMMES@ -->"
+
 UA = "Mozilla/5.0 (compatible; dx-epg/1.0)"
 TIMEOUT = 60
 RETRIES = 3
@@ -200,7 +208,56 @@ def write_daily_json(xml_bytes: bytes) -> int:
     return files
 
 
-def main() -> int:
+def expand_radio_dt(m: "re.Match", base_day: datetime.date) -> str:
+    s = m.group(1)
+    hh = int(s[0:2])
+    mm = int(s[2:4])
+    ss = int(s[4:6])
+    carry = hh // 24
+    hh = hh % 24
+    day = base_day + timedelta(days=carry)
+    return day.strftime("%Y%m%d") + " " + f"{hh:02d}{mm:02d}{ss:02d}"
+
+
+def generate_radio_epg() -> int:
+    if not os.path.isfile(RADIO_TEMPLATE):
+        print("[radio] 模板 radio_template.xml 缺失，跳过")
+        return 1
+    text = open(RADIO_TEMPLATE, encoding="utf-8").read()
+    if RADIO_MARKER not in text:
+        print("[radio] 模板缺少分隔标记，跳过")
+        return 1
+    head, _, tail = text.partition(RADIO_MARKER)
+    tail = tail.replace("</tv>", "").strip()
+    today = datetime.now(TZ8).date()
+    days_blocks: list[str] = []
+    for i in range(RADIO_DAYS):
+        day = today + timedelta(days=i)
+        block = re.sub(r"DATE(\d{6})", lambda m, d=day: expand_radio_dt(m, d), tail)
+        days_blocks.append(block)
+    xml = head.rstrip() + "\n" + "\n".join(days_blocks) + "\n</tv>\n"
+    data = xml.encode("utf-8")
+    try:
+        ET.fromstring(data)
+    except ET.ParseError as e:
+        print(f"[radio] XML 解析失败: {e}")
+        return 1
+    with open(RADIO_OUT, "wb") as f:
+        f.write(data)
+    gz_blob = gzip.compress(data, compresslevel=9)
+    with open(RADIO_GZ, "wb") as f:
+        f.write(gz_blob)
+    with open(RADIO_GZ_SHORT, "wb") as f:
+        f.write(gz_blob)
+    gz_kb = len(gz_blob) // 1024
+    print(
+        f"[radio] 写出 radio.xml（{len(data) // 1024} KB）与 gzip（{gz_kb} KB），"
+        f"铺开 {RADIO_DAYS} 天（{today.isoformat()} 起）"
+    )
+    return 0
+
+
+def _run_tv() -> int:
     last_err = None
     primary = EPG_SOURCES[0]
     for src in EPG_SOURCES:
@@ -263,6 +320,21 @@ def main() -> int:
                 time.sleep(RETRY_SLEEP)
     print(f"[epg] 全部上游源均失败：{last_err}", file=sys.stderr)
     return 1
+
+
+def main() -> int:
+    # 广播 EPG 自包含（无网络依赖），先生成，确保即便电视上游临时失效也照常部署
+    radio_ok = False
+    try:
+        generate_radio_epg()
+        radio_ok = True
+    except Exception as e:  # noqa: BLE001
+        print(f"[radio] 生成异常: {e}", file=sys.stderr)
+    tv_rc = _run_tv()
+    if not radio_ok:
+        return 1
+    # 广播产物为本任务核心交付；电视上游临时失败不阻断 Pages 部署（已在日志告警）
+    return 0
 
 
 if __name__ == "__main__":
